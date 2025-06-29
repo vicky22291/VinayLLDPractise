@@ -1,0 +1,44 @@
+classDiagram
+    Logger *-- LoggingService
+
+    Runnable <|-- Trigger
+    Trigger <|-- ScheduledTrigger
+
+    LoggingService <|-- LoggingServiceImpl
+    Closeable <|-- LoggingServiceImpl
+
+    ScheduledTrigger *-- LoggingServiceImpl
+    LoggingServiceImpl *-- Storage
+
+    Closeable <|-- Storage
+    Storage <|-- FileStorage
+    class Logger {
+        +write(logString: String)
+    }
+    class LoggingService {
+        +write(logString: String)
+        +bufferedFlush()
+    }
+    <<interface>> LoggingService
+    class LoggingServiceImpl {
+        -buffer[]
+        +write(logString: String)
+        +bufferedFlush()
+        -close()
+    }
+    class Trigger {
+        +run()
+    }
+    class ScheduledTrigger {
+        -scheduledSingleExecutor
+    }
+    class Storage {
+        +flush(content: String)
+    }
+    class FileStorage {
+        -file
+        -rotationUnit
+        -rotateFile()
+        -identifyChange()
+        +flush(content: String)
+    }

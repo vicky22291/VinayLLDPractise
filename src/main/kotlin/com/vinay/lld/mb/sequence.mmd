@@ -1,0 +1,64 @@
+---
+config:
+  theme: base
+  themeVariables:
+    primaryColor: "#d0d0d0"       # Node/participant background
+    textColor: "#222"             # Main text color
+    signalColor: "#909090"        # Arrow line color
+    signalTextColor: "#909040"    # Arrow label text color
+---
+sequenceDiagram
+    autonumber
+    participant pdc as Producer
+    participant mbs as MessageBrokerService
+    participant rutr as RouterService
+    participant reg as TopicRegister
+    participant qFct as ConsumerQueueFactory
+    participant q as ConsumerQueue
+    participant cns as Consumer
+
+    rect rgb(255,255,255)
+        Note over pdc, mbs: Producer Flow
+        pdc ->> mbs: Send Message with Topic inside
+        mbs -->> pdc: Confirmation
+    end
+
+    rect rgb(255, 255, 255)
+        Note over mbs, cns: Consumer Topic Registration Flow
+        cns ->> mbs: Register (ID) to Topic ABC
+        mbs ->> reg: Register Consumer (ID) to Topic ABC
+        reg ->> qFct: Create a new Queue for <br/>Consumer (ID) and Topic
+        qFct ->> q: GetQ
+        q -->> qFct: New Consumer Queue ID
+        qFct -->> reg: New Consumer Queue ID
+        reg -->> mbs: New Consumer Queue ID
+        mbs -->> cns: New Consumer Queue ID
+    end
+
+    rect rgb(255, 255, 255)
+        Note over pdc, q: Message Routing
+        pdc ->> mbs: Message
+        mbs -->> pdc: Confirmation
+        mbs ->> rutr: route(Message)
+        rutr -->> mbs: Ack
+        rutr ->> reg: getRegistrations(topic)
+        reg -->> rutr: Topic Registrations Map <br/> <String, List<String>><br/> list of consumer queue ids
+        loop Each Consumer queue id
+            loop Exponential Retry Policy of (3 times) if failed
+                rutr ->> q: Send(Message, QueueID)
+                q --> rutr: Confirm
+            end
+        end
+    end
+
+    rect rgb(255, 255, 255)
+        Note over q, ConsumerQ_DLQ: Consumer consuming messages
+        alt if successful
+            loop Retry X Times until successful
+                cns ->> q: recieve(Consumer Queue ID)<br/> List<Message>
+                q -->> cns: List of Messages
+            end
+        else
+            cns ->> ConsumerQ_DLQ: Message
+        end
+    end

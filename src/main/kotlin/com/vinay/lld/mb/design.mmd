@@ -1,0 +1,60 @@
+classDiagram
+    Producer *-- MessageBrokerClient
+    Producer *-- Message
+    MessageBrokerClient -- MessageBrokerService
+    Message -- MessageBrokerClient
+    Message -- MessageBrokerService
+    MessageBrokerService *-- TopicRegister
+    MessageBrokerService *-- RouterService
+    RouterService *-- TopicRegister
+    TopicRegister *-- ConsumerQueueFactory
+    ConsumerQueueFactory *-- ConsumerQueue
+    ConsumerQueue -- Consumer
+    class Producer {
+        +produce()
+    }
+    class MessageBrokerClient {
+        +send(Message)
+    }
+    class Message {
+        -attributes: map<String, Value>
+        -content: String
+        -time: DateTime
+        -id: String
+        -numberOfReads: int
+        -topic: String
+    }
+    class MessageBrokerService {
+        -topicRegister: TopicRegister
+        -router: RouterService
+        +send(Message)
+        +registerTo(topic, consumerID)
+        -route(Message)
+    }
+    class TopicRegister {
+        <<Singleton>>
+        -ConsumerQueueFactory
+        -topicConsumerMap: Map<topic, ConsumerQueue>
+        +register(topic, consumer)
+        -snapshotRegistrations()
+    }
+    class ConsumerQueueFactory {
+        <<Singleton>>
+        +getQ(topic, consumerID)
+    }
+    class ConsumerQueue {
+        -topic
+        -consumerID
+        #put(Message)
+        +get() List<Message>
+    }
+    class RouterService {
+        -topicRegister TopicRegister
+        +calculateAndRoute(Message)
+    }
+    class Consumer {
+        -id: String
+        -queue: ConsumerQueue
+        +register(topic)
+        +consume()
+    }
