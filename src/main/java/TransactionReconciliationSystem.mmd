@@ -1,0 +1,58 @@
+classDiagram
+%% Core Models
+    class Transaction {
+        - id: String
+        - amount: BigDecimal
+        - status: TransactionStatus
+        - timestamp: LocalDateTime
+        - providerRefId: String
+        - type: TransactionType
+    }
+
+    class ExternalTransaction {
+        - externalId: String
+        - amount: BigDecimal
+        - status: String
+        - timestamp: LocalDateTime
+        - source: ProviderType
+    }
+
+%% Reconciliation Engine
+    class ReconciliationResult {
+        - internalTransactionId: String
+        - externalTransactionId: String
+        - status: ReconciliationStatus
+        - notes: String
+    }
+
+    class ReconciliationEngine {
+        + reconcile(provider: ProviderType): void
+        + registerStrategy(provider: ProviderType, strategy: ReconciliationStrategy): void
+    }
+
+    class ReconciliationStrategy {
+        <<interface>>
+        + match(internal: List~Transaction~, external: List~ExternalTransaction~): List~ReconciliationResult~
+    }
+
+    class StripeReconciliationStrategy
+    class PaypalReconciliationStrategy
+    class BankStatementReconciliationStrategy
+
+%% Notification / Observer
+    class ReconciliationListener {
+        <<interface>>
+        + onMismatch(result: ReconciliationResult): void
+    }
+
+    class AlertService
+    class AuditLogger
+
+%% Relationships
+    ReconciliationEngine --> ReconciliationStrategy : uses
+    ReconciliationStrategy <|.. StripeReconciliationStrategy
+    ReconciliationStrategy <|.. PaypalReconciliationStrategy
+    ReconciliationStrategy <|.. BankStatementReconciliationStrategy
+    ReconciliationEngine --> ReconciliationListener : notifies
+    ReconciliationListener <|.. AlertService
+    ReconciliationListener <|.. AuditLogger

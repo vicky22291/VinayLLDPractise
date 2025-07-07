@@ -1,0 +1,80 @@
+classDiagram
+%% Core Subscription/Billing classes
+    class Subscription {
+        - id: String
+        - status: SubscriptionStatus
+        - nextBillingDate: Date
+        - trialEndDate: Date
+        - plan: BillingPlan
+        - paymentMethod: PaymentMethod
+        + renew()
+        + cancel()
+    }
+    class BillingPlan {
+        <<interface>>
+        + getInterval(): BillingInterval
+        + getPrice(): Money
+        + calculateNextBillingDate(lastDate: Date): Date
+    }
+    class MonthlyPlan {
+        + getInterval() : BillingInterval
+        + getPrice() : Money
+        + calculateNextBillingDate(lastDate: Date): Date
+    }
+    class AnnualPlan {
+        + getInterval() : BillingInterval
+        + getPrice() : Money
+        + calculateNextBillingDate(lastDate: Date): Date
+    }
+%% Payment method and processor classes
+    class PaymentMethod {
+        <<interface>>
+        + getType(): PaymentType
+        + getDetails(): Map
+    }
+    class CreditCardMethod {
+        + getType(): PaymentType
+        + getDetails(): Map
+        - cardNumber: String
+        - expiryDate: Date
+        - cardHolderName: String
+    }
+    class BankAccountMethod {
+        + getType(): PaymentType
+        + getDetails(): Map
+        - accountNumber: String
+        - bankCode: String
+        - accountHolderName: String
+    }
+    class PaymentProcessor {
+        <<abstract>>
+        + processPayment(subscription: Subscription): PaymentResult
+        # validatePayment(subscription: Subscription): void
+        # executePayment(subscription: Subscription): PaymentResult
+        # onPaymentFailure(subscription: Subscription, result: PaymentResult): void
+        # onPaymentSuccess(subscription: Subscription, result: PaymentResult): void
+    }
+    class CreditCardProcessor {
+        + processPayment(subscription: Subscription): PaymentResult
+        - gatewayAPI: CreditCardGatewayAPI
+    }
+    class BankTransferProcessor {
+        + processPayment(subscription: Subscription): PaymentResult
+        - bankAPI: BankTransferAPI
+    }
+    class BillingService {
+        + processDuePayments(): void
+        + registerProcessor(type: PaymentType, processor: PaymentProcessor): void
+    }
+
+%% Relationships
+    Subscription --> BillingPlan : uses
+    Subscription --> PaymentMethod : uses
+    BillingPlan <|.. MonthlyPlan
+    BillingPlan <|.. AnnualPlan
+    PaymentMethod <|.. CreditCardMethod
+    PaymentMethod <|.. BankAccountMethod
+    PaymentProcessor <|-- CreditCardProcessor
+    PaymentProcessor <|-- BankTransferProcessor
+    BillingService o.. Subscription : manages *
+    BillingService --> PaymentProcessor : <<uses>>

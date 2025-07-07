@@ -1,5 +1,7 @@
 plugins {
     id 'java'
+    id 'io.freefair.lombok' version '8.6'
+    id 'org.jetbrains.kotlin.jvm'
 }
 
 group = 'com.vinay.lld'
@@ -15,9 +17,17 @@ dependencies {
     implementation 'com.google.guava:guava:32.0.1-android'
 
     testImplementation platform('org.junit:junit-bom:5.10.0')
-    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0'
+    testImplementation 'org.mockito:mockito-core:5.17.0'
+    testImplementation 'net.bytebuddy:byte-buddy:1.15.11'
+    testImplementation 'org.mockito:mockito-junit-jupiter:5.17.0'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
 }
 
 test {
     useJUnitPlatform()
+}
+
+kotlin {
+    jvmToolchain(23)
 }

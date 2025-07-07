@@ -29,11 +29,18 @@ public class FileStorage implements Storage {
     @Override
     public void flush(@Nonnull Content content) throws IOException {
 
-        final List<String> lines = content.logLines().stream().filter(s -> s != null).toList();
+        final List<String> lines = content.logLines();
         if (!lines.isEmpty()) {
-            final String value = String.join("\n", content.logLines().stream().filter(s -> s != null).toList());
-            this.writer.write(value);
-            this.writer.newLine();
+            lines.stream().forEach(s -> {
+                try {
+                    this.writer.write(s);
+                    this.writer.newLine();
+                } catch (IOException e) {
+                    throw new RuntimeException(e);
+                }
+            });
+            // this.writer.write(value);
+            // this.writer.newLine();
         }
         this.writer.flush();
     }
