@@ -9,6 +9,6 @@ public enum Currency {
     private final String symbol;
 
     Currency(final String symbol) {
-        this.symbol = symbol
+        this.symbol = symbol;
     }
 }
