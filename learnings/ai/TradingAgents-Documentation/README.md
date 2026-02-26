@@ -15,7 +15,7 @@ This documentation includes **14+ Mermaid diagrams** for visual understanding:
 
 This documentation is organized into six focused guides, each covering a specific aspect of the TradingAgents system:
 
-### 📘 [01 - Overview](./01-OVERVIEW.md)
+### 📘 [01 - Overview](01-OVERVIEW.md)
 **Start here if you're new to TradingAgents**
 
 - What is TradingAgents?
@@ -30,7 +30,7 @@ This documentation is organized into six focused guides, each covering a specifi
 
 ---
 
-### 🏗️ [02 - Architecture](./02-ARCHITECTURE.md)
+### 🏗️ [02 - Architecture](02-ARCHITECTURE.md)
 **Deep dive into system design and workflow**
 
 - System architecture overview
@@ -48,7 +48,7 @@ This documentation is organized into six focused guides, each covering a specifi
 
 ---
 
-### 🤖 [03 - Agent System](./03-AGENT-SYSTEM.md)
+### 🤖 [03 - Agent System](03-AGENT-SYSTEM.md)
 **Detailed documentation of all 10+ agent types**
 
 - Agent hierarchy overview
@@ -76,7 +76,7 @@ This documentation is organized into six focused guides, each covering a specifi
 
 ---
 
-### ⚙️ [04 - Configuration Guide](./04-CONFIGURATION-GUIDE.md)
+### ⚙️ [04 - Configuration Guide](04-CONFIGURATION-GUIDE.md)
 **Complete configuration reference**
 
 - Default configuration
@@ -94,7 +94,7 @@ This documentation is organized into six focused guides, each covering a specifi
 
 ---
 
-### 💻 [05 - Usage Guide](./05-USAGE-GUIDE.md)
+### 💻 [05 - Usage Guide](05-USAGE-GUIDE.md)
 **Practical integration patterns and code examples**
 
 - Quick start
@@ -119,7 +119,7 @@ This documentation is organized into six focused guides, each covering a specifi
 
 ---
 
-### 📊 [06 - Data Flow and Vendors](./06-DATA-FLOW-AND-VENDORS.md)
+### 📊 [06 - Data Flow and Vendors](06-DATA-FLOW-AND-VENDORS.md)
 **Understanding data sources and vendor management**
 
 - Data flow architecture
@@ -151,41 +151,41 @@ This documentation is organized into six focused guides, each covering a specifi
 ### By User Type
 
 **👨‍💼 Business/Strategy Users**
-1. Start with [Overview](./01-OVERVIEW.md) to understand capabilities
-2. Read [Agent System](./03-AGENT-SYSTEM.md) to see how decisions are made
-3. Check [Configuration Guide](./04-CONFIGURATION-GUIDE.md) for strategy profiles
+1. Start with [Overview](01-OVERVIEW.md) to understand capabilities
+2. Read [Agent System](03-AGENT-SYSTEM.md) to see how decisions are made
+3. Check [Configuration Guide](04-CONFIGURATION-GUIDE.md) for strategy profiles
 
 **👨‍💻 Developers/Integrators**
-1. Start with [Overview](./01-OVERVIEW.md) for context
-2. Read [Architecture](./02-ARCHITECTURE.md) for technical understanding
-3. Follow [Usage Guide](./05-USAGE-GUIDE.md) for integration patterns
-4. Reference [Configuration Guide](./04-CONFIGURATION-GUIDE.md) as needed
+1. Start with [Overview](01-OVERVIEW.md) for context
+2. Read [Architecture](02-ARCHITECTURE.md) for technical understanding
+3. Follow [Usage Guide](05-USAGE-GUIDE.md) for integration patterns
+4. Reference [Configuration Guide](04-CONFIGURATION-GUIDE.md) as needed
 
 **🔬 Researchers/Academics**
-1. Start with [Overview](./01-OVERVIEW.md) and [Architecture](./02-ARCHITECTURE.md)
-2. Deep dive into [Agent System](./03-AGENT-SYSTEM.md) for multi-agent dynamics
-3. Study [Data Flow](./06-DATA-FLOW-AND-VENDORS.md) for data handling
+1. Start with [Overview](01-OVERVIEW.md) and [Architecture](02-ARCHITECTURE.md)
+2. Deep dive into [Agent System](03-AGENT-SYSTEM.md) for multi-agent dynamics
+3. Study [Data Flow](06-DATA-FLOW-AND-VENDORS.md) for data handling
 
 **💰 Traders/Analysts**
-1. Read [Overview](./01-OVERVIEW.md) to understand the framework
-2. Check [Agent System](./03-AGENT-SYSTEM.md) to understand analysis layers
-3. Use [Usage Guide](./05-USAGE-GUIDE.md) for practical examples
-4. Configure with [Configuration Guide](./04-CONFIGURATION-GUIDE.md)
+1. Read [Overview](01-OVERVIEW.md) to understand the framework
+2. Check [Agent System](03-AGENT-SYSTEM.md) to understand analysis layers
+3. Use [Usage Guide](05-USAGE-GUIDE.md) for practical examples
+4. Configure with [Configuration Guide](04-CONFIGURATION-GUIDE.md)
 
 ### By Task
 
 | Task | Relevant Documentation |
 |------|----------------------|
-| **Getting started** | [Overview](./01-OVERVIEW.md) |
-| **Understanding how it works** | [Architecture](./02-ARCHITECTURE.md) |
-| **Customizing agents** | [Agent System](./03-AGENT-SYSTEM.md) |
-| **Changing LLMs or settings** | [Configuration Guide](./04-CONFIGURATION-GUIDE.md) |
-| **Integrating into application** | [Usage Guide](./05-USAGE-GUIDE.md) |
-| **Adding data sources** | [Data Flow](./06-DATA-FLOW-AND-VENDORS.md) |
-| **Optimizing costs** | [Configuration Guide](./04-CONFIGURATION-GUIDE.md) §3 |
-| **Backtesting strategies** | [Usage Guide](./05-USAGE-GUIDE.md) §1.4 |
-| **Understanding decisions** | [Agent System](./03-AGENT-SYSTEM.md) |
-| **Troubleshooting** | [Configuration Guide](./04-CONFIGURATION-GUIDE.md) §11, [Data Flow](./06-DATA-FLOW-AND-VENDORS.md) §10 |
+| **Getting started** | [Overview](01-OVERVIEW.md) |
+| **Understanding how it works** | [Architecture](02-ARCHITECTURE.md) |
+| **Customizing agents** | [Agent System](03-AGENT-SYSTEM.md) |
+| **Changing LLMs or settings** | [Configuration Guide](04-CONFIGURATION-GUIDE.md) |
+| **Integrating into application** | [Usage Guide](05-USAGE-GUIDE.md) |
+| **Adding data sources** | [Data Flow](06-DATA-FLOW-AND-VENDORS.md) |
+| **Optimizing costs** | [Configuration Guide](04-CONFIGURATION-GUIDE.md) §3 |
+| **Backtesting strategies** | [Usage Guide](05-USAGE-GUIDE.md) §1.4 |
+| **Understanding decisions** | [Agent System](03-AGENT-SYSTEM.md) |
+| **Troubleshooting** | [Configuration Guide](04-CONFIGURATION-GUIDE.md) §11, [Data Flow](06-DATA-FLOW-AND-VENDORS.md) §10 |
 
 ---
 
@@ -233,7 +233,7 @@ ta = TradingAgentsGraph(debug=True, config=DEFAULT_CONFIG.copy())
 final_state, decision = ta.propagate("NVDA", "2024-05-10")
 print(f"Decision: {decision}")
 ```
-See: [Usage Guide §1](./05-USAGE-GUIDE.md#1-single-stock-analysis)
+See: [Usage Guide §1](05-USAGE-GUIDE.md#1-single-stock-analysis)
 
 ### 2. Multi-Stock Screening
 ```python
@@ -241,7 +241,7 @@ watchlist = ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA"]
 results = screen_stocks(watchlist)
 print(f"BUY signals: {len(results['buy'])}")
 ```
-See: [Usage Guide §1.2](./05-USAGE-GUIDE.md#2-multi-stock-screening)
+See: [Usage Guide §1.2](05-USAGE-GUIDE.md#2-multi-stock-screening)
 
 ### 3. Custom Configuration
 ```python
@@ -254,7 +254,7 @@ ta = TradingAgentsGraph(
     config=config
 )
 ```
-See: [Configuration Guide §2](./04-CONFIGURATION-GUIDE.md#2-model-selection)
+See: [Configuration Guide §2](04-CONFIGURATION-GUIDE.md#2-model-selection)
 
 ### 4. Learning from Outcomes
 ```python
@@ -266,35 +266,35 @@ ta.reflect_and_remember({
     "decision": "BUY"
 })
 ```
-See: [Usage Guide §1.5](./05-USAGE-GUIDE.md#5-learning-from-outcomes-reflection)
+See: [Usage Guide §1.5](05-USAGE-GUIDE.md#5-learning-from-outcomes-reflection)
 
 ---
 
 ## Common Questions
 
 ### Q: Where do I start?
-**A**: Read [01-Overview](./01-OVERVIEW.md) first, then try the quick start example.
+**A**: Read [01-Overview](01-OVERVIEW.md) first, then try the quick start example.
 
 ### Q: How do I reduce costs?
-**A**: See [Configuration Guide §2.3](./04-CONFIGURATION-GUIDE.md#3-cost-optimization-strategies) for cost optimization strategies.
+**A**: See [Configuration Guide §2.3](04-CONFIGURATION-GUIDE.md#3-cost-optimization-strategies) for cost optimization strategies.
 
 ### Q: Can I use different LLM providers?
-**A**: Yes! See [Configuration Guide §2.1](./04-CONFIGURATION-GUIDE.md#1-llm-provider-selection) for OpenAI, Anthropic, Google, and Ollama support.
+**A**: Yes! See [Configuration Guide §2.1](04-CONFIGURATION-GUIDE.md#1-llm-provider-selection) for OpenAI, Anthropic, Google, and Ollama support.
 
 ### Q: How do I add custom data sources?
-**A**: See [Data Flow §11](./06-DATA-FLOW-AND-VENDORS.md#extending-the-data-layer) for vendor extension guide.
+**A**: See [Data Flow §11](06-DATA-FLOW-AND-VENDORS.md#extending-the-data-layer) for vendor extension guide.
 
 ### Q: What agents are involved in decisions?
-**A**: See [Agent System](./03-AGENT-SYSTEM.md) for complete breakdown of all 10+ agent types.
+**A**: See [Agent System](03-AGENT-SYSTEM.md) for complete breakdown of all 10+ agent types.
 
 ### Q: How do I integrate into my trading bot?
-**A**: See [Usage Guide §2](./05-USAGE-GUIDE.md#integration-patterns) for REST API, database, and webhook patterns.
+**A**: See [Usage Guide §2](05-USAGE-GUIDE.md#integration-patterns) for REST API, database, and webhook patterns.
 
 ### Q: Can I backtest strategies?
-**A**: Yes! See [Usage Guide §1.4](./05-USAGE-GUIDE.md#4-backtesting-framework) for backtesting implementation.
+**A**: Yes! See [Usage Guide §1.4](05-USAGE-GUIDE.md#4-backtesting-framework) for backtesting implementation.
 
 ### Q: How does memory work?
-**A**: See [Architecture §5](./02-ARCHITECTURE.md#5-memory-system) and [Agent System §12](./03-AGENT-SYSTEM.md#memory-system-integration) for memory details.
+**A**: See [Architecture §5](02-ARCHITECTURE.md#5-memory-system) and [Agent System §12](03-AGENT-SYSTEM.md#memory-system-integration) for memory details.
 
 ---
 
