@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8149b8a-2279-4f46-8067-3043f6bcb5ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ learnings/ai/claude-cowork-visual-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/claude-cowork-visual-guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ learnings/ai/personal-brain-os-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/personal-brain-os-guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/Karpathy-Guidelines-Skill.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/Karpathy-Guidelines-Skill.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/Mission-Control-AI-Agent-Squad-Guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/Mission-Control-AI-Agent-Squad-Guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/TradingAgents-Documentation/01-OVERVIEW.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/TradingAgents-Documentation/01-OVERVIEW.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/TradingAgents-Documentation/02-ARCHITECTURE.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/TradingAgents-Documentation/02-ARCHITECTURE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/TradingAgents-Documentation/03-AGENT-SYSTEM.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/TradingAgents-Documentation/03-AGENT-SYSTEM.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/TradingAgents-Documentation/04-CONFIGURATION-GUIDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/TradingAgents-Documentation/04-CONFIGURATION-GUIDE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/TradingAgents-Documentation/05-USAGE-GUIDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/TradingAgents-Documentation/05-USAGE-GUIDE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/TradingAgents-Documentation/06-DATA-FLOW-AND-VENDORS.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/TradingAgents-Documentation/06-DATA-FLOW-AND-VENDORS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/TradingAgents-Documentation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/TradingAgents-Documentation/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/claude-supermemory.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/claude-supermemory.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/clawdbot/Clawdbot_Memory_Architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/clawdbot/Clawdbot_Memory_Architecture.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/clawdbot/Understanding-OpenClaw-ClawdBot.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/clawdbot/Understanding-OpenClaw-ClawdBot.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/mem0/mem0-architecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/mem0/mem0-architecture.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/pageindex/PageIndex_Guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/pageindex/PageIndex_Guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnings/self-improving-ai.md" beforeDir="false" afterPath="$PROJECT_DIR$/learnings/ai/self-improving-ai.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.claude/settings.local.json" beforeDir="false" afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,44 +18,76 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="lld-practise" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vicky22291"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vicky22291&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vicky22291/VinayLLDPractise.git",
-    "accountId": "ff391821-8c71-478c-9198-9ff7e21ab113"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vicky22291/VinayLLDPractise.git&quot;,
+    &quot;accountId&quot;: &quot;ff391821-8c71-478c-9198-9ff7e21ab113&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3AAthSgkZy6HXqMYfUSOSR5UmE7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/learnings/ai" />
       <recent name="$PROJECT_DIR$/learnings" />
       <recent name="$PROJECT_DIR$/ learnings/ai" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="lld-practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="lld-practise" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
