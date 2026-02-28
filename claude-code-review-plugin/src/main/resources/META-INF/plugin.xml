@@ -1,0 +1,128 @@
+<idea-plugin>
+    <id>com.uber.jetbrains.reviewplugin</id>
+    <name>Claude Code Review</name>
+    <vendor>Vinay Yerra</vendor>
+    <description><![CDATA[
+        Inline review comments with Claude Code integration.
+        Add review comments to Markdown files and Git diffs,
+        publish them as structured JSON, and reload Claude's responses
+        directly in the IDE.
+    ]]></description>
+
+    <!-- Dependencies -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>Git4Idea</depends>
+    <depends>org.intellij.plugins.markdown</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <projectService
+            serviceImplementation="com.uber.jetbrains.reviewplugin.services.StorageManager"/>
+        <projectService
+            serviceImplementation="com.uber.jetbrains.reviewplugin.services.ReviewModeService"/>
+        <projectService
+            serviceImplementation="com.uber.jetbrains.reviewplugin.services.CommentService"/>
+
+        <!-- Gutter Icons -->
+        <codeInsight.lineMarkerProvider language=""
+            implementationClass="com.uber.jetbrains.reviewplugin.ui.ReviewLineMarkerProvider"/>
+
+        <!-- Editor Highlights -->
+        <editorFactoryListener
+            implementation="com.uber.jetbrains.reviewplugin.ui.ReviewEditorListener"/>
+
+        <!-- Tool Window -->
+        <toolWindow id="Claude Code Review" anchor="right" secondary="true"
+            factoryClass="com.uber.jetbrains.reviewplugin.ui.ReviewToolWindowFactory"/>
+
+        <!-- Status Bar -->
+        <statusBarWidgetFactory id="ReviewModeStatus"
+            implementation="com.uber.jetbrains.reviewplugin.ui.ReviewStatusBarWidgetFactory"/>
+
+        <!-- Notification Group -->
+        <notificationGroup id="ReviewPlugin" displayType="BALLOON"/>
+
+        <!-- Startup Activity -->
+        <postStartupActivity
+            implementation="com.uber.jetbrains.reviewplugin.listeners.ReviewFileWatcherStartup"/>
+    </extensions>
+
+    <actions>
+        <!-- Markdown Review -->
+        <action id="ReviewPlugin.StartMarkdownReview"
+                class="com.uber.jetbrains.reviewplugin.actions.StartMarkdownReviewAction"
+                text="Review this Markdown"
+                description="Start inline review of this Markdown file">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+            <add-to-group group-id="ProjectViewPopupMenu" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl shift R"/>
+        </action>
+
+        <!-- Add Comment -->
+        <action id="ReviewPlugin.AddComment"
+                class="com.uber.jetbrains.reviewplugin.actions.AddCommentAction"
+                text="Add Review Comment"
+                description="Add a review comment at the current line">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl shift C"/>
+        </action>
+
+        <!-- Edit Comment (triggered from gutter icon click on existing comments) -->
+        <action id="ReviewPlugin.EditComment"
+                class="com.uber.jetbrains.reviewplugin.actions.EditCommentAction"
+                text="Edit Review Comment"
+                description="Edit an existing review comment"/>
+
+        <!-- Publish Review -->
+        <action id="ReviewPlugin.PublishReview"
+                class="com.uber.jetbrains.reviewplugin.actions.PublishReviewAction"
+                text="Publish Review"
+                description="Publish all comments to .review/ file">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl shift P"/>
+        </action>
+
+        <!-- Reload Responses -->
+        <action id="ReviewPlugin.ReloadResponses"
+                class="com.uber.jetbrains.reviewplugin.actions.ReloadResponsesAction"
+                text="Reload Responses"
+                description="Reload Claude responses from .review/ file">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl shift L"/>
+        </action>
+
+        <!-- Diff Review -->
+        <action id="ReviewPlugin.StartDiffReview"
+                class="com.uber.jetbrains.reviewplugin.actions.StartDiffReviewAction"
+                text="Review the Diff"
+                description="Review branch changes with inline comments">
+            <add-to-group group-id="VcsGroups" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl shift D"/>
+        </action>
+
+        <!-- Complete Review -->
+        <action id="ReviewPlugin.CompleteReview"
+                class="com.uber.jetbrains.reviewplugin.actions.CompleteReviewAction"
+                text="Complete Review"
+                description="Mark review as complete and archive the review file"/>
+
+        <!-- Reject Review -->
+        <action id="ReviewPlugin.RejectReview"
+                class="com.uber.jetbrains.reviewplugin.actions.RejectReviewAction"
+                text="Reject Review"
+                description="Reject review and archive the review file"/>
+
+        <!-- Reply to Review (enter reply mode) -->
+        <action id="ReviewPlugin.ReplyToReview"
+                class="com.uber.jetbrains.reviewplugin.actions.ReplyToReviewAction"
+                text="Reply to Review"
+                description="Enter reply mode to respond to Claude's comments">
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl shift Y"/>
+        </action>
+
+        <!-- Add Reply (triggered from gutter icon on resolved comments) -->
+        <action id="ReviewPlugin.AddReply"
+                class="com.uber.jetbrains.reviewplugin.actions.AddReplyAction"
+                text="Add Reply"
+                description="Add a reply to a resolved comment"/>
+    </actions>
+</idea-plugin>
