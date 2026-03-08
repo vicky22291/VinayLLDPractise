@@ -18,7 +18,7 @@ repositories {
 
 dependencies {
     intellijPlatform {
-        local("/Users/vinay.yerra/Applications/IntelliJ IDEA Ultimate.app")
+        local("/Applications/IntelliJ IDEA.app")
         bundledPlugin("Git4Idea")
         bundledPlugin("org.intellij.plugins.markdown")
     }
@@ -35,7 +35,7 @@ intellijPlatform {
         name = "Claude Code Review"
         version = project.version.toString()
         ideaVersion {
-            sinceBuild = "252"
+            sinceBuild = "243"
         }
     }
     buildSearchableOptions = false

@@ -2,7 +2,18 @@
   "permissions": {
     "allow": [
       "Bash(git config:*)",
-      "Bash(gh auth:*)"
+      "Bash(gh auth:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(git clone:*)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis/VQTS-Python/.claude/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis/VQTS-Python/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis2/VQTS-Python/.claude/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis2/VQTS-Python/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis3/VQTS-Python/.claude/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis3/VQTS-Python/**)",
+      "Bash(python3:*)",
+      "Bash(git add:*)"
     ]
   }
 }

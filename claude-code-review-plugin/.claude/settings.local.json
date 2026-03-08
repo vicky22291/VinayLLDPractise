@@ -15,7 +15,8 @@
       "Bash(echo:*)",
       "Bash(printenv PATH:*)",
       "Bash(head:*)",
-      "Bash(chmod +x:*)"
+      "Bash(chmod +x:*)",
+      "Bash(/usr/libexec/java_home:*)"
     ]
   }
 }

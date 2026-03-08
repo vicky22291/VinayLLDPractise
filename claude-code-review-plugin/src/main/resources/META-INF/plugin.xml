@@ -12,7 +12,7 @@
     <!-- Dependencies -->
     <depends>com.intellij.modules.platform</depends>
     <depends>Git4Idea</depends>
-    <depends>org.intellij.plugins.markdown</depends>
+    <depends optional="true" config-file="markdown-plugin.xml">org.intellij.plugins.markdown</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <projectService
