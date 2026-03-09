@@ -13,7 +13,11 @@
       "Read(//Users/vicky/workspaces/TechnicalAnalysis3/VQTS-Python/.claude/**)",
       "Read(//Users/vicky/workspaces/TechnicalAnalysis3/VQTS-Python/**)",
       "Bash(python3:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "WebSearch",
+      "WebFetch(domain:www.anthropic.com)"
     ]
   }
 }
