@@ -1,0 +1,140 @@
+{
+  "fetched": {
+    "https://blog.flipkart.tech/adapting-search-to-indian-phonetics-cdbe65259686": {
+      "slug": "adapting-search-to-indian-phonetics-cdbe65259686",
+      "fetchedAt": "2026-03-11T14:50:22.696353+00:00"
+    },
+    "https://blog.flipkart.tech/addressing-fragmented-ui-s-with-micro-frontends-7cb083e5b52c": {
+      "slug": "addressing-fragmented-ui-s-with-micro-frontends-7cb083e5b52c",
+      "fetchedAt": "2026-03-11T14:50:32.123866+00:00"
+    },
+    "https://blog.flipkart.tech/apache-spark-optimisations-c3464f71bd38": {
+      "slug": "apache-spark-optimisations-c3464f71bd38",
+      "fetchedAt": "2026-03-11T14:51:01.270391+00:00"
+    },
+    "https://blog.flipkart.tech/applying-data-science-models-to-e-commerce-conversational-assistance-ai-336ed568e3b3": {
+      "slug": "applying-data-science-models-to-e-commerce-conversational-assistance-ai-336ed568e3b3",
+      "fetchedAt": "2026-03-11T14:51:13.457987+00:00"
+    },
+    "https://blog.flipkart.tech/architecture-of-apache-hbase-balancer-337134a3895d": {
+      "slug": "architecture-of-apache-hbase-balancer-337134a3895d",
+      "fetchedAt": "2026-03-11T14:51:24.422645+00:00"
+    },
+    "https://blog.flipkart.tech/re-architecting-flipkarts-rate-card-engine-the-journey-to-building-a-high-scale-generic-rate-a27ba57d4087": {
+      "slug": "re-architecting-flipkarts-rate-card-engine-the-journey-to-building-a-high-scale-generic-rate-a27ba57d4087",
+      "fetchedAt": "2026-03-11T15:05:41.689724+00:00"
+    },
+    "https://blog.flipkart.tech/remodelling-flipkarts-serviceability-data-an-optimization-journey-from-300-gb-to-150-mb-in-memory-5c7e9c38bde": {
+      "slug": "remodelling-flipkarts-serviceability-data-an-optimization-journey-from-300-gb-to-150-mb-in-memory-5c7e9c38bde",
+      "fetchedAt": "2026-03-12T07:19:05.951604+00:00"
+    },
+    "https://blog.flipkart.tech/the-science-of-unified-ranking-integrating-ads-and-organic-recommendations-8cc24113ef21": {
+      "slug": "the-science-of-unified-ranking-integrating-ads-and-organic-recommendations-8cc24113ef21",
+      "fetchedAt": "2026-03-12T07:28:13.698556+00:00"
+    },
+    "https://blog.flipkart.tech/automated-demand-shaping-guaranteeing-view-share-2d1ac198e0b3": {
+      "slug": "automated-demand-shaping-guaranteeing-view-share-2d1ac198e0b3",
+      "fetchedAt": "2026-03-12T08:22:43.888028+00:00"
+    },
+    "https://blog.flipkart.tech/automating-tidb-planned-maintenance-with-k8s-operator-5893f3ffb657": {
+      "slug": "automating-tidb-planned-maintenance-with-k8s-operator-5893f3ffb657",
+      "fetchedAt": "2026-03-12T08:22:50.136389+00:00"
+    },
+    "https://blog.flipkart.tech/autoqc-providing-instant-catalog-feedback-to-sellers-781c0bc901c6": {
+      "slug": "autoqc-providing-instant-catalog-feedback-to-sellers-781c0bc901c6",
+      "fetchedAt": "2026-03-12T08:22:55.596973+00:00"
+    },
+    "https://blog.flipkart.tech/backup-restore-validation-83b1fea719be": {
+      "slug": "backup-restore-validation-83b1fea719be",
+      "fetchedAt": "2026-03-12T08:23:01.573384+00:00"
+    },
+    "https://blog.flipkart.tech/beyond-the-context-window-a-new-approach-to-summarizing-big-data-44b306a9608a": {
+      "slug": "beyond-the-context-window-a-new-approach-to-summarizing-big-data-44b306a9608a",
+      "fetchedAt": "2026-03-12T08:23:07.317419+00:00"
+    },
+    "https://blog.flipkart.tech/beyond-the-data-horizon-flipkarts-race-to-cloud-at-unmatched-scale-8fd88d6d9fc1": {
+      "slug": "beyond-the-data-horizon-flipkarts-race-to-cloud-at-unmatched-scale-8fd88d6d9fc1",
+      "fetchedAt": "2026-03-12T08:23:17.739401+00:00"
+    },
+    "https://blog.flipkart.tech/madman-an-open-source-ads-framework-for-android-99b5e57fdd30": {
+      "slug": "madman-an-open-source-ads-framework-for-android-99b5e57fdd30",
+      "fetchedAt": "2026-03-12T08:38:13.704864+00:00"
+    },
+    "https://blog.flipkart.tech/plato-ai-revolutionising-flipkarts-data-interaction-with-natural-language-081644ac6b16": {
+      "slug": "plato-ai-revolutionising-flipkarts-data-interaction-with-natural-language-081644ac6b16",
+      "fetchedAt": "2026-03-12T08:43:38.849555+00:00"
+    },
+    "https://blog.flipkart.tech/building-multilingual-flipkart-for-bharat-f33c28ed629c": {
+      "slug": "building-multilingual-flipkart-for-bharat-f33c28ed629c",
+      "fetchedAt": "2026-03-12T12:36:05.565976+00:00"
+    },
+    "https://blog.flipkart.tech/building-personalized-autosuggestion-9e705d5bf5f8": {
+      "slug": "building-personalized-autosuggestion-9e705d5bf5f8",
+      "fetchedAt": "2026-03-12T12:36:10.868620+00:00"
+    },
+    "https://blog.flipkart.tech/case-study-handling-multi-dc-region-with-apache-hbase-3dbf187a842e": {
+      "slug": "case-study-handling-multi-dc-region-with-apache-hbase-3dbf187a842e",
+      "fetchedAt": "2026-03-12T12:36:15.705177+00:00"
+    },
+    "https://blog.flipkart.tech/challenges-and-learnings-in-building-hbase-k8s-operator-d074c0a55fe1": {
+      "slug": "challenges-and-learnings-in-building-hbase-k8s-operator-d074c0a55fe1",
+      "fetchedAt": "2026-03-12T12:36:20.592612+00:00"
+    },
+    "https://blog.flipkart.tech/consolidation-of-pickup-hub-facilities-in-supply-chain-using-linear-programming-7a274c93c72e": {
+      "slug": "consolidation-of-pickup-hub-facilities-in-supply-chain-using-linear-programming-7a274c93c72e",
+      "fetchedAt": "2026-03-12T12:36:25.979279+00:00"
+    },
+    "https://blog.flipkart.tech/deploying-active-passive-topology-in-tidb-cd5b8e9a8fc9": {
+      "slug": "deploying-active-passive-topology-in-tidb-cd5b8e9a8fc9",
+      "fetchedAt": "2026-03-12T12:36:31.258608+00:00"
+    },
+    "https://blog.flipkart.tech/distributed-entity-tracing-9e293940b086": {
+      "slug": "distributed-entity-tracing-9e293940b086",
+      "fetchedAt": "2026-03-12T12:36:41.373853+00:00"
+    },
+    "https://blog.flipkart.tech/dockerized-frontend-applications-in-flipkart-e73ae9177fa0": {
+      "slug": "dockerized-frontend-applications-in-flipkart-e73ae9177fa0",
+      "fetchedAt": "2026-03-12T12:36:49.657366+00:00"
+    },
+    "https://blog.flipkart.tech/effective-failure-handling-in-flipkarts-message-bus-436c36be76cc": {
+      "slug": "effective-failure-handling-in-flipkarts-message-bus-436c36be76cc",
+      "fetchedAt": "2026-03-13T13:15:55.942499+00:00"
+    },
+    "https://blog.flipkart.tech/failure-resiliency-and-high-availability-in-flipkart-messaging-platform-ba99302e799d": {
+      "slug": "failure-resiliency-and-high-availability-in-flipkart-messaging-platform-ba99302e799d",
+      "fetchedAt": "2026-03-13T13:16:07.383275+00:00"
+    },
+    "https://blog.flipkart.tech/flipkart-enhances-ai-safety-in-e-commerce-implementing-nvidia-nemo-guardrails-cb2f293b29c0": {
+      "slug": "flipkart-enhances-ai-safety-in-e-commerce-implementing-nvidia-nemo-guardrails-cb2f293b29c0",
+      "fetchedAt": "2026-03-13T13:16:17.208339+00:00"
+    },
+    "https://blog.flipkart.tech/flipkart-us-r-d-billion-ai-2022-317ff2404131": {
+      "slug": "flipkart-us-r-d-billion-ai-2022-317ff2404131",
+      "fetchedAt": "2026-03-13T13:16:22.474329+00:00"
+    },
+    "https://blog.flipkart.tech/flipkart-us-r-d-billion-ai-2022-conference-6cb3e262c700": {
+      "slug": "flipkart-us-r-d-billion-ai-2022-conference-6cb3e262c700",
+      "fetchedAt": "2026-03-13T13:16:32.741572+00:00"
+    },
+    "https://blog.flipkart.tech/server-bootstrap-optimization-using-rocksdb-3378b5af55dc": {
+      "slug": "server-bootstrap-optimization-using-rocksdb-3378b5af55dc",
+      "fetchedAt": "2026-03-13T13:31:13.553605+00:00"
+    },
+    "https://blog.flipkart.tech/from-noise-to-insight-how-llms-are-transforming-threat-intelligence-analysis-17dae388808e": {
+      "slug": "from-noise-to-insight-how-llms-are-transforming-threat-intelligence-analysis-17dae388808e",
+      "fetchedAt": "2026-03-13T16:06:13.015162+00:00"
+    },
+    "https://blog.flipkart.tech/from-rds-to-self-managed-sql-server-a221a5feeae2": {
+      "slug": "from-rds-to-self-managed-sql-server-a221a5feeae2",
+      "fetchedAt": "2026-03-13T16:06:25.058824+00:00"
+    },
+    "https://blog.flipkart.tech/generating-data-driven-value-insights-scale-c12142fedb8b": {
+      "slug": "generating-data-driven-value-insights-scale-c12142fedb8b",
+      "fetchedAt": "2026-03-13T16:06:52.667122+00:00"
+    },
+    "https://blog.flipkart.tech/hbase-compaction-manager-8974d1a74a22": {
+      "slug": "hbase-compaction-manager-8974d1a74a22",
+      "fetchedAt": "2026-03-13T16:07:15.262426+00:00"
+    }
+  }
+}

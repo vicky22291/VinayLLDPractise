@@ -1,0 +1,1076 @@
+{
+  "fetched": {
+    "https://netflixtechblog.com/analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965": {
+      "slug": "analytics-at-netflix-who-we-are-and-what-we-do-7d9c08fe6965",
+      "fetchedAt": "2026-03-11T11:25:46.926791+00:00"
+    },
+    "https://netflixtechblog.com/android-rx-onerror-guidelines-e68e8dc7383f": {
+      "slug": "android-rx-onerror-guidelines-e68e8dc7383f",
+      "fetchedAt": "2026-03-11T11:25:53.123150+00:00"
+    },
+    "https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79": {
+      "slug": "applying-netflix-devops-patterns-to-windows-2a57f2dbbf79",
+      "fetchedAt": "2026-03-11T11:26:00.375306+00:00"
+    },
+    "https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4": {
+      "slug": "avif-for-next-generation-image-coding-b1d75675fe4",
+      "fetchedAt": "2026-03-11T11:27:20.996674+00:00"
+    },
+    "https://netflixtechblog.com/bringing-4k-and-hdr-to-anime-at-netflix-with-sol-levante-fa68105067cd": {
+      "slug": "bringing-4k-and-hdr-to-anime-at-netflix-with-sol-levante-fa68105067cd",
+      "fetchedAt": "2026-03-11T11:27:59.601752+00:00"
+    },
+    "https://netflixtechblog.com/bringing-rich-experiences-to-memory-constrained-tv-devices-6de771eabb16": {
+      "slug": "bringing-rich-experiences-to-memory-constrained-tv-devices-6de771eabb16",
+      "fetchedAt": "2026-03-11T11:28:34.495689+00:00"
+    },
+    "https://netflixtechblog.com/building-a-cross-platform-in-app-messaging-orchestration-service-86ba614f92d8": {
+      "slug": "building-a-cross-platform-in-app-messaging-orchestration-service-86ba614f92d8",
+      "fetchedAt": "2026-03-11T11:28:46.597053+00:00"
+    },
+    "https://netflixtechblog.com/building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977": {
+      "slug": "building-and-scaling-data-lineage-at-netflix-to-improve-data-infrastructure-reliability-and-1a52526a7977",
+      "fetchedAt": "2026-03-11T11:28:54.282302+00:00"
+    },
+    "https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304": {
+      "slug": "building-netflixs-distributed-tracing-infrastructure-bb856c319304",
+      "fetchedAt": "2026-03-11T11:29:03.767055+00:00"
+    },
+    "https://netflixtechblog.com/bulldozer-batch-data-moving-from-data-warehouse-to-online-key-value-stores-41bac13863f8": {
+      "slug": "bulldozer-batch-data-moving-from-data-warehouse-to-online-key-value-stores-41bac13863f8",
+      "fetchedAt": "2026-03-11T11:29:17.519892+00:00"
+    },
+    "https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032": {
+      "slug": "byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032",
+      "fetchedAt": "2026-03-11T11:29:33.929074+00:00"
+    },
+    "https://netflixtechblog.com/cache-warming-agility-for-a-stateful-service-2d3b1da82642": {
+      "slug": "cache-warming-agility-for-a-stateful-service-2d3b1da82642",
+      "fetchedAt": "2026-03-11T11:29:43.775194+00:00"
+    },
+    "https://netflixtechblog.com/computational-causal-inference-at-netflix-293591691c62": {
+      "slug": "computational-causal-inference-at-netflix-293591691c62",
+      "fetchedAt": "2026-03-11T11:29:49.358183+00:00"
+    },
+    "https://netflixtechblog.com/data-compression-for-large-scale-streaming-experimentation-c20bfab8b9ce": {
+      "slug": "data-compression-for-large-scale-streaming-experimentation-c20bfab8b9ce",
+      "fetchedAt": "2026-03-11T11:30:00.539616+00:00"
+    },
+    "https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b": {
+      "slug": "dblog-a-generic-change-data-capture-framework-69351fb9099b",
+      "fetchedAt": "2026-03-11T11:30:13.717386+00:00"
+    },
+    "https://netflixtechblog.com/delivering-meaning-with-previews-on-web-3cedc0341b9e": {
+      "slug": "delivering-meaning-with-previews-on-web-3cedc0341b9e",
+      "fetchedAt": "2026-03-11T11:30:32.943350+00:00"
+    },
+    "https://netflixtechblog.com/delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee": {
+      "slug": "delta-a-data-synchronization-and-enrichment-platform-e82c36a79aee",
+      "fetchedAt": "2026-03-11T11:30:45.394922+00:00"
+    },
+    "https://netflixtechblog.com/design-principles-for-mathematical-engineering-in-experimentation-platform-15b3ea143b1f": {
+      "slug": "design-principles-for-mathematical-engineering-in-experimentation-platform-15b3ea143b1f",
+      "fetchedAt": "2026-03-11T11:30:53.062931+00:00"
+    },
+    "https://netflixtechblog.com/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46": {
+      "slug": "detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46",
+      "fetchedAt": "2026-03-11T11:31:01.812526+00:00"
+    },
+    "https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f": {
+      "slug": "edgar-solving-mysteries-faster-with-observability-e1a76302c71f",
+      "fetchedAt": "2026-03-11T11:31:16.322742+00:00"
+    },
+    "https://netflixtechblog.com/empowering-the-visual-effects-community-with-the-netfx-platform-35fdf604909c": {
+      "slug": "empowering-the-visual-effects-community-with-the-netfx-platform-35fdf604909c",
+      "fetchedAt": "2026-03-11T11:31:21.366235+00:00"
+    },
+    "https://netflixtechblog.com/engineering-a-studio-quality-experience-with-high-quality-audio-at-netflix-eaa0b6145f32": {
+      "slug": "engineering-a-studio-quality-experience-with-high-quality-audio-at-netflix-eaa0b6145f32",
+      "fetchedAt": "2026-03-11T11:31:29.585844+00:00"
+    },
+    "https://netflixtechblog.com/engineering-to-scale-paid-media-campaigns-84ba018fb3fa": {
+      "slug": "engineering-to-scale-paid-media-campaigns-84ba018fb3fa",
+      "fetchedAt": "2026-03-11T11:31:39.961101+00:00"
+    },
+    "https://netflixtechblog.com/essential-suite-artwork-producer-assistant-8f2a760bc150": {
+      "slug": "essential-suite-artwork-producer-assistant-8f2a760bc150",
+      "fetchedAt": "2026-03-11T11:31:59.765586+00:00"
+    },
+    "https://netflixtechblog.com/evolution-of-netflix-conductor-16600be36bca": {
+      "slug": "evolution-of-netflix-conductor-16600be36bca",
+      "fetchedAt": "2026-03-11T11:32:07.754420+00:00"
+    },
+    "https://netflixtechblog.com/evolving-regional-evacuation-69e6cc1d24c6": {
+      "slug": "evolving-regional-evacuation-69e6cc1d24c6",
+      "fetchedAt": "2026-03-11T11:32:17.654170+00:00"
+    },
+    "https://netflixtechblog.com/extending-vector-with-ebpf-to-inspect-host-and-container-performance-5da3af4c584b": {
+      "slug": "extending-vector-with-ebpf-to-inspect-host-and-container-performance-5da3af4c584b",
+      "fetchedAt": "2026-03-11T11:32:30.361294+00:00"
+    },
+    "https://netflixtechblog.com/graphql-search-indexing-334c92e0d8d5": {
+      "slug": "graphql-search-indexing-334c92e0d8d5",
+      "fetchedAt": "2026-03-11T11:32:55.514035+00:00"
+    },
+    "https://netflixtechblog.com/hdmi-scaling-netflix-certification-8e9cb3ec524f": {
+      "slug": "hdmi-scaling-netflix-certification-8e9cb3ec524f",
+      "fetchedAt": "2026-03-11T11:33:11.185138+00:00"
+    },
+    "https://netflixtechblog.com/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c": {
+      "slug": "how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c",
+      "fetchedAt": "2026-03-11T11:33:18.876592+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-brings-safer-and-faster-streaming-experience-to-the-living-room-on-crowded-networks-78b8de7f758c": {
+      "slug": "how-netflix-brings-safer-and-faster-streaming-experience-to-the-living-room-on-crowded-networks-78b8de7f758c",
+      "fetchedAt": "2026-03-11T11:33:28.468511+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a": {
+      "slug": "how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a",
+      "fetchedAt": "2026-03-11T11:33:38.610004+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2": {
+      "slug": "how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2",
+      "fetchedAt": "2026-03-11T11:33:55.841818+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a": {
+      "slug": "how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a",
+      "fetchedAt": "2026-03-11T11:34:09.419679+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06": {
+      "slug": "how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06",
+      "fetchedAt": "2026-03-11T11:34:16.941424+00:00"
+    },
+    "https://netflixtechblog.com/how-our-paths-brought-us-to-data-and-netflix-4eced44a6872": {
+      "slug": "how-our-paths-brought-us-to-data-and-netflix-4eced44a6872",
+      "fetchedAt": "2026-03-11T11:34:24.683757+00:00"
+    },
+    "https://netflixtechblog.com/hyper-scale-vpc-flow-logs-enrichment-to-provide-network-insight-e5f1db02910d": {
+      "slug": "hyper-scale-vpc-flow-logs-enrichment-to-provide-network-insight-e5f1db02910d",
+      "fetchedAt": "2026-03-11T11:34:31.234395+00:00"
+    },
+    "https://netflixtechblog.com/implementing-the-netflix-media-database-53b5a840b42a": {
+      "slug": "implementing-the-netflix-media-database-53b5a840b42a",
+      "fetchedAt": "2026-03-11T11:34:47.402413+00:00"
+    },
+    "https://netflixtechblog.com/improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be": {
+      "slug": "improving-experimentation-efficiency-at-netflix-with-meta-analysis-and-optimal-stopping-d8ec290ae5be",
+      "fetchedAt": "2026-03-11T11:34:56.271647+00:00"
+    },
+    "https://netflixtechblog.com/improving-our-video-encodes-for-legacy-devices-2b6b56eec5c9": {
+      "slug": "improving-our-video-encodes-for-legacy-devices-2b6b56eec5c9",
+      "fetchedAt": "2026-03-11T11:35:03.070817+00:00"
+    },
+    "https://netflixtechblog.com/introducing-dispatch-da4b8a2a8072": {
+      "slug": "introducing-dispatch-da4b8a2a8072",
+      "fetchedAt": "2026-03-11T11:35:12.199183+00:00"
+    },
+    "https://netflixtechblog.com/introducing-svt-av1-a-scalable-open-source-av1-framework-c726cce3103a": {
+      "slug": "introducing-svt-av1-a-scalable-open-source-av1-framework-c726cce3103a",
+      "fetchedAt": "2026-03-11T11:35:21.231951+00:00"
+    },
+    "https://netflixtechblog.com/keeping-customers-streaming-the-centralized-site-reliability-practice-at-netflix-205cc37aa9fb": {
+      "slug": "keeping-customers-streaming-the-centralized-site-reliability-practice-at-netflix-205cc37aa9fb",
+      "fetchedAt": "2026-03-11T11:35:26.066468+00:00"
+    },
+    "https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94": {
+      "slug": "keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94",
+      "fetchedAt": "2026-03-11T11:35:37.753987+00:00"
+    },
+    "https://netflixtechblog.com/key-challenges-with-quasi-experiments-at-netflix-89b4f234b852": {
+      "slug": "key-challenges-with-quasi-experiments-at-netflix-89b4f234b852",
+      "fetchedAt": "2026-03-11T11:35:44.461512+00:00"
+    },
+    "https://netflixtechblog.com/lerner-using-rl-agents-for-test-case-scheduling-3e0686211198": {
+      "slug": "lerner-using-rl-agents-for-test-case-scheduling-3e0686211198",
+      "fetchedAt": "2026-03-11T11:35:53.506717+00:00"
+    },
+    "https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513": {
+      "slug": "life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513",
+      "fetchedAt": "2026-03-11T11:36:00.145287+00:00"
+    },
+    "https://netflixtechblog.com/lumen-custom-self-service-dashboarding-for-netflix-8c56b541548c": {
+      "slug": "lumen-custom-self-service-dashboarding-for-netflix-8c56b541548c",
+      "fetchedAt": "2026-03-11T11:36:17.599252+00:00"
+    },
+    "https://netflixtechblog.com/machine-learning-for-a-better-developer-experience-1e600c69f36c": {
+      "slug": "machine-learning-for-a-better-developer-experience-1e600c69f36c",
+      "fetchedAt": "2026-03-11T11:36:28.340959+00:00"
+    },
+    "https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244": {
+      "slug": "making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244",
+      "fetchedAt": "2026-03-11T11:36:35.688530+00:00"
+    },
+    "https://netflixtechblog.com/mezzfs-mounting-object-storage-in-netflixs-media-processing-platform-cda01c446ba": {
+      "slug": "mezzfs-mounting-object-storage-in-netflixs-media-processing-platform-cda01c446ba",
+      "fetchedAt": "2026-03-11T11:36:47.272391+00:00"
+    },
+    "https://netflixtechblog.com/ml-platform-meetup-infra-for-contextual-bandits-and-reinforcement-learning-4a90305948ef": {
+      "slug": "ml-platform-meetup-infra-for-contextual-bandits-and-reinforcement-learning-4a90305948ef",
+      "fetchedAt": "2026-03-11T11:36:53.867575+00:00"
+    },
+    "https://netflixtechblog.com/modernizing-the-web-playback-ui-1ad2f184a5a0": {
+      "slug": "modernizing-the-web-playback-ui-1ad2f184a5a0",
+      "fetchedAt": "2026-03-11T11:37:03.070981+00:00"
+    },
+    "https://netflixtechblog.com/mythbusting-the-analytics-journey-58d692ea707e": {
+      "slug": "mythbusting-the-analytics-journey-58d692ea707e",
+      "fetchedAt": "2026-03-11T11:37:17.063444+00:00"
+    },
+    "https://netflixtechblog.com/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23": {
+      "slug": "netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23",
+      "fetchedAt": "2026-03-11T11:37:23.920995+00:00"
+    },
+    "https://netflixtechblog.com/netflix-at-aws-re-invent-2018-4884a292835": {
+      "slug": "netflix-at-aws-re-invent-2018-4884a292835",
+      "fetchedAt": "2026-03-11T11:37:28.923202+00:00"
+    },
+    "https://netflixtechblog.com/netflix-at-aws-re-invent-2019-e09bfc144831": {
+      "slug": "netflix-at-aws-re-invent-2019-e09bfc144831",
+      "fetchedAt": "2026-03-11T11:37:33.884451+00:00"
+    },
+    "https://netflixtechblog.com/netflix-at-mit-code-2020-ad3745525218": {
+      "slug": "netflix-at-mit-code-2020-ad3745525218",
+      "fetchedAt": "2026-03-11T11:37:40.100849+00:00"
+    },
+    "https://netflixtechblog.com/netflix-hack-day-fall-2018-c05dda4b98c1": {
+      "slug": "netflix-hack-day-fall-2018-c05dda4b98c1",
+      "fetchedAt": "2026-03-11T11:37:46.895027+00:00"
+    },
+    "https://netflixtechblog.com/netflix-hack-day-november-2019-c9b31d95d134": {
+      "slug": "netflix-hack-day-november-2019-c9b31d95d134",
+      "fetchedAt": "2026-03-11T11:37:52.450990+00:00"
+    },
+    "https://netflixtechblog.com/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179": {
+      "slug": "netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179",
+      "fetchedAt": "2026-03-11T11:38:05.390436+00:00"
+    },
+    "https://netflixtechblog.com/netflix-mediadatabase-media-timeline-data-model-4e657e6ffe93": {
+      "slug": "netflix-mediadatabase-media-timeline-data-model-4e657e6ffe93",
+      "fetchedAt": "2026-03-11T11:38:19.020265+00:00"
+    },
+    "https://netflixtechblog.com/netflix-now-streaming-av1-on-android-d5264a515202": {
+      "slug": "netflix-now-streaming-av1-on-android-d5264a515202",
+      "fetchedAt": "2026-03-11T11:38:23.771423+00:00"
+    },
+    "https://netflixtechblog.com/netflix-oss-and-spring-boot-coming-full-circle-4855947713a0": {
+      "slug": "netflix-oss-and-spring-boot-coming-full-circle-4855947713a0",
+      "fetchedAt": "2026-03-11T11:38:30.028151+00:00"
+    },
+    "https://netflixtechblog.com/netflix-public-bug-bounty-1-year-later-8f075b49d1cb": {
+      "slug": "netflix-public-bug-bounty-1-year-later-8f075b49d1cb",
+      "fetchedAt": "2026-03-11T11:38:34.921877+00:00"
+    },
+    "https://netflixtechblog.com/netflix-studio-engineering-overview-ed60afcfa0ce": {
+      "slug": "netflix-studio-engineering-overview-ed60afcfa0ce",
+      "fetchedAt": "2026-03-11T11:38:41.553103+00:00"
+    },
+    "https://netflixtechblog.com/netflix-studio-hack-day-may-2019-b4a0ecc629eb": {
+      "slug": "netflix-studio-hack-day-may-2019-b4a0ecc629eb",
+      "fetchedAt": "2026-03-11T11:38:47.921503+00:00"
+    },
+    "https://netflixtechblog.com/open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a": {
+      "slug": "open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a",
+      "fetchedAt": "2026-03-11T11:38:53.469931+00:00"
+    },
+    "https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9": {
+      "slug": "open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9",
+      "fetchedAt": "2026-03-11T11:39:03.186028+00:00"
+    },
+    "https://netflixtechblog.com/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447": {
+      "slug": "open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447",
+      "fetchedAt": "2026-03-11T11:39:31.556161+00:00"
+    },
+    "https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968": {
+      "slug": "open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968",
+      "fetchedAt": "2026-03-11T11:39:38.080613+00:00"
+    },
+    "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb": {
+      "slug": "optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb",
+      "fetchedAt": "2026-03-11T11:40:21.628828+00:00"
+    },
+    "https://netflixtechblog.com/optimizing-data-warehouse-storage-7b94a48fdcbe": {
+      "slug": "optimizing-data-warehouse-storage-7b94a48fdcbe",
+      "fetchedAt": "2026-03-11T11:40:38.241648+00:00"
+    },
+    "https://netflixtechblog.com/our-learnings-from-adopting-graphql-f099de39ae5f": {
+      "slug": "our-learnings-from-adopting-graphql-f099de39ae5f",
+      "fetchedAt": "2026-03-11T11:40:50.025697+00:00"
+    },
+    "https://netflixtechblog.com/page-simulator-fa02069fb269": {
+      "slug": "page-simulator-fa02069fb269",
+      "fetchedAt": "2026-03-11T11:41:00.213602+00:00"
+    },
+    "https://netflixtechblog.com/performance-comparison-of-video-coding-standards-an-adaptive-streaming-perspective-d45d0183ca95": {
+      "slug": "performance-comparison-of-video-coding-standards-an-adaptive-streaming-perspective-d45d0183ca95",
+      "fetchedAt": "2026-03-11T11:41:30.617877+00:00"
+    },
+    "https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7": {
+      "slug": "predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7",
+      "fetchedAt": "2026-03-11T11:41:39.578351+00:00"
+    },
+    "https://netflixtechblog.com/protecting-a-storys-future-with-history-and-science-e21a9fb54988": {
+      "slug": "protecting-a-storys-future-with-history-and-science-e21a9fb54988",
+      "fetchedAt": "2026-03-11T11:42:05.590887+00:00"
+    },
+    "https://netflixtechblog.com/python-at-netflix-bba45dae649e": {
+      "slug": "python-at-netflix-bba45dae649e",
+      "fetchedAt": "2026-03-11T11:42:11.295135+00:00"
+    },
+    "https://netflixtechblog.com/re-architecting-the-video-gatekeeper-f7b0ac2f6b00": {
+      "slug": "re-architecting-the-video-gatekeeper-f7b0ac2f6b00",
+      "fetchedAt": "2026-03-11T11:42:26.281395+00:00"
+    },
+    "https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749": {
+      "slug": "ready-for-changes-with-hexagonal-architecture-b315ec967749",
+      "fetchedAt": "2026-03-11T11:42:37.792575+00:00"
+    },
+    "https://netflixtechblog.com/reimagining-experimentation-analysis-at-netflix-71356393af21": {
+      "slug": "reimagining-experimentation-analysis-at-netflix-71356393af21",
+      "fetchedAt": "2026-03-11T11:42:55.353106+00:00"
+    },
+    "https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641": {
+      "slug": "scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641",
+      "fetchedAt": "2026-03-11T11:43:00.324744+00:00"
+    },
+    "https://netflixtechblog.com/scaling-time-series-data-storage-part-ii-d67939655586": {
+      "slug": "scaling-time-series-data-storage-part-ii-d67939655586",
+      "fetchedAt": "2026-03-11T11:43:10.729797+00:00"
+    },
+    "https://netflixtechblog.com/seamlessly-swapping-the-api-backend-of-the-netflix-android-app-3d4317155187": {
+      "slug": "seamlessly-swapping-the-api-backend-of-the-netflix-android-app-3d4317155187",
+      "fetchedAt": "2026-03-11T11:43:26.661783+00:00"
+    },
+    "https://netflixtechblog.com/simple-streaming-telemetry-27447416e68f": {
+      "slug": "simple-streaming-telemetry-27447416e68f",
+      "fetchedAt": "2026-03-11T11:43:34.147104+00:00"
+    },
+    "https://netflixtechblog.com/spinnaker-sets-sail-to-the-continuous-delivery-foundation-e81cd2cbbfeb": {
+      "slug": "spinnaker-sets-sail-to-the-continuous-delivery-foundation-e81cd2cbbfeb",
+      "fetchedAt": "2026-03-11T11:43:39.463708+00:00"
+    },
+    "https://netflixtechblog.com/supporting-content-decision-makers-with-machine-learning-995b7b76006f": {
+      "slug": "supporting-content-decision-makers-with-machine-learning-995b7b76006f",
+      "fetchedAt": "2026-03-11T11:43:50.268183+00:00"
+    },
+    "https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2": {
+      "slug": "svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2",
+      "fetchedAt": "2026-03-11T11:43:58.517626+00:00"
+    },
+    "https://netflixtechblog.com/telltale-netflix-application-monitoring-simplified-5c08bfa780ba": {
+      "slug": "telltale-netflix-application-monitoring-simplified-5c08bfa780ba",
+      "fetchedAt": "2026-03-11T11:44:10.532858+00:00"
+    },
+    "https://netflixtechblog.com/the-netflix-media-database-nmdb-9bf8e6d0944d": {
+      "slug": "the-netflix-media-database-nmdb-9bf8e6d0944d",
+      "fetchedAt": "2026-03-11T11:44:21.161897+00:00"
+    },
+    "https://netflixtechblog.com/the-new-netflix-stethoscope-native-app-f4e1d38aafcd": {
+      "slug": "the-new-netflix-stethoscope-native-app-f4e1d38aafcd",
+      "fetchedAt": "2026-03-11T11:44:29.799591+00:00"
+    },
+    "https://netflixtechblog.com/toward-a-better-quality-metric-for-the-video-community-7ed94e752a30": {
+      "slug": "toward-a-better-quality-metric-for-the-video-community-7ed94e752a30",
+      "fetchedAt": "2026-03-11T11:44:39.492710+00:00"
+    },
+    "https://netflixtechblog.com/trace-event-chrome-and-more-profile-formats-on-flamescope-5dfe9df5dfa9": {
+      "slug": "trace-event-chrome-and-more-profile-formats-on-flamescope-5dfe9df5dfa9",
+      "fetchedAt": "2026-03-11T11:44:47.563951+00:00"
+    },
+    "https://netflixtechblog.com/unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280": {
+      "slug": "unbundling-data-science-workflows-with-metaflow-and-aws-step-functions-d454780c6280",
+      "fetchedAt": "2026-03-11T11:44:56.196730+00:00"
+    },
+    "https://netflixtechblog.com/2-diving-deeper-into-psyberg-stateless-vs-stateful-data-processing-1d273b3aaefb": {
+      "slug": "2-diving-deeper-into-psyberg-stateless-vs-stateful-data-processing-1d273b3aaefb",
+      "fetchedAt": "2026-03-11T13:28:04.662186+00:00"
+    },
+    "https://netflixtechblog.com/3-psyberg-automated-end-to-end-catch-up-260fbe366fe2": {
+      "slug": "3-psyberg-automated-end-to-end-catch-up-260fbe366fe2",
+      "fetchedAt": "2026-03-11T13:28:12.724124+00:00"
+    },
+    "https://netflixtechblog.com/a-day-in-the-life-of-a-content-analytics-engineer-eb0250b993be": {
+      "slug": "a-day-in-the-life-of-a-content-analytics-engineer-eb0250b993be",
+      "fetchedAt": "2026-03-11T13:28:29.744532+00:00"
+    },
+    "https://netflixtechblog.com/a-day-in-the-life-of-an-experimentation-and-causal-inference-scientist-netflix-388edfb77d21": {
+      "slug": "a-day-in-the-life-of-an-experimentation-and-causal-inference-scientist-netflix-388edfb77d21",
+      "fetchedAt": "2026-03-11T13:28:46.342465+00:00"
+    },
+    "https://netflixtechblog.com/a-recap-of-the-data-engineering-open-forum-at-netflix-6b4d4410b88f": {
+      "slug": "a-recap-of-the-data-engineering-open-forum-at-netflix-6b4d4410b88f",
+      "fetchedAt": "2026-03-11T13:28:53.062462+00:00"
+    },
+    "https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f": {
+      "slug": "a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f",
+      "fetchedAt": "2026-03-11T13:29:01.917079+00:00"
+    },
+    "https://netflixtechblog.com/abac-on-spicedb-enabling-netflixs-complex-identity-types-c118f374fa89": {
+      "slug": "abac-on-spicedb-enabling-netflixs-complex-identity-types-c118f374fa89",
+      "fetchedAt": "2026-03-11T13:29:08.114015+00:00"
+    },
+    "https://netflixtechblog.com/accelerating-video-quality-control-at-netflix-with-pixel-error-detection-47ef7af7ca2e": {
+      "slug": "accelerating-video-quality-control-at-netflix-with-pixel-error-detection-47ef7af7ca2e",
+      "fetchedAt": "2026-03-11T13:29:18.782480+00:00"
+    },
+    "https://netflixtechblog.com/achieving-observability-in-async-workflows-cd89b923c784": {
+      "slug": "achieving-observability-in-async-workflows-cd89b923c784",
+      "fetchedAt": "2026-03-11T13:29:32.083102+00:00"
+    },
+    "https://netflixtechblog.com/all-of-netflixs-hdr-video-streaming-is-now-dynamically-optimized-e9e0cb15f2ba": {
+      "slug": "all-of-netflixs-hdr-video-streaming-is-now-dynamically-optimized-e9e0cb15f2ba",
+      "fetchedAt": "2026-03-11T13:29:43.152784+00:00"
+    },
+    "https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5": {
+      "slug": "announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5",
+      "fetchedAt": "2026-03-11T13:29:51.269639+00:00"
+    },
+    "https://netflixtechblog.com/auto-diagnosis-and-remediation-in-netflix-data-platform-5bcc52d853d1": {
+      "slug": "auto-diagnosis-and-remediation-in-netflix-data-platform-5bcc52d853d1",
+      "fetchedAt": "2026-03-11T13:29:58.142902+00:00"
+    },
+    "https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f": {
+      "slug": "automating-rds-postgres-to-aurora-postgres-migration-261ca045447f",
+      "fetchedAt": "2026-03-11T13:30:06.529171+00:00"
+    },
+    "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80": {
+      "slug": "av1-now-powering-30-of-netflix-streaming-02f592242d80",
+      "fetchedAt": "2026-03-11T13:30:14.877710+00:00"
+    },
+    "https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b": {
+      "slug": "av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b",
+      "fetchedAt": "2026-03-11T13:30:35.698695+00:00"
+    },
+    "https://netflixtechblog.com/ava-discovery-view-surfacing-authentic-moments-b8cd145491cc": {
+      "slug": "ava-discovery-view-surfacing-authentic-moments-b8cd145491cc",
+      "fetchedAt": "2026-03-11T13:30:46.787682+00:00"
+    },
+    "https://netflixtechblog.com/behind-the-scenes-building-a-robust-ads-event-processing-pipeline-e4e86caf9249": {
+      "slug": "behind-the-scenes-building-a-robust-ads-event-processing-pipeline-e4e86caf9249",
+      "fetchedAt": "2026-03-11T13:30:54.900154+00:00"
+    },
+    "https://netflixtechblog.com/behind-the-streams-live-at-netflix-part-1-d23f917c2f40": {
+      "slug": "behind-the-streams-live-at-netflix-part-1-d23f917c2f40",
+      "fetchedAt": "2026-03-11T13:31:14.979357+00:00"
+    },
+    "https://netflixtechblog.com/behind-the-streams-real-time-recommendations-for-live-events-e027cb313f8f": {
+      "slug": "behind-the-streams-real-time-recommendations-for-live-events-e027cb313f8f",
+      "fetchedAt": "2026-03-11T13:31:26.020039+00:00"
+    },
+    "https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b": {
+      "slug": "bending-pause-times-to-your-will-with-generational-zgc-256629c9386b",
+      "fetchedAt": "2026-03-11T13:31:36.908563+00:00"
+    },
+    "https://netflixtechblog.com/beyond-rest-1b76f7c20ef6": {
+      "slug": "beyond-rest-1b76f7c20ef6",
+      "fetchedAt": "2026-03-11T13:31:46.789600+00:00"
+    },
+    "https://netflixtechblog.com/bringing-av1-streaming-to-netflix-members-tvs-b7fc88e42320": {
+      "slug": "bringing-av1-streaming-to-netflix-members-tvs-b7fc88e42320",
+      "fetchedAt": "2026-03-11T13:31:53.160897+00:00"
+    },
+    "https://netflixtechblog.com/building-a-media-understanding-platform-for-ml-innovations-9bef9962dcb7": {
+      "slug": "building-a-media-understanding-platform-for-ml-innovations-9bef9962dcb7",
+      "fetchedAt": "2026-03-11T13:32:04.480247+00:00"
+    },
+    "https://netflixtechblog.com/building-a-reliable-cloud-live-streaming-pipeline-for-netflix-8627c608c967": {
+      "slug": "building-a-reliable-cloud-live-streaming-pipeline-for-netflix-8627c608c967",
+      "fetchedAt": "2026-03-11T13:32:13.388300+00:00"
+    },
+    "https://netflixtechblog.com/building-a-resilient-data-platform-with-write-ahead-log-at-netflix-127b6712359a": {
+      "slug": "building-a-resilient-data-platform-with-write-ahead-log-at-netflix-127b6712359a",
+      "fetchedAt": "2026-03-11T13:32:28.092072+00:00"
+    },
+    "https://netflixtechblog.com/building-a-rule-based-platform-to-manage-netflix-membership-skus-at-scale-e3c0f82aa7bc": {
+      "slug": "building-a-rule-based-platform-to-manage-netflix-membership-skus-at-scale-e3c0f82aa7bc",
+      "fetchedAt": "2026-03-11T13:32:39.460706+00:00"
+    },
+    "https://netflixtechblog.com/building-confidence-in-a-decision-8705834e6fd8": {
+      "slug": "building-confidence-in-a-decision-8705834e6fd8",
+      "fetchedAt": "2026-03-11T13:32:47.155576+00:00"
+    },
+    "https://netflixtechblog.com/building-in-video-search-936766f0017c": {
+      "slug": "building-in-video-search-936766f0017c",
+      "fetchedAt": "2026-03-11T13:33:01.629559+00:00"
+    },
+    "https://netflixtechblog.com/cambi-a-banding-artifact-detector-96777ae12fe2": {
+      "slug": "cambi-a-banding-artifact-detector-96777ae12fe2",
+      "fetchedAt": "2026-03-11T13:33:21.467413+00:00"
+    },
+    "https://netflixtechblog.com/causal-machine-learning-for-creative-insights-4b0ce22a8a96": {
+      "slug": "causal-machine-learning-for-creative-insights-4b0ce22a8a96",
+      "fetchedAt": "2026-03-11T13:33:37.881275+00:00"
+    },
+    "https://netflixtechblog.com/cloud-efficiency-at-netflix-f2a142955f83": {
+      "slug": "cloud-efficiency-at-netflix-f2a142955f83",
+      "fetchedAt": "2026-03-11T13:33:46.030181+00:00"
+    },
+    "https://netflixtechblog.com/consistent-caching-mechanism-in-titus-gateway-6cb89b9ce296": {
+      "slug": "consistent-caching-mechanism-in-titus-gateway-6cb89b9ce296",
+      "fetchedAt": "2026-03-11T13:34:04.683727+00:00"
+    },
+    "https://netflixtechblog.com/curbing-connection-churn-in-zuul-2feb273a3598": {
+      "slug": "curbing-connection-churn-in-zuul-2feb273a3598",
+      "fetchedAt": "2026-03-11T13:34:51.611887+00:00"
+    },
+    "https://netflixtechblog.com/data-engineers-of-netflix-interview-with-dhevi-rajendran-a9ab7c7b36e5": {
+      "slug": "data-engineers-of-netflix-interview-with-dhevi-rajendran-a9ab7c7b36e5",
+      "fetchedAt": "2026-03-11T13:34:57.181206+00:00"
+    },
+    "https://netflixtechblog.com/data-engineers-of-netflix-interview-with-kevin-wylie-7fb9113a01ea": {
+      "slug": "data-engineers-of-netflix-interview-with-kevin-wylie-7fb9113a01ea",
+      "fetchedAt": "2026-03-11T13:35:03.055206+00:00"
+    },
+    "https://netflixtechblog.com/data-engineers-of-netflix-interview-with-pallavi-phadnis-a1fcc5f64906": {
+      "slug": "data-engineers-of-netflix-interview-with-pallavi-phadnis-a1fcc5f64906",
+      "fetchedAt": "2026-03-11T13:35:09.249880+00:00"
+    },
+    "https://netflixtechblog.com/data-engineers-of-netflix-interview-with-samuel-setegne-f3027f58c2e2": {
+      "slug": "data-engineers-of-netflix-interview-with-samuel-setegne-f3027f58c2e2",
+      "fetchedAt": "2026-03-11T13:35:15.430866+00:00"
+    },
+    "https://netflixtechblog.com/data-ingestion-pipeline-with-operation-management-3c5c638740a8": {
+      "slug": "data-ingestion-pipeline-with-operation-management-3c5c638740a8",
+      "fetchedAt": "2026-03-11T13:35:26.422588+00:00"
+    },
+    "https://netflixtechblog.com/data-mesh-a-data-movement-and-processing-platform-netflix-1288bcab2873": {
+      "slug": "data-mesh-a-data-movement-and-processing-platform-netflix-1288bcab2873",
+      "fetchedAt": "2026-03-11T13:35:33.893402+00:00"
+    },
+    "https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059": {
+      "slug": "data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059",
+      "fetchedAt": "2026-03-11T13:36:10.347381+00:00"
+    },
+    "https://netflixtechblog.com/data-pipeline-asset-management-with-dataflow-86525b3e21ca": {
+      "slug": "data-pipeline-asset-management-with-dataflow-86525b3e21ca",
+      "fetchedAt": "2026-03-11T13:36:19.020884+00:00"
+    },
+    "https://netflixtechblog.com/data-reprocessing-pipeline-in-asset-management-platform-netflix-46fe225c35c9": {
+      "slug": "data-reprocessing-pipeline-in-asset-management-platform-netflix-46fe225c35c9",
+      "fetchedAt": "2026-03-11T13:36:28.167598+00:00"
+    },
+    "https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d": {
+      "slug": "debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d",
+      "fetchedAt": "2026-03-11T13:36:33.465040+00:00"
+    },
+    "https://netflixtechblog.com/decision-making-at-netflix-33065fa06481": {
+      "slug": "decision-making-at-netflix-33065fa06481",
+      "fetchedAt": "2026-03-11T13:36:44.289176+00:00"
+    },
+    "https://netflixtechblog.com/demystifying-interviewing-for-backend-engineers-netflix-aceb26a83495": {
+      "slug": "demystifying-interviewing-for-backend-engineers-netflix-aceb26a83495",
+      "fetchedAt": "2026-03-11T13:36:53.172695+00:00"
+    },
+    "https://netflixtechblog.com/detecting-scene-changes-in-audiovisual-content-77a61d3eaad6": {
+      "slug": "detecting-scene-changes-in-audiovisual-content-77a61d3eaad6",
+      "fetchedAt": "2026-03-11T13:37:13.461265+00:00"
+    },
+    "https://netflixtechblog.com/detecting-speech-and-music-in-audio-content-afd64e6a5bf8": {
+      "slug": "detecting-speech-and-music-in-audio-content-afd64e6a5bf8",
+      "fetchedAt": "2026-03-11T13:37:46.682166+00:00"
+    },
+    "https://netflixtechblog.com/discovering-creative-insights-in-promotional-artwork-295e4d788db5": {
+      "slug": "discovering-creative-insights-in-promotional-artwork-295e4d788db5",
+      "fetchedAt": "2026-03-11T13:37:58.750922+00:00"
+    },
+    "https://netflixtechblog.com/driving-content-delivery-efficiency-through-classifying-cache-misses-ffcf08026b6c": {
+      "slug": "driving-content-delivery-efficiency-through-classifying-cache-misses-ffcf08026b6c",
+      "fetchedAt": "2026-03-11T13:38:08.742139+00:00"
+    },
+    "https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602": {
+      "slug": "edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602",
+      "fetchedAt": "2026-03-11T13:38:40.973352+00:00"
+    },
+    "https://netflixtechblog.com/elasticsearch-indexing-strategy-in-asset-management-platform-amp-99332231e541": {
+      "slug": "elasticsearch-indexing-strategy-in-asset-management-platform-amp-99332231e541",
+      "fetchedAt": "2026-03-11T13:38:53.425395+00:00"
+    },
+    "https://netflixtechblog.com/empowering-netflix-engineers-with-incident-management-ebb967871de4": {
+      "slug": "empowering-netflix-engineers-with-incident-management-ebb967871de4",
+      "fetchedAt": "2026-03-11T13:38:59.058555+00:00"
+    },
+    "https://netflixtechblog.com/enhancing-netflix-reliability-with-service-level-prioritized-load-shedding-e735e6ce8f7d": {
+      "slug": "enhancing-netflix-reliability-with-service-level-prioritized-load-shedding-e735e6ce8f7d",
+      "fetchedAt": "2026-03-11T13:39:20.865620+00:00"
+    },
+    "https://netflixtechblog.com/ensuring-the-successful-launch-of-ads-on-netflix-f99490fdf1ba": {
+      "slug": "ensuring-the-successful-launch-of-ads-on-netflix-f99490fdf1ba",
+      "fetchedAt": "2026-03-11T13:39:27.992461+00:00"
+    },
+    "https://netflixtechblog.com/escrow-buddy-an-open-source-tool-from-netflix-for-remediation-of-missing-filevault-keys-in-mdm-815aef5107cd": {
+      "slug": "escrow-buddy-an-open-source-tool-from-netflix-for-remediation-of-missing-filevault-keys-in-mdm-815aef5107cd",
+      "fetchedAt": "2026-03-11T13:39:33.719060+00:00"
+    },
+    "https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762": {
+      "slug": "evolution-of-ml-fact-store-5941d3231762",
+      "fetchedAt": "2026-03-11T13:39:40.518560+00:00"
+    },
+    "https://netflixtechblog.com/evolving-container-security-with-linux-user-namespaces-afbe3308c082": {
+      "slug": "evolving-container-security-with-linux-user-namespaces-afbe3308c082",
+      "fetchedAt": "2026-03-11T13:39:53.735619+00:00"
+    },
+    "https://netflixtechblog.com/evolving-from-rule-based-classifier-machine-learning-powered-auto-remediation-in-netflix-data-039d5efd115b": {
+      "slug": "evolving-from-rule-based-classifier-machine-learning-powered-auto-remediation-in-netflix-data-039d5efd115b",
+      "fetchedAt": "2026-03-11T13:40:05.165895+00:00"
+    },
+    "https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985": {
+      "slug": "experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985",
+      "fetchedAt": "2026-03-11T13:40:21.349128+00:00"
+    },
+    "https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3": {
+      "slug": "exploring-data-netflix-9d87e20072e3",
+      "fetchedAt": "2026-03-11T13:40:44.314990+00:00"
+    },
+    "https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe": {
+      "slug": "fixing-performance-regressions-before-they-happen-eab2602b86fe",
+      "fetchedAt": "2026-03-11T13:41:01.156178+00:00"
+    },
+    "https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8": {
+      "slug": "fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8",
+      "fetchedAt": "2026-03-11T13:41:12.127947+00:00"
+    },
+    "https://netflixtechblog.com/for-your-eyes-only-improving-netflix-video-quality-with-neural-networks-5b8d032da09c": {
+      "slug": "for-your-eyes-only-improving-netflix-video-quality-with-neural-networks-5b8d032da09c",
+      "fetchedAt": "2026-03-11T13:41:21.913948+00:00"
+    },
+    "https://netflixtechblog.com/formulating-out-of-memory-kill-prediction-on-the-netflix-app-as-a-machine-learning-problem-989599029109": {
+      "slug": "formulating-out-of-memory-kill-prediction-on-the-netflix-app-as-a-machine-learning-problem-989599029109",
+      "fetchedAt": "2026-03-11T13:41:33.662366+00:00"
+    },
+    "https://netflixtechblog.com/foundation-model-for-personalized-recommendation-1a0bd8e02d39": {
+      "slug": "foundation-model-for-personalized-recommendation-1a0bd8e02d39",
+      "fetchedAt": "2026-03-11T13:41:41.619313+00:00"
+    },
+    "https://netflixtechblog.com/from-facts-metrics-to-media-machine-learning-evolving-the-data-engineering-function-at-netflix-6dcc91058d8d": {
+      "slug": "from-facts-metrics-to-media-machine-learning-evolving-the-data-engineering-function-at-netflix-6dcc91058d8d",
+      "fetchedAt": "2026-03-11T13:41:51.070855+00:00"
+    },
+    "https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22": {
+      "slug": "globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22",
+      "fetchedAt": "2026-03-11T13:42:03.583558+00:00"
+    },
+    "https://netflixtechblog.com/growth-engineering-at-netflix-automated-imagery-generation-5a105fd51569": {
+      "slug": "growth-engineering-at-netflix-automated-imagery-generation-5a105fd51569",
+      "fetchedAt": "2026-03-11T13:42:17.161323+00:00"
+    },
+    "https://netflixtechblog.com/growth-engineering-at-netflix-creating-a-scalable-offers-platform-69330136dd87": {
+      "slug": "growth-engineering-at-netflix-creating-a-scalable-offers-platform-69330136dd87",
+      "fetchedAt": "2026-03-11T13:42:29.198323+00:00"
+    },
+    "https://netflixtechblog.com/hawkins-diving-into-the-reasoning-behind-our-design-system-964a7357547": {
+      "slug": "hawkins-diving-into-the-reasoning-behind-our-design-system-964a7357547",
+      "fetchedAt": "2026-03-11T13:42:41.674796+00:00"
+    },
+    "https://netflixtechblog.com/hdr10-now-streaming-on-netflix-c9ab1f4bd72b": {
+      "slug": "hdr10-now-streaming-on-netflix-c9ab1f4bd72b",
+      "fetchedAt": "2026-03-11T13:42:49.387584+00:00"
+    },
+    "https://netflixtechblog.com/helping-vfx-studios-pave-a-path-to-the-cloud-d308ee43c079": {
+      "slug": "helping-vfx-studios-pave-a-path-to-the-cloud-d308ee43c079",
+      "fetchedAt": "2026-03-11T13:42:56.160325+00:00"
+    },
+    "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc": {
+      "slug": "how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc",
+      "fetchedAt": "2026-03-11T13:43:04.068402+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc": {
+      "slug": "how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc",
+      "fetchedAt": "2026-03-11T13:43:11.147912+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-content-engineering-makes-a-federated-graph-searchable-5c0c1c7d7eaf": {
+      "slug": "how-netflix-content-engineering-makes-a-federated-graph-searchable-5c0c1c7d7eaf",
+      "fetchedAt": "2026-03-11T13:43:21.270582+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-content-engineering-makes-a-federated-graph-searchable-part-2-49348511c06c": {
+      "slug": "how-netflix-content-engineering-makes-a-federated-graph-searchable-part-2-49348511c06c",
+      "fetchedAt": "2026-03-11T13:43:34.971048+00:00"
+    },
+    "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96": {
+      "slug": "how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
+      "fetchedAt": "2026-03-11T13:43:40.963361+00:00"
+    },
+    "https://netflixtechblog.com/how-product-teams-can-build-empathy-through-experimentation-6253603880a6": {
+      "slug": "how-product-teams-can-build-empathy-through-experimentation-6253603880a6",
+      "fetchedAt": "2026-03-11T13:43:46.561125+00:00"
+    },
+    "https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953": {
+      "slug": "how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953",
+      "fetchedAt": "2026-03-11T13:43:55.959739+00:00"
+    },
+    "https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea": {
+      "slug": "how-we-build-micro-frontends-with-lattice-22b8635f77ea",
+      "fetchedAt": "2026-03-11T13:44:15.636877+00:00"
+    },
+    "https://netflixtechblog.com/improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac": {
+      "slug": "improve-your-next-experiment-by-learning-better-proxy-metrics-from-past-experiments-64c786c2a3ac",
+      "fetchedAt": "2026-03-11T13:44:24.256148+00:00"
+    },
+    "https://netflixtechblog.com/improved-alerting-with-atlas-streaming-eval-e691c60dc61e": {
+      "slug": "improved-alerting-with-atlas-streaming-eval-e691c60dc61e",
+      "fetchedAt": "2026-03-11T13:44:33.040247+00:00"
+    },
+    "https://netflixtechblog.com/incremental-processing-using-netflix-maestro-and-apache-iceberg-b8ba072ddeeb": {
+      "slug": "incremental-processing-using-netflix-maestro-and-apache-iceberg-b8ba072ddeeb",
+      "fetchedAt": "2026-03-11T13:44:48.530307+00:00"
+    },
+    "https://netflixtechblog.com/interpreting-a-b-test-results-false-negatives-and-power-6943995cf3a8": {
+      "slug": "interpreting-a-b-test-results-false-negatives-and-power-6943995cf3a8",
+      "fetchedAt": "2026-03-11T13:44:55.079843+00:00"
+    },
+    "https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a": {
+      "slug": "interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a",
+      "fetchedAt": "2026-03-11T13:45:06.532075+00:00"
+    },
+    "https://netflixtechblog.com/introducing-configurable-metaflow-d2fb8e9ba1c6": {
+      "slug": "introducing-configurable-metaflow-d2fb8e9ba1c6",
+      "fetchedAt": "2026-03-11T13:45:15.158051+00:00"
+    },
+    "https://netflixtechblog.com/introducing-impressions-at-netflix-e2b67c88c9fb": {
+      "slug": "introducing-impressions-at-netflix-e2b67c88c9fb",
+      "fetchedAt": "2026-03-11T13:45:29.259008+00:00"
+    },
+    "https://netflixtechblog.com/introducing-netflix-timed-text-authoring-lineage-6fb57b72ad41": {
+      "slug": "introducing-netflix-timed-text-authoring-lineage-6fb57b72ad41",
+      "fetchedAt": "2026-03-11T13:45:35.928609+00:00"
+    },
+    "https://netflixtechblog.com/introducing-netflix-timeseries-data-abstraction-layer-31552f6326f8": {
+      "slug": "introducing-netflix-timeseries-data-abstraction-layer-31552f6326f8",
+      "fetchedAt": "2026-03-11T13:45:56.560743+00:00"
+    },
+    "https://netflixtechblog.com/introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30": {
+      "slug": "introducing-netflixs-key-value-data-abstraction-layer-1ea8a0a11b30",
+      "fetchedAt": "2026-03-11T13:46:10.684617+00:00"
+    },
+    "https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d": {
+      "slug": "introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d",
+      "fetchedAt": "2026-03-11T13:46:17.902211+00:00"
+    },
+    "https://netflixtechblog.com/investigation-of-a-cross-regional-network-performance-issue-422d6218fdf1": {
+      "slug": "investigation-of-a-cross-regional-network-performance-issue-422d6218fdf1",
+      "fetchedAt": "2026-03-11T13:46:29.105078+00:00"
+    },
+    "https://netflixtechblog.com/investigation-of-a-workbench-ui-latency-issue-faa017b4653d": {
+      "slug": "investigation-of-a-workbench-ui-latency-issue-faa017b4653d",
+      "fetchedAt": "2026-03-11T13:46:46.684931+00:00"
+    },
+    "https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d": {
+      "slug": "java-21-virtual-threads-dude-wheres-my-lock-3052540e231d",
+      "fetchedAt": "2026-03-11T13:46:53.665359+00:00"
+    },
+    "https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225": {
+      "slug": "kubernetes-and-kernel-panics-ed620b9c6225",
+      "fetchedAt": "2026-03-11T13:47:00.314015+00:00"
+    },
+    "https://netflixtechblog.com/machine-learning-for-fraud-detection-in-streaming-services-b0b4ef3be3f6": {
+      "slug": "machine-learning-for-fraud-detection-in-streaming-services-b0b4ef3be3f6",
+      "fetchedAt": "2026-03-11T13:47:17.316780+00:00"
+    },
+    "https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78": {
+      "slug": "maestro-netflixs-workflow-orchestrator-ee13a06f9c78",
+      "fetchedAt": "2026-03-11T13:47:27.257370+00:00"
+    },
+    "https://netflixtechblog.com/match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59": {
+      "slug": "match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59",
+      "fetchedAt": "2026-03-11T13:48:53.083519+00:00"
+    },
+    "https://netflixtechblog.com/measuring-dialogue-intelligibility-for-netflix-content-58c13d2a6f6e": {
+      "slug": "measuring-dialogue-intelligibility-for-netflix-content-58c13d2a6f6e",
+      "fetchedAt": "2026-03-11T13:49:01.463082+00:00"
+    },
+    "https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d": {
+      "slug": "mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d",
+      "fetchedAt": "2026-03-11T13:49:11.374021+00:00"
+    },
+    "https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835": {
+      "slug": "migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835",
+      "fetchedAt": "2026-03-11T13:49:21.311526+00:00"
+    },
+    "https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-2-4b1c8c7155c1": {
+      "slug": "migrating-critical-traffic-at-scale-with-no-downtime-part-2-4b1c8c7155c1",
+      "fetchedAt": "2026-03-11T13:49:28.821624+00:00"
+    },
+    "https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72": {
+      "slug": "migrating-netflix-to-graphql-safely-8e1e4d4f1e72",
+      "fetchedAt": "2026-03-11T13:49:43.968634+00:00"
+    },
+    "https://netflixtechblog.com/ml-observability-bring-transparency-to-payments-and-beyond-33073e260a38": {
+      "slug": "ml-observability-bring-transparency-to-payments-and-beyond-33073e260a38",
+      "fetchedAt": "2026-03-11T13:50:00.240806+00:00"
+    },
+    "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac": {
+      "slug": "mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac",
+      "fetchedAt": "2026-03-11T13:50:17.717502+00:00"
+    },
+    "https://netflixtechblog.com/my-seemingly-random-walk-to-netflix-293d952953fa": {
+      "slug": "my-seemingly-random-walk-to-netflix-293d952953fa",
+      "fetchedAt": "2026-03-11T13:50:32.668549+00:00"
+    },
+    "https://netflixtechblog.com/native-frame-rate-playback-6c87836a948": {
+      "slug": "native-frame-rate-playback-6c87836a948",
+      "fetchedAt": "2026-03-11T13:50:59.185651+00:00"
+    },
+    "https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c": {
+      "slug": "netflix-a-culture-of-learning-394bc7d0f94c",
+      "fetchedAt": "2026-03-11T13:51:12.983497+00:00"
+    },
+    "https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae": {
+      "slug": "netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae",
+      "fetchedAt": "2026-03-11T13:51:23.283628+00:00"
+    },
+    "https://netflixtechblog.com/netflix-drive-a607538c3055": {
+      "slug": "netflix-drive-a607538c3055",
+      "fetchedAt": "2026-03-11T13:51:35.420102+00:00"
+    },
+    "https://netflixtechblog.com/netflix-live-origin-41f1b0ad5371": {
+      "slug": "netflix-live-origin-41f1b0ad5371",
+      "fetchedAt": "2026-03-11T13:51:48.711073+00:00"
+    },
+    "https://netflixtechblog.com/netflix-original-research-mit-code-2023-9340b879176a": {
+      "slug": "netflix-original-research-mit-code-2023-9340b879176a",
+      "fetchedAt": "2026-03-11T13:52:01.148859+00:00"
+    },
+    "https://netflixtechblog.com/netflix-tudum-architecture-from-cqrs-with-kafka-to-cqrs-with-raw-hollow-86d141b72e52": {
+      "slug": "netflix-tudum-architecture-from-cqrs-with-kafka-to-cqrs-with-raw-hollow-86d141b72e52",
+      "fetchedAt": "2026-03-11T13:52:13.202482+00:00"
+    },
+    "https://netflixtechblog.com/netflix-video-quality-at-scale-with-cosmos-microservices-552be631c113": {
+      "slug": "netflix-video-quality-at-scale-with-cosmos-microservices-552be631c113",
+      "fetchedAt": "2026-03-11T13:52:23.064975+00:00"
+    },
+    "https://netflixtechblog.com/1-streamlining-membership-data-engineering-at-netflix-with-psyberg-f68830617dd1": {
+      "slug": "1-streamlining-membership-data-engineering-at-netflix-with-psyberg-f68830617dd1",
+      "fetchedAt": "2026-03-11T13:59:04.918138+00:00"
+    },
+    "https://netflixtechblog.com/100x-faster-how-we-supercharged-netflix-maestros-workflow-engine-028e9637f041": {
+      "slug": "100x-faster-how-we-supercharged-netflix-maestros-workflow-engine-028e9637f041",
+      "fetchedAt": "2026-03-11T13:59:22.327394+00:00"
+    },
+    "https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2": {
+      "slug": "netflixs-distributed-counter-abstraction-8d0c45eb66b2",
+      "fetchedAt": "2026-03-11T14:00:06.668571+00:00"
+    },
+    "https://netflixtechblog.com/new-series-creating-media-with-machine-learning-5067ac110bcd": {
+      "slug": "new-series-creating-media-with-machine-learning-5067ac110bcd",
+      "fetchedAt": "2026-03-11T14:00:14.589812+00:00"
+    },
+    "https://netflixtechblog.com/noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd": {
+      "slug": "noisy-neighbor-detection-with-ebpf-64b1f4b3bbdd",
+      "fetchedAt": "2026-03-11T14:00:25.076857+00:00"
+    },
+    "https://netflixtechblog.com/open-sourcing-a-monitoring-gui-for-metaflow-75ff465f0d60": {
+      "slug": "open-sourcing-a-monitoring-gui-for-metaflow-75ff465f0d60",
+      "fetchedAt": "2026-03-11T14:00:36.590361+00:00"
+    },
+    "https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18": {
+      "slug": "open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18",
+      "fetchedAt": "2026-03-11T14:00:45.505649+00:00"
+    },
+    "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec": {
+      "slug": "optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec",
+      "fetchedAt": "2026-03-11T14:00:54.034876+00:00"
+    },
+    "https://netflixtechblog.com/optimizing-the-aural-experience-on-android-devices-with-xhe-aac-c27714292a33": {
+      "slug": "optimizing-the-aural-experience-on-android-devices-with-xhe-aac-c27714292a33",
+      "fetchedAt": "2026-03-11T14:01:10.594512+00:00"
+    },
+    "https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c": {
+      "slug": "orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c",
+      "fetchedAt": "2026-03-11T14:01:20.856313+00:00"
+    },
+    "https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102": {
+      "slug": "our-first-netflix-data-engineering-summit-f326b0589102",
+      "fetchedAt": "2026-03-11T14:01:26.215171+00:00"
+    },
+    "https://netflixtechblog.com/packaging-award-winning-shows-with-award-winning-technology-c1010594ba39": {
+      "slug": "packaging-award-winning-shows-with-award-winning-technology-c1010594ba39",
+      "fetchedAt": "2026-03-11T14:01:35.730206+00:00"
+    },
+    "https://netflixtechblog.com/part-1-a-survey-of-analytics-engineering-work-at-netflix-d761cfd551ee": {
+      "slug": "part-1-a-survey-of-analytics-engineering-work-at-netflix-d761cfd551ee",
+      "fetchedAt": "2026-03-11T14:01:45.276767+00:00"
+    },
+    "https://netflixtechblog.com/part-2-a-survey-of-analytics-engineering-work-at-netflix-4f1f53b4ab0f": {
+      "slug": "part-2-a-survey-of-analytics-engineering-work-at-netflix-4f1f53b4ab0f",
+      "fetchedAt": "2026-03-11T14:01:55.087490+00:00"
+    },
+    "https://netflixtechblog.com/part-3-a-survey-of-analytics-engineering-work-at-netflix-e67f0aa82183": {
+      "slug": "part-3-a-survey-of-analytics-engineering-work-at-netflix-e67f0aa82183",
+      "fetchedAt": "2026-03-11T14:02:11.693657+00:00"
+    },
+    "https://netflixtechblog.com/post-training-generative-recommenders-with-advantage-weighted-supervised-finetuning-61a538d717a9": {
+      "slug": "post-training-generative-recommenders-with-advantage-weighted-supervised-finetuning-61a538d717a9",
+      "fetchedAt": "2026-03-11T14:03:09.943539+00:00"
+    },
+    "https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518": {
+      "slug": "practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518",
+      "fetchedAt": "2026-03-11T14:03:29.936168+00:00"
+    },
+    "https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4": {
+      "slug": "practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4",
+      "fetchedAt": "2026-03-11T14:03:37.948568+00:00"
+    },
+    "https://netflixtechblog.com/production-media-management-transforming-media-workflows-by-leveraging-the-cloud-1174699e4a08": {
+      "slug": "production-media-management-transforming-media-workflows-by-leveraging-the-cloud-1174699e4a08",
+      "fetchedAt": "2026-03-11T14:03:48.420042+00:00"
+    },
+    "https://netflixtechblog.com/pushy-to-the-limit-evolving-netflixs-websocket-proxy-for-the-future-b468bc0ff658": {
+      "slug": "pushy-to-the-limit-evolving-netflixs-websocket-proxy-for-the-future-b468bc0ff658",
+      "fetchedAt": "2026-03-11T14:04:07.503370+00:00"
+    },
+    "https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1": {
+      "slug": "rapid-event-notification-system-at-netflix-6deb1d2b57d1",
+      "fetchedAt": "2026-03-11T14:04:14.759545+00:00"
+    },
+    "https://netflixtechblog.com/ready-to-go-sample-data-pipelines-with-dataflow-17440a9e141d": {
+      "slug": "ready-to-go-sample-data-pipelines-with-dataflow-17440a9e141d",
+      "fetchedAt": "2026-03-11T14:04:21.924812+00:00"
+    },
+    "https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359": {
+      "slug": "rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359",
+      "fetchedAt": "2026-03-11T14:04:27.936448+00:00"
+    },
+    "https://netflixtechblog.com/recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef": {
+      "slug": "recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef",
+      "fetchedAt": "2026-03-11T14:04:38.847664+00:00"
+    },
+    "https://netflixtechblog.com/reinforcement-learning-for-budget-constrained-recommendations-6cbc5263a32a": {
+      "slug": "reinforcement-learning-for-budget-constrained-recommendations-6cbc5263a32a",
+      "fetchedAt": "2026-03-11T14:05:12.945672+00:00"
+    },
+    "https://netflixtechblog.com/remote-workstations-for-the-discerning-artists-8155a8fbd190": {
+      "slug": "remote-workstations-for-the-discerning-artists-8155a8fbd190",
+      "fetchedAt": "2026-03-11T14:05:20.784039+00:00"
+    },
+    "https://netflixtechblog.com/reverse-searching-netflixs-federated-graph-222ac5d23576": {
+      "slug": "reverse-searching-netflixs-federated-graph-222ac5d23576",
+      "fetchedAt": "2026-03-11T14:05:30.507516+00:00"
+    },
+    "https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f": {
+      "slug": "revisiting-bettertls-certificate-path-building-4c978b79843f",
+      "fetchedAt": "2026-03-11T14:05:37.953447+00:00"
+    },
+    "https://netflixtechblog.com/round-2-a-survey-of-causal-inference-applications-at-netflix-fd78328ee0bb": {
+      "slug": "round-2-a-survey-of-causal-inference-applications-at-netflix-fd78328ee0bb",
+      "fetchedAt": "2026-03-11T14:05:53.788409+00:00"
+    },
+    "https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c": {
+      "slug": "safe-updates-of-client-applications-at-netflix-1d01c71a930c",
+      "fetchedAt": "2026-03-11T14:06:05.389123+00:00"
+    },
+    "https://netflixtechblog.com/scalable-annotation-service-marken-f5ba9266d428": {
+      "slug": "scalable-annotation-service-marken-f5ba9266d428",
+      "fetchedAt": "2026-03-11T14:06:19.084666+00:00"
+    },
+    "https://netflixtechblog.com/scaling-appsec-at-netflix-part-2-c9e0f1488bc5": {
+      "slug": "scaling-appsec-at-netflix-part-2-c9e0f1488bc5",
+      "fetchedAt": "2026-03-11T14:06:25.713167+00:00"
+    },
+    "https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194": {
+      "slug": "scaling-llm-post-training-at-netflix-0046f8790194",
+      "fetchedAt": "2026-03-11T14:06:35.112698+00:00"
+    },
+    "https://netflixtechblog.com/scaling-media-machine-learning-at-netflix-f19b400243": {
+      "slug": "scaling-media-machine-learning-at-netflix-f19b400243",
+      "fetchedAt": "2026-03-11T14:06:57.623867+00:00"
+    },
+    "https://netflixtechblog.com/scaling-muse-how-netflix-powers-data-driven-creative-insights-at-trillion-row-scale-aa9ad326fd77": {
+      "slug": "scaling-muse-how-netflix-powers-data-driven-creative-insights-at-trillion-row-scale-aa9ad326fd77",
+      "fetchedAt": "2026-03-11T14:07:09.682996+00:00"
+    },
+    "https://netflixtechblog.com/scaling-revenue-growth-tooling-87ff969d4241": {
+      "slug": "scaling-revenue-growth-tooling-87ff969d4241",
+      "fetchedAt": "2026-03-11T14:07:16.656941+00:00"
+    },
+    "https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822": {
+      "slug": "seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822",
+      "fetchedAt": "2026-03-11T14:07:32.411684+00:00"
+    },
+    "https://netflixtechblog.com/sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df": {
+      "slug": "sequential-a-b-testing-keeps-the-world-streaming-netflix-part-1-continuous-data-cba6c7ed49df",
+      "fetchedAt": "2026-03-11T14:07:50.117092+00:00"
+    },
+    "https://netflixtechblog.com/sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642": {
+      "slug": "sequential-testing-keeps-the-world-streaming-netflix-part-2-counting-processes-da6805341642",
+      "fetchedAt": "2026-03-11T14:08:10.544139+00:00"
+    },
+    "https://netflixtechblog.com/snaring-the-bad-folks-66726a1f4c80": {
+      "slug": "snaring-the-bad-folks-66726a1f4c80",
+      "fetchedAt": "2026-03-11T14:08:22.402600+00:00"
+    },
+    "https://netflixtechblog.com/streaming-sql-in-data-mesh-0d83f5a00d08": {
+      "slug": "streaming-sql-in-data-mesh-0d83f5a00d08",
+      "fetchedAt": "2026-03-11T14:08:34.906086+00:00"
+    },
+    "https://netflixtechblog.com/supercharging-the-ml-and-ai-development-experience-at-netflix-b2d5b95c63eb": {
+      "slug": "supercharging-the-ml-and-ai-development-experience-at-netflix-b2d5b95c63eb",
+      "fetchedAt": "2026-03-11T14:08:46.565975+00:00"
+    },
+    "https://netflixtechblog.com/supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d": {
+      "slug": "supporting-diverse-ml-systems-at-netflix-2d2e6b6d205d",
+      "fetchedAt": "2026-03-11T14:08:59.606380+00:00"
+    },
+    "https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151": {
+      "slug": "the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151",
+      "fetchedAt": "2026-03-11T14:09:23.327782+00:00"
+    },
+    "https://netflixtechblog.com/the-making-of-ves-the-cosmos-microservice-for-netflix-video-encoding-946b9b3cd300": {
+      "slug": "the-making-of-ves-the-cosmos-microservice-for-netflix-video-encoding-946b9b3cd300",
+      "fetchedAt": "2026-03-11T14:09:31.478578+00:00"
+    },
+    "https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad": {
+      "slug": "the-netflix-cosmos-platform-35c14d9351ad",
+      "fetchedAt": "2026-03-11T14:09:46.045660+00:00"
+    },
+    "https://netflixtechblog.com/the-next-step-in-personalization-dynamic-sizzles-4dc4ce2011ef": {
+      "slug": "the-next-step-in-personalization-dynamic-sizzles-4dc4ce2011ef",
+      "fetchedAt": "2026-03-11T14:10:04.210650+00:00"
+    },
+    "https://netflixtechblog.com/the-show-must-go-on-securing-netflix-studios-at-scale-19b801c86479": {
+      "slug": "the-show-must-go-on-securing-netflix-studios-at-scale-19b801c86479",
+      "fetchedAt": "2026-03-11T14:10:14.698498+00:00"
+    },
+    "https://netflixtechblog.com/timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f": {
+      "slug": "timestone-netflixs-high-throughput-low-latency-priority-queueing-system-with-built-in-support-1abf249ba95f",
+      "fetchedAt": "2026-03-11T14:10:25.044853+00:00"
+    },
+    "https://netflixtechblog.com/title-launch-observability-at-netflix-scale-19ea916be1ed": {
+      "slug": "title-launch-observability-at-netflix-scale-19ea916be1ed",
+      "fetchedAt": "2026-03-11T14:10:33.659958+00:00"
+    },
+    "https://netflixtechblog.com/title-launch-observability-at-netflix-scale-8efe69ebd653": {
+      "slug": "title-launch-observability-at-netflix-scale-8efe69ebd653",
+      "fetchedAt": "2026-03-11T14:10:45.669838+00:00"
+    },
+    "https://netflixtechblog.com/title-launch-observability-at-netflix-scale-c88c586629eb": {
+      "slug": "title-launch-observability-at-netflix-scale-c88c586629eb",
+      "fetchedAt": "2026-03-11T14:10:54.777313+00:00"
+    },
+    "https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623": {
+      "slug": "towards-a-reliable-device-management-platform-4f86230ca623",
+      "fetchedAt": "2026-03-11T14:11:08.240677+00:00"
+    },
+    "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d": {
+      "slug": "uda-unified-data-architecture-6a6aee261d8d",
+      "fetchedAt": "2026-03-11T14:11:29.507744+00:00"
+    },
+    "https://netflixtechblog.com/unlocking-dynamic-pages-the-evolution-of-netflixs-client-server-graphql-apis-8b4631a59b39": {
+      "slug": "unlocking-dynamic-pages-the-evolution-of-netflixs-client-server-graphql-apis-8b4631a59b39",
+      "fetchedAt": "2026-03-11T14:11:40.042005+00:00"
+    },
+    "https://netflixtechblog.com/video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4": {
+      "slug": "video-annotator-building-video-classifiers-using-vision-language-models-and-active-learning-8ebdda0b2db4",
+      "fetchedAt": "2026-03-11T14:11:48.181562+00:00"
+    },
+    "https://netflixtechblog.com/virtual-production-a-validation-framework-for-unreal-engine-aab780b2f8c8": {
+      "slug": "virtual-production-a-validation-framework-for-unreal-engine-aab780b2f8c8",
+      "fetchedAt": "2026-03-11T14:11:54.856975+00:00"
+    },
+    "https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962": {
+      "slug": "what-is-an-a-b-test-b08cc1b57962",
+      "fetchedAt": "2026-03-11T14:12:06.408576+00:00"
+    },
+    "https://netflixtechblog.com/zero-configuration-service-mesh-with-on-demand-cluster-discovery-ac6483b52a51": {
+      "slug": "zero-configuration-service-mesh-with-on-demand-cluster-discovery-ac6483b52a51",
+      "fetchedAt": "2026-03-11T14:12:13.846604+00:00"
+    }
+  }
+}

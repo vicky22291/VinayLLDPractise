@@ -1,0 +1,740 @@
+{
+  "fetched": {
+    "https://bytes.swiggy.com/2x-improvement-in-latency-in-swiggy-data-science-platform-6101b7607530": {
+      "slug": "2x-improvement-in-latency-in-swiggy-data-science-platform-6101b7607530",
+      "fetchedAt": "2026-03-11T14:12:33.981998+00:00"
+    },
+    "https://bytes.swiggy.com/a-deep-dive-into-dynamic-widget-swiggys-server-driven-ui-system-92cdc3b16ec6": {
+      "slug": "a-deep-dive-into-dynamic-widget-swiggys-server-driven-ui-system-92cdc3b16ec6",
+      "fetchedAt": "2026-03-11T14:12:53.083412+00:00"
+    },
+    "https://bytes.swiggy.com/a-product-of-adventure-self-reliance-the-ramya-lakshmi-story-dd048c01ea57": {
+      "slug": "a-product-of-adventure-self-reliance-the-ramya-lakshmi-story-dd048c01ea57",
+      "fetchedAt": "2026-03-11T14:13:00.666774+00:00"
+    },
+    "https://bytes.swiggy.com/a-real-time-supply-shaping-system-to-meet-demand-under-constraints-ff449a73874b": {
+      "slug": "a-real-time-supply-shaping-system-to-meet-demand-under-constraints-ff449a73874b",
+      "fetchedAt": "2026-03-11T14:13:14.671478+00:00"
+    },
+    "https://bytes.swiggy.com/a-symphony-of-widgets-5d872abec9c0": {
+      "slug": "a-symphony-of-widgets-5d872abec9c0",
+      "fetchedAt": "2026-03-11T14:13:36.984752+00:00"
+    },
+    "https://bytes.swiggy.com/adaptive-metric-alignment-for-demand-forecasting-in-instamart-9aa5d2fca308": {
+      "slug": "adaptive-metric-alignment-for-demand-forecasting-in-instamart-9aa5d2fca308",
+      "fetchedAt": "2026-03-11T14:13:51.956005+00:00"
+    },
+    "https://bytes.swiggy.com/address-correction-for-q-commerce-part-1-location-inaccuracy-classifier-e72b88a33d2f": {
+      "slug": "address-correction-for-q-commerce-part-1-location-inaccuracy-classifier-e72b88a33d2f",
+      "fetchedAt": "2026-03-11T14:14:04.713791+00:00"
+    },
+    "https://bytes.swiggy.com/address-correction-for-q-commerce-part-2-geocoder-3bbd6ee828c0": {
+      "slug": "address-correction-for-q-commerce-part-2-geocoder-3bbd6ee828c0",
+      "fetchedAt": "2026-03-11T14:14:17.541535+00:00"
+    },
+    "https://bytes.swiggy.com/address-location-correction-system-for-q-commerce-57c82ef291d7": {
+      "slug": "address-location-correction-system-for-q-commerce-57c82ef291d7",
+      "fetchedAt": "2026-03-11T14:14:32.063833+00:00"
+    },
+    "https://bytes.swiggy.com/all-about-the-goals-meet-andrea-fernandes-swiggys-product-head-for-checkout-and-payment-285fda59b0c2": {
+      "slug": "all-about-the-goals-meet-andrea-fernandes-swiggys-product-head-for-checkout-and-payment-285fda59b0c2",
+      "fetchedAt": "2026-03-11T14:14:39.003300+00:00"
+    },
+    "https://bytes.swiggy.com/all-doors-shall-not-lead-to-production-e33bf293265f": {
+      "slug": "all-doors-shall-not-lead-to-production-e33bf293265f",
+      "fetchedAt": "2026-03-11T14:14:46.324606+00:00"
+    },
+    "https://bytes.swiggy.com/all-things-tech-with-swiggys-vidhya-seetharaman-c611b871392e": {
+      "slug": "all-things-tech-with-swiggys-vidhya-seetharaman-c611b871392e",
+      "fetchedAt": "2026-03-11T14:14:53.069670+00:00"
+    },
+    "https://bytes.swiggy.com/all-you-need-to-know-about-all-things-supply-ats-88d2a776bf3e": {
+      "slug": "all-you-need-to-know-about-all-things-supply-ats-88d2a776bf3e",
+      "fetchedAt": "2026-03-11T14:15:02.352653+00:00"
+    },
+    "https://bytes.swiggy.com/all-you-need-to-know-about-all-things-supply-part-2-2e04b0df95f2": {
+      "slug": "all-you-need-to-know-about-all-things-supply-part-2-2e04b0df95f2",
+      "fetchedAt": "2026-03-11T14:15:10.745356+00:00"
+    },
+    "https://bytes.swiggy.com/an-end-to-end-system-to-detect-and-explain-anomalies-in-operational-metrics-448bc74c700e": {
+      "slug": "an-end-to-end-system-to-detect-and-explain-anomalies-in-operational-metrics-448bc74c700e",
+      "fetchedAt": "2026-03-11T14:15:21.105693+00:00"
+    },
+    "https://bytes.swiggy.com/an-ml-approach-for-routing-payment-transactions-5a14efb643a8": {
+      "slug": "an-ml-approach-for-routing-payment-transactions-5a14efb643a8",
+      "fetchedAt": "2026-03-11T14:15:31.445558+00:00"
+    },
+    "https://bytes.swiggy.com/apollo-swiggys-code-analysis-platform-b80e8292f29": {
+      "slug": "apollo-swiggys-code-analysis-platform-b80e8292f29",
+      "fetchedAt": "2026-03-11T14:15:45.360644+00:00"
+    },
+    "https://bytes.swiggy.com/architecture-of-cdc-system-a975a081691f": {
+      "slug": "architecture-of-cdc-system-a975a081691f",
+      "fetchedAt": "2026-03-11T14:15:55.759672+00:00"
+    },
+    "https://bytes.swiggy.com/assignment-routing-optimization-for-swiggy-instamart-delivery-part-i-2e8fb3115463": {
+      "slug": "assignment-routing-optimization-for-swiggy-instamart-delivery-part-i-2e8fb3115463",
+      "fetchedAt": "2026-03-11T14:16:05.372181+00:00"
+    },
+    "https://bytes.swiggy.com/assignment-routing-optimization-for-swiggy-instamart-delivery-part-ii-844341bd6f00": {
+      "slug": "assignment-routing-optimization-for-swiggy-instamart-delivery-part-ii-844341bd6f00",
+      "fetchedAt": "2026-03-11T14:16:19.727339+00:00"
+    },
+    "https://bytes.swiggy.com/automating-mobile-event-verification-1d840f39d300": {
+      "slug": "automating-mobile-event-verification-1d840f39d300",
+      "fetchedAt": "2026-03-11T14:16:31.962303+00:00"
+    },
+    "https://bytes.swiggy.com/becoming-a-product-manager-without-being-one-an-interview-with-sabrina-sayed-3d1772e90d77": {
+      "slug": "becoming-a-product-manager-without-being-one-an-interview-with-sabrina-sayed-3d1772e90d77",
+      "fetchedAt": "2026-03-11T14:16:45.274452+00:00"
+    },
+    "https://bytes.swiggy.com/behindthebug-breaking-the-event-pipeline-a-migration-gone-wrong-23ed215d6754": {
+      "slug": "behindthebug-breaking-the-event-pipeline-a-migration-gone-wrong-23ed215d6754",
+      "fetchedAt": "2026-03-11T14:16:52.238780+00:00"
+    },
+    "https://bytes.swiggy.com/behindthebug-indexing-gone-wrong-6b4d682fd805": {
+      "slug": "behindthebug-indexing-gone-wrong-6b4d682fd805",
+      "fetchedAt": "2026-03-11T14:17:00.298134+00:00"
+    },
+    "https://bytes.swiggy.com/behindthebug-kafka-under-the-water-288c3d05b202": {
+      "slug": "behindthebug-kafka-under-the-water-288c3d05b202",
+      "fetchedAt": "2026-03-11T14:17:12.841888+00:00"
+    },
+    "https://bytes.swiggy.com/behindthebug-the-invisible-mistake-an-overlooked-backend-payload-and-its-impact-on-ad-revenue-d57a7bcdf260": {
+      "slug": "behindthebug-the-invisible-mistake-an-overlooked-backend-payload-and-its-impact-on-ad-revenue-d57a7bcdf260",
+      "fetchedAt": "2026-03-11T14:17:22.359238+00:00"
+    },
+    "https://bytes.swiggy.com/behindthebug-unpacking-the-effects-of-negative-psla-predictions-on-serviceability-6e1712eceb56": {
+      "slug": "behindthebug-unpacking-the-effects-of-negative-psla-predictions-on-serviceability-6e1712eceb56",
+      "fetchedAt": "2026-03-11T14:17:31.320196+00:00"
+    },
+    "https://bytes.swiggy.com/build-time-optimizations-xcode-911c9c3ac8ff": {
+      "slug": "build-time-optimizations-xcode-911c9c3ac8ff",
+      "fetchedAt": "2026-03-11T14:17:46.941914+00:00"
+    },
+    "https://bytes.swiggy.com/building-a-mind-reader-at-swiggy-using-data-science-5a5c38aa6c17": {
+      "slug": "building-a-mind-reader-at-swiggy-using-data-science-5a5c38aa6c17",
+      "fetchedAt": "2026-03-11T14:17:58.916165+00:00"
+    },
+    "https://bytes.swiggy.com/building-a-robust-controlled-rollout-system-for-frontend-at-scale-91cabeea2898": {
+      "slug": "building-a-robust-controlled-rollout-system-for-frontend-at-scale-91cabeea2898",
+      "fetchedAt": "2026-03-11T14:18:11.141422+00:00"
+    },
+    "https://bytes.swiggy.com/building-an-in-house-automatic-speech-recognition-pipeline-to-unlock-insights-from-code-mixed-audio-751fb6b4400d": {
+      "slug": "building-an-in-house-automatic-speech-recognition-pipeline-to-unlock-insights-from-code-mixed-audio-751fb6b4400d",
+      "fetchedAt": "2026-03-11T14:18:53.080938+00:00"
+    },
+    "https://bytes.swiggy.com/building-rock-solid-ml-systems-bb775f8a7126": {
+      "slug": "building-rock-solid-ml-systems-bb775f8a7126",
+      "fetchedAt": "2026-03-11T14:19:02.248077+00:00"
+    },
+    "https://bytes.swiggy.com/building-rock-solid-ml-systems-d1d5ab544f0e": {
+      "slug": "building-rock-solid-ml-systems-d1d5ab544f0e",
+      "fetchedAt": "2026-03-11T14:19:11.540946+00:00"
+    },
+    "https://bytes.swiggy.com/building-the-whattoeat-experience-on-android-8ecf7d010ca8": {
+      "slug": "building-the-whattoeat-experience-on-android-8ecf7d010ca8",
+      "fetchedAt": "2026-03-11T14:19:23.728965+00:00"
+    },
+    "https://bytes.swiggy.com/business-monitoring-at-swiggy-apache-superset-at-scale-b784d0c4012d": {
+      "slug": "business-monitoring-at-swiggy-apache-superset-at-scale-b784d0c4012d",
+      "fetchedAt": "2026-03-11T14:19:30.469747+00:00"
+    },
+    "https://bytes.swiggy.com/ca-animation-which-took-away-my-fear-of-animations-7fded1a2a681": {
+      "slug": "ca-animation-which-took-away-my-fear-of-animations-7fded1a2a681",
+      "fetchedAt": "2026-03-11T14:19:46.337214+00:00"
+    },
+    "https://bytes.swiggy.com/cant-loose-what-you-don-t-have-5e153211d5c1": {
+      "slug": "cant-loose-what-you-don-t-have-5e153211d5c1",
+      "fetchedAt": "2026-03-11T14:19:53.001378+00:00"
+    },
+    "https://bytes.swiggy.com/coding-solutions-at-swiggy-4a3a6978f45a": {
+      "slug": "coding-solutions-at-swiggy-4a3a6978f45a",
+      "fetchedAt": "2026-03-11T14:20:04.406647+00:00"
+    },
+    "https://bytes.swiggy.com/contextual-bandits-for-ads-recommendations-ec210775fcf": {
+      "slug": "contextual-bandits-for-ads-recommendations-ec210775fcf",
+      "fetchedAt": "2026-03-11T14:20:17.733707+00:00"
+    },
+    "https://bytes.swiggy.com/curbing-cod-loss-with-technology-ecf554c759a3": {
+      "slug": "curbing-cod-loss-with-technology-ecf554c759a3",
+      "fetchedAt": "2026-03-11T14:20:33.608338+00:00"
+    },
+    "https://bytes.swiggy.com/decoding-food-intelligence-at-swiggy-5011e21dbc86": {
+      "slug": "decoding-food-intelligence-at-swiggy-5011e21dbc86",
+      "fetchedAt": "2026-03-11T14:20:44.323991+00:00"
+    },
+    "https://bytes.swiggy.com/defraudnet-an-end-to-end-weak-supervision-framework-to-detect-fraud-in-online-food-delivery-22366ddce461": {
+      "slug": "defraudnet-an-end-to-end-weak-supervision-framework-to-detect-fraud-in-online-food-delivery-22366ddce461",
+      "fetchedAt": "2026-03-11T14:20:57.598523+00:00"
+    },
+    "https://bytes.swiggy.com/delivering-a-million-downloads-every-week-acb7bc5c07ba": {
+      "slug": "delivering-a-million-downloads-every-week-acb7bc5c07ba",
+      "fetchedAt": "2026-03-11T14:21:34.942278+00:00"
+    },
+    "https://bytes.swiggy.com/deploying-deep-learning-models-at-scale-at-swiggy-tensorflow-serving-on-dsp-ad5da40f7a6c": {
+      "slug": "deploying-deep-learning-models-at-scale-at-swiggy-tensorflow-serving-on-dsp-ad5da40f7a6c",
+      "fetchedAt": "2026-03-11T14:21:44.271990+00:00"
+    },
+    "https://bytes.swiggy.com/designing-resilient-microservices-part-1-6a72fe964759": {
+      "slug": "designing-resilient-microservices-part-1-6a72fe964759",
+      "fetchedAt": "2026-03-11T14:21:57.770561+00:00"
+    },
+    "https://bytes.swiggy.com/designing-resilient-microservices-part-2-14f8b564f622": {
+      "slug": "designing-resilient-microservices-part-2-14f8b564f622",
+      "fetchedAt": "2026-03-11T14:22:03.922488+00:00"
+    },
+    "https://bytes.swiggy.com/designing-swiggy-to-be-truly-accessible-episode-4-56af5495a8f1": {
+      "slug": "designing-swiggy-to-be-truly-accessible-episode-4-56af5495a8f1",
+      "fetchedAt": "2026-03-11T14:22:19.749665+00:00"
+    },
+    "https://bytes.swiggy.com/designing-the-serviceability-platform-at-swiggy-for-high-scale-part-1-751a631f0379": {
+      "slug": "designing-the-serviceability-platform-at-swiggy-for-high-scale-part-1-751a631f0379",
+      "fetchedAt": "2026-03-11T14:22:35.954742+00:00"
+    },
+    "https://bytes.swiggy.com/designing-the-serviceability-platform-at-swiggy-for-high-scale-part-2-ab20365fbc23": {
+      "slug": "designing-the-serviceability-platform-at-swiggy-for-high-scale-part-2-ab20365fbc23",
+      "fetchedAt": "2026-03-11T14:22:49.136036+00:00"
+    },
+    "https://bytes.swiggy.com/designing-the-swiggy-app-to-be-truly-accessible-episode-1-35ef43e5d4e4": {
+      "slug": "designing-the-swiggy-app-to-be-truly-accessible-episode-1-35ef43e5d4e4",
+      "fetchedAt": "2026-03-11T14:23:04.698804+00:00"
+    },
+    "https://bytes.swiggy.com/designing-the-swiggy-app-to-be-truly-accessible-episode-2-7759d72a5f83": {
+      "slug": "designing-the-swiggy-app-to-be-truly-accessible-episode-2-7759d72a5f83",
+      "fetchedAt": "2026-03-11T14:23:13.497351+00:00"
+    },
+    "https://bytes.swiggy.com/designing-the-swiggy-app-to-be-truly-accessible-episode-3-ec7256401c6d": {
+      "slug": "designing-the-swiggy-app-to-be-truly-accessible-episode-3-ec7256401c6d",
+      "fetchedAt": "2026-03-11T14:23:35.839305+00:00"
+    },
+    "https://bytes.swiggy.com/detecting-app-cloning-location-spoofing-on-android-452dd420f390": {
+      "slug": "detecting-app-cloning-location-spoofing-on-android-452dd420f390",
+      "fetchedAt": "2026-03-11T14:23:48.282325+00:00"
+    },
+    "https://bytes.swiggy.com/digging-through-data-meet-swiggys-staff-data-scientist-meghana-negi-ba83df4cef61": {
+      "slug": "digging-through-data-meet-swiggys-staff-data-scientist-meghana-negi-ba83df4cef61",
+      "fetchedAt": "2026-03-11T14:23:54.853867+00:00"
+    },
+    "https://bytes.swiggy.com/donning-several-hats-with-finesse-meet-swiggys-senior-engineering-manager-e913466eb4e5": {
+      "slug": "donning-several-hats-with-finesse-meet-swiggys-senior-engineering-manager-e913466eb4e5",
+      "fetchedAt": "2026-03-11T14:24:01.625252+00:00"
+    },
+    "https://bytes.swiggy.com/effective-technical-writing-eb9679973c4c": {
+      "slug": "effective-technical-writing-eb9679973c4c",
+      "fetchedAt": "2026-03-11T14:24:07.043986+00:00"
+    },
+    "https://bytes.swiggy.com/elevating-the-swiggy-experience-with-voice-search-on-android-a7ad7a81a885": {
+      "slug": "elevating-the-swiggy-experience-with-voice-search-on-android-a7ad7a81a885",
+      "fetchedAt": "2026-03-11T14:24:16.902765+00:00"
+    },
+    "https://bytes.swiggy.com/enabling-an-environment-to-grow-c7413a6ad806": {
+      "slug": "enabling-an-environment-to-grow-c7413a6ad806",
+      "fetchedAt": "2026-03-11T14:24:24.578611+00:00"
+    },
+    "https://bytes.swiggy.com/enabling-large-scale-pytorch-model-inference-9af260538f5f": {
+      "slug": "enabling-large-scale-pytorch-model-inference-9af260538f5f",
+      "fetchedAt": "2026-03-11T14:24:35.684492+00:00"
+    },
+    "https://bytes.swiggy.com/enabling-real-time-business-monitoring-with-klaxon-668fa14c5e38": {
+      "slug": "enabling-real-time-business-monitoring-with-klaxon-668fa14c5e38",
+      "fetchedAt": "2026-03-11T14:24:44.859569+00:00"
+    },
+    "https://bytes.swiggy.com/engineering-challenges-at-swiggy-430dea6c86a3": {
+      "slug": "engineering-challenges-at-swiggy-430dea6c86a3",
+      "fetchedAt": "2026-03-11T14:24:54.435445+00:00"
+    },
+    "https://bytes.swiggy.com/enhancing-brand-visibility-and-trust-with-on-device-ml-models-a-journey-at-swiggy-e3e626f96c52": {
+      "slug": "enhancing-brand-visibility-and-trust-with-on-device-ml-models-a-journey-at-swiggy-e3e626f96c52",
+      "fetchedAt": "2026-03-11T14:25:08.119489+00:00"
+    },
+    "https://bytes.swiggy.com/enhancing-delivery-ux-through-direct-reply-notification-ccd9b31b3a6e": {
+      "slug": "enhancing-delivery-ux-through-direct-reply-notification-ccd9b31b3a6e",
+      "fetchedAt": "2026-03-11T14:25:21.094509+00:00"
+    },
+    "https://bytes.swiggy.com/enhancing-food-recommendations-using-graph-methods-part-1-344dd489b74d": {
+      "slug": "enhancing-food-recommendations-using-graph-methods-part-1-344dd489b74d",
+      "fetchedAt": "2026-03-11T14:25:29.545013+00:00"
+    },
+    "https://bytes.swiggy.com/enhancing-food-recommendations-using-graph-methods-part-2-9a9655c748b1": {
+      "slug": "enhancing-food-recommendations-using-graph-methods-part-2-9a9655c748b1",
+      "fetchedAt": "2026-03-11T14:25:38.715100+00:00"
+    },
+    "https://bytes.swiggy.com/enhancing-operational-efficiency-at-swiggy-with-the-timeline-reducing-mttd-and-mttr-e1b30d0551d0": {
+      "slug": "enhancing-operational-efficiency-at-swiggy-with-the-timeline-reducing-mttd-and-mttr-e1b30d0551d0",
+      "fetchedAt": "2026-03-11T14:25:46.972500+00:00"
+    },
+    "https://bytes.swiggy.com/ever-heard-of-swiggys-agilefall-model-d7355e985d17": {
+      "slug": "ever-heard-of-swiggys-agilefall-model-d7355e985d17",
+      "fetchedAt": "2026-03-11T14:26:01.151765+00:00"
+    },
+    "https://bytes.swiggy.com/experimentation-platform-xp-at-swiggy-part-1-e50b7dbdc773": {
+      "slug": "experimentation-platform-xp-at-swiggy-part-1-e50b7dbdc773",
+      "fetchedAt": "2026-03-11T14:26:09.322860+00:00"
+    },
+    "https://bytes.swiggy.com/experimentation-platform-xp-at-swiggy-part-2-90f4c3953b08": {
+      "slug": "experimentation-platform-xp-at-swiggy-part-2-90f4c3953b08",
+      "fetchedAt": "2026-03-11T14:26:17.359652+00:00"
+    },
+    "https://bytes.swiggy.com/facing-up-to-a-pandemic-a-look-at-swiggys-efforts-to-counter-the-covid-19-threat-7b9ec0bd7e5f": {
+      "slug": "facing-up-to-a-pandemic-a-look-at-swiggys-efforts-to-counter-the-covid-19-threat-7b9ec0bd7e5f",
+      "fetchedAt": "2026-03-11T14:26:37.336072+00:00"
+    },
+    "https://bytes.swiggy.com/fan-s-tastic-search-for-blazing-fast-results-46aa706313ef": {
+      "slug": "fan-s-tastic-search-for-blazing-fast-results-46aa706313ef",
+      "fetchedAt": "2026-03-11T14:27:07.596989+00:00"
+    },
+    "https://bytes.swiggy.com/find-my-food-semantic-embeddings-for-food-search-using-siamese-networks-abb55be0b639": {
+      "slug": "find-my-food-semantic-embeddings-for-food-search-using-siamese-networks-abb55be0b639",
+      "fetchedAt": "2026-03-11T14:27:27.463203+00:00"
+    },
+    "https://bytes.swiggy.com/food-for-thought-swiggys-deep-learning-journey-500950e6368a": {
+      "slug": "food-for-thought-swiggys-deep-learning-journey-500950e6368a",
+      "fetchedAt": "2026-03-11T14:27:35.100444+00:00"
+    },
+    "https://bytes.swiggy.com/foodnet-simplifying-online-food-ordering-with-contextual-food-combos-f3ca7735fd15": {
+      "slug": "foodnet-simplifying-online-food-ordering-with-contextual-food-combos-f3ca7735fd15",
+      "fetchedAt": "2026-03-11T14:27:58.587618+00:00"
+    },
+    "https://bytes.swiggy.com/forever-learning-heres-one-software-engineer-s-journey-that-grew-phenomenally-along-with-swiggy-3fe7fabc3793": {
+      "slug": "forever-learning-heres-one-software-engineer-s-journey-that-grew-phenomenally-along-with-swiggy-3fe7fabc3793",
+      "fetchedAt": "2026-03-11T14:28:14.568097+00:00"
+    },
+    "https://bytes.swiggy.com/from-an-event-to-an-internship-my-journey-with-the-swiggy-tech-team-29a82d896c0d": {
+      "slug": "from-an-event-to-an-internship-my-journey-with-the-swiggy-tech-team-29a82d896c0d",
+      "fetchedAt": "2026-03-11T14:28:23.846092+00:00"
+    },
+    "https://bytes.swiggy.com/from-sde1-to-sde3-an-interesting-rollercoaster-ride-at-swiggy-3dc056c128de": {
+      "slug": "from-sde1-to-sde3-an-interesting-rollercoaster-ride-at-swiggy-3dc056c128de",
+      "fetchedAt": "2026-03-11T14:28:41.395904+00:00"
+    },
+    "https://bytes.swiggy.com/gamer-software-engineer-amateur-video-editor-swiggster-f7beb6fead82": {
+      "slug": "gamer-software-engineer-amateur-video-editor-swiggster-f7beb6fead82",
+      "fetchedAt": "2026-03-11T14:29:06.305997+00:00"
+    },
+    "https://bytes.swiggy.com/gradle-incremental-test-runner-125cee1e68a7": {
+      "slug": "gradle-incremental-test-runner-125cee1e68a7",
+      "fetchedAt": "2026-03-11T14:29:15.119473+00:00"
+    },
+    "https://bytes.swiggy.com/handling-multiple-caches-in-app-cf1e98b74e3b": {
+      "slug": "handling-multiple-caches-in-app-cf1e98b74e3b",
+      "fetchedAt": "2026-03-11T14:29:26.708339+00:00"
+    },
+    "https://bytes.swiggy.com/hermes-a-text-to-sql-solution-at-swiggy-81573fb4fb6e": {
+      "slug": "hermes-a-text-to-sql-solution-at-swiggy-81573fb4fb6e",
+      "fetchedAt": "2026-03-11T14:29:34.799509+00:00"
+    },
+    "https://bytes.swiggy.com/hermes-v3-building-swiggys-conversational-ai-analyst-a41057a2279d": {
+      "slug": "hermes-v3-building-swiggys-conversational-ai-analyst-a41057a2279d",
+      "fetchedAt": "2026-03-11T14:29:45.394039+00:00"
+    },
+    "https://bytes.swiggy.com/hes-always-curious-always-learning-a-senior-product-manager-s-journey-at-swiggy-3d8028968af1": {
+      "slug": "hes-always-curious-always-learning-a-senior-product-manager-s-journey-at-swiggy-3d8028968af1",
+      "fetchedAt": "2026-03-11T14:29:57.537313+00:00"
+    },
+    "https://bytes.swiggy.com/how-ai-at-swiggy-is-transforming-convenience-eae0a32055ae": {
+      "slug": "how-ai-at-swiggy-is-transforming-convenience-eae0a32055ae",
+      "fetchedAt": "2026-03-11T14:30:04.040473+00:00"
+    },
+    "https://bytes.swiggy.com/how-genai-codegen-tools-are-helping-us-deliver-convenience-quicker-133248a0c714": {
+      "slug": "how-genai-codegen-tools-are-helping-us-deliver-convenience-quicker-133248a0c714",
+      "fetchedAt": "2026-03-11T14:30:12.069964+00:00"
+    },
+    "https://bytes.swiggy.com/how-ml-powers-when-is-my-order-coming-part-i-4ef24eae70da": {
+      "slug": "how-ml-powers-when-is-my-order-coming-part-i-4ef24eae70da",
+      "fetchedAt": "2026-03-11T14:30:26.761383+00:00"
+    },
+    "https://bytes.swiggy.com/how-ml-powers-when-is-my-order-coming-part-ii-eae83575e3a9": {
+      "slug": "how-ml-powers-when-is-my-order-coming-part-ii-eae83575e3a9",
+      "fetchedAt": "2026-03-11T14:30:37.376293+00:00"
+    },
+    "https://bytes.swiggy.com/how-swiggy-migrated-its-k8s-workload-to-graviton-d2643bbc7871": {
+      "slug": "how-swiggy-migrated-its-k8s-workload-to-graviton-d2643bbc7871",
+      "fetchedAt": "2026-03-11T14:30:43.795937+00:00"
+    },
+    "https://bytes.swiggy.com/how-to-identify-and-quantify-consumer-love-to-drive-business-outcomes-b82a844634c7": {
+      "slug": "how-to-identify-and-quantify-consumer-love-to-drive-business-outcomes-b82a844634c7",
+      "fetchedAt": "2026-03-11T14:30:54.083076+00:00"
+    },
+    "https://bytes.swiggy.com/how-to-limit-autoscaling-in-on-demand-dynamodb-tables-c57e20cbbbcf": {
+      "slug": "how-to-limit-autoscaling-in-on-demand-dynamodb-tables-c57e20cbbbcf",
+      "fetchedAt": "2026-03-11T14:31:01.944272+00:00"
+    },
+    "https://bytes.swiggy.com/how-we-improved-testing-processes-using-ephemeral-environment-852ed3952429": {
+      "slug": "how-we-improved-testing-processes-using-ephemeral-environment-852ed3952429",
+      "fetchedAt": "2026-03-11T14:31:14.634820+00:00"
+    },
+    "https://bytes.swiggy.com/how-we-optimised-page-load-metrics-on-minis-7db422dff0db": {
+      "slug": "how-we-optimised-page-load-metrics-on-minis-7db422dff0db",
+      "fetchedAt": "2026-03-11T14:31:28.259603+00:00"
+    },
+    "https://bytes.swiggy.com/hyperlocal-forecasting-at-scale-the-swiggy-forecasting-platform-c07ecd5f5b86": {
+      "slug": "hyperlocal-forecasting-at-scale-the-swiggy-forecasting-platform-c07ecd5f5b86",
+      "fetchedAt": "2026-03-11T14:31:43.141437+00:00"
+    },
+    "https://bytes.swiggy.com/identifying-fraud-rings-using-domain-aware-weighted-community-detection-6a14c27c43e0": {
+      "slug": "identifying-fraud-rings-using-domain-aware-weighted-community-detection-6a14c27c43e0",
+      "fetchedAt": "2026-03-11T14:31:58.747654+00:00"
+    },
+    "https://bytes.swiggy.com/image-based-ingredient-prediction-for-an-indian-food-dataset-56b566d98ac0": {
+      "slug": "image-based-ingredient-prediction-for-an-indian-food-dataset-56b566d98ac0",
+      "fetchedAt": "2026-03-11T14:32:13.383640+00:00"
+    },
+    "https://bytes.swiggy.com/improving-ds-productivity-with-dslib-267da7e282b": {
+      "slug": "improving-ds-productivity-with-dslib-267da7e282b",
+      "fetchedAt": "2026-03-11T14:32:27.951679+00:00"
+    },
+    "https://bytes.swiggy.com/improving-search-relevance-in-hyperlocal-food-delivery-using-small-language-models-ecda2acc24e6": {
+      "slug": "improving-search-relevance-in-hyperlocal-food-delivery-using-small-language-models-ecda2acc24e6",
+      "fetchedAt": "2026-03-11T14:32:46.079733+00:00"
+    },
+    "https://bytes.swiggy.com/improving-video-cache-hits-on-swiggy-apps-610f395fff46": {
+      "slug": "improving-video-cache-hits-on-swiggy-apps-610f395fff46",
+      "fetchedAt": "2026-03-11T14:33:00.431286+00:00"
+    },
+    "https://bytes.swiggy.com/insight-into-swiggys-new-multimedia-card-3229d7b4ae75": {
+      "slug": "insight-into-swiggys-new-multimedia-card-3229d7b4ae75",
+      "fetchedAt": "2026-03-11T14:33:16.399901+00:00"
+    },
+    "https://bytes.swiggy.com/introduction-to-cdc-system-an-efficient-way-to-replicate-transactional-data-into-data-lake-c10f99c7a3fd": {
+      "slug": "introduction-to-cdc-system-an-efficient-way-to-replicate-transactional-data-into-data-lake-c10f99c7a3fd",
+      "fetchedAt": "2026-03-11T14:33:23.787089+00:00"
+    },
+    "https://bytes.swiggy.com/item2vec-with-metadata-incorporating-side-information-in-item-embeddings-167fb8d3f404": {
+      "slug": "item2vec-with-metadata-incorporating-side-information-in-item-embeddings-167fb8d3f404",
+      "fetchedAt": "2026-03-11T14:33:34.933298+00:00"
+    },
+    "https://bytes.swiggy.com/jetpack-compose-powering-swiggys-new-coupon-listing-page-1784a0eb27f7": {
+      "slug": "jetpack-compose-powering-swiggys-new-coupon-listing-page-1784a0eb27f7",
+      "fetchedAt": "2026-03-11T14:33:54.441929+00:00"
+    },
+    "https://bytes.swiggy.com/latest-data-on-the-work-life-of-a-data-scientist-at-swiggy-a2f1984cf1a7": {
+      "slug": "latest-data-on-the-work-life-of-a-data-scientist-at-swiggy-a2f1984cf1a7",
+      "fetchedAt": "2026-03-11T14:34:08.797570+00:00"
+    },
+    "https://bytes.swiggy.com/learning-to-predict-two-wheeler-travel-distance-752d836d741d": {
+      "slug": "learning-to-predict-two-wheeler-travel-distance-752d836d741d",
+      "fetchedAt": "2026-03-11T14:34:20.187044+00:00"
+    },
+    "https://bytes.swiggy.com/learning-to-rank-restaurants-c6a69ba4b330": {
+      "slug": "learning-to-rank-restaurants-c6a69ba4b330",
+      "fetchedAt": "2026-03-11T14:34:34.341085+00:00"
+    },
+    "https://bytes.swiggy.com/level-up-with-swiggys-i-a902b73db00a": {
+      "slug": "level-up-with-swiggys-i-a902b73db00a",
+      "fetchedAt": "2026-03-11T14:34:40.111580+00:00"
+    },
+    "https://bytes.swiggy.com/live-data-transfer-rds-to-dynamodb-made-easy-2f2aef94f847": {
+      "slug": "live-data-transfer-rds-to-dynamodb-made-easy-2f2aef94f847",
+      "fetchedAt": "2026-03-11T14:34:49.403452+00:00"
+    },
+    "https://bytes.swiggy.com/logistic-zones-for-assignment-48d9ce06c4a8": {
+      "slug": "logistic-zones-for-assignment-48d9ce06c4a8",
+      "fetchedAt": "2026-03-11T14:35:02.341206+00:00"
+    },
+    "https://bytes.swiggy.com/making-swiggy-buttery-smooth-5e3a15b931bf": {
+      "slug": "making-swiggy-buttery-smooth-5e3a15b931bf",
+      "fetchedAt": "2026-03-11T14:35:30.348721+00:00"
+    },
+    "https://bytes.swiggy.com/media-on-swiggys-mobile-apps-e97452fceb3f": {
+      "slug": "media-on-swiggys-mobile-apps-e97452fceb3f",
+      "fetchedAt": "2026-03-11T14:35:50.659955+00:00"
+    },
+    "https://bytes.swiggy.com/mining-pois-via-address-embeddings-an-unsupervised-approach-c86edb397742": {
+      "slug": "mining-pois-via-address-embeddings-an-unsupervised-approach-c86edb397742",
+      "fetchedAt": "2026-03-11T14:36:10.044041+00:00"
+    },
+    "https://bytes.swiggy.com/mobile-devops-journey-accelerating-ios-development-at-swiggy-with-bitrise-episode-2-ff66fed6578b": {
+      "slug": "mobile-devops-journey-accelerating-ios-development-at-swiggy-with-bitrise-episode-2-ff66fed6578b",
+      "fetchedAt": "2026-03-11T14:36:27.777845+00:00"
+    },
+    "https://bytes.swiggy.com/mobile-devops-journey-evolving-mobile-development-at-swiggy-with-bitrise-episode-1-970442617654": {
+      "slug": "mobile-devops-journey-evolving-mobile-development-at-swiggy-with-bitrise-episode-1-970442617654",
+      "fetchedAt": "2026-03-11T14:36:36.621374+00:00"
+    },
+    "https://bytes.swiggy.com/more-than-just-numbers-featuring-swiggys-analytics-lady-ishu-jain-5eef783b6722": {
+      "slug": "more-than-just-numbers-featuring-swiggys-analytics-lady-ishu-jain-5eef783b6722",
+      "fetchedAt": "2026-03-11T14:36:44.034056+00:00"
+    },
+    "https://bytes.swiggy.com/multi-armed-bandits-at-swiggy-5b1a4b1c2724": {
+      "slug": "multi-armed-bandits-at-swiggy-5b1a4b1c2724",
+      "fetchedAt": "2026-03-11T14:36:55.445333+00:00"
+    },
+    "https://bytes.swiggy.com/multi-armed-bandits-at-swiggy-part-2-ec6c4f7e7e29": {
+      "slug": "multi-armed-bandits-at-swiggy-part-2-ec6c4f7e7e29",
+      "fetchedAt": "2026-03-11T14:37:13.342241+00:00"
+    },
+    "https://bytes.swiggy.com/multi-objective-ranking-using-constrained-optimization-in-gbts-7f814f5ed696": {
+      "slug": "multi-objective-ranking-using-constrained-optimization-in-gbts-7f814f5ed696",
+      "fetchedAt": "2026-03-11T14:37:29.349683+00:00"
+    },
+    "https://bytes.swiggy.com/navigating-new-routes-meet-the-ladies-who-read-build-maps-624cf98231a9": {
+      "slug": "navigating-new-routes-meet-the-ladies-who-read-build-maps-624cf98231a9",
+      "fetchedAt": "2026-03-11T14:37:38.122686+00:00"
+    },
+    "https://bytes.swiggy.com/new-user-product-recommendations-for-q-commerce-via-hierarchical-cross-domain-learning-0a7f97b25405": {
+      "slug": "new-user-product-recommendations-for-q-commerce-via-hierarchical-cross-domain-learning-0a7f97b25405",
+      "fetchedAt": "2026-03-11T14:37:54.515241+00:00"
+    },
+    "https://bytes.swiggy.com/optimising-the-swiggy-restaurant-app-133c75811f13": {
+      "slug": "optimising-the-swiggy-restaurant-app-133c75811f13",
+      "fetchedAt": "2026-03-11T14:38:01.571485+00:00"
+    },
+    "https://bytes.swiggy.com/optimizing-batch-writes-to-redis-using-pipelining-d480ebaf4653": {
+      "slug": "optimizing-batch-writes-to-redis-using-pipelining-d480ebaf4653",
+      "fetchedAt": "2026-03-11T14:38:10.143075+00:00"
+    },
+    "https://bytes.swiggy.com/optimizing-configuration-time-for-android-apps-that-use-react-native-81bb8c9bffdf": {
+      "slug": "optimizing-configuration-time-for-android-apps-that-use-react-native-81bb8c9bffdf",
+      "fetchedAt": "2026-03-11T14:38:21.384748+00:00"
+    },
+    "https://bytes.swiggy.com/optimizing-the-picking-process-to-enable-faster-deliveries-for-instamart-93de0fe9d819": {
+      "slug": "optimizing-the-picking-process-to-enable-faster-deliveries-for-instamart-93de0fe9d819",
+      "fetchedAt": "2026-03-11T14:38:34.295597+00:00"
+    },
+    "https://bytes.swiggy.com/our-paper-on-spoken-language-identification-systems-accepted-for-interspeech-2020-2df9cf68fc90": {
+      "slug": "our-paper-on-spoken-language-identification-systems-accepted-for-interspeech-2020-2df9cf68fc90",
+      "fetchedAt": "2026-03-11T14:38:39.972975+00:00"
+    },
+    "https://bytes.swiggy.com/our-team-comprising-of-aditya-kiran-brahma-prathyush-potluri-meghana-kanapaneni-sumanth-prabhu-1f74d5e4b730": {
+      "slug": "our-team-comprising-of-aditya-kiran-brahma-prathyush-potluri-meghana-kanapaneni-sumanth-prabhu-1f74d5e4b730",
+      "fetchedAt": "2026-03-11T14:38:45.514876+00:00"
+    },
+    "https://bytes.swiggy.com/outstanding-conference-paper-award-at-ieem2020-18c576b60b40": {
+      "slug": "outstanding-conference-paper-award-at-ieem2020-18c576b60b40",
+      "fetchedAt": "2026-03-11T14:38:51.703972+00:00"
+    },
+    "https://bytes.swiggy.com/paper-accepted-for-localrec-workshop-at-acm-sigspatial-35a40cafde55": {
+      "slug": "paper-accepted-for-localrec-workshop-at-acm-sigspatial-35a40cafde55",
+      "fetchedAt": "2026-03-11T14:38:58.020734+00:00"
+    },
+    "https://bytes.swiggy.com/paper-accepted-to-aimlsystems-2022-b4be7b278160": {
+      "slug": "paper-accepted-to-aimlsystems-2022-b4be7b278160",
+      "fetchedAt": "2026-03-11T14:39:03.459001+00:00"
+    },
+    "https://bytes.swiggy.com/paper-accepted-to-cd-make-2022-4867e667db26": {
+      "slug": "paper-accepted-to-cd-make-2022-4867e667db26",
+      "fetchedAt": "2026-03-11T14:39:10.301765+00:00"
+    },
+    "https://bytes.swiggy.com/paper-accepted-to-cikm-2022-7e77f62fde6d": {
+      "slug": "paper-accepted-to-cikm-2022-7e77f62fde6d",
+      "fetchedAt": "2026-03-11T14:39:15.346154+00:00"
+    },
+    "https://bytes.swiggy.com/paper-accepted-to-specom-2022-2434e3a10835": {
+      "slug": "paper-accepted-to-specom-2022-2434e3a10835",
+      "fetchedAt": "2026-03-11T14:39:20.658449+00:00"
+    },
+    "https://bytes.swiggy.com/paper-on-assignment-logic-publis-c9116c53e84d": {
+      "slug": "paper-on-assignment-logic-publis-c9116c53e84d",
+      "fetchedAt": "2026-03-11T14:39:26.802841+00:00"
+    },
+    "https://bytes.swiggy.com/paper-on-large-scale-weak-supervision-for-fraud-detection-accepted-to-the-applied-ds-track-at-ecml-6e8cb7b677e8": {
+      "slug": "paper-on-large-scale-weak-supervision-for-fraud-detection-accepted-to-the-applied-ds-track-at-ecml-6e8cb7b677e8",
+      "fetchedAt": "2026-03-11T14:39:38.280038+00:00"
+    },
+    "https://bytes.swiggy.com/paper-on-ml-based-batching-prediction-published-ba3f16d060c1": {
+      "slug": "paper-on-ml-based-batching-prediction-published-ba3f16d060c1",
+      "fetchedAt": "2026-03-11T14:39:44.628345+00:00"
+    },
+    "https://bytes.swiggy.com/paper-on-multi-objective-optimization-accepted-to-the-udml-workshop-at-the-icdm20-conference-a77e8b260b38": {
+      "slug": "paper-on-multi-objective-optimization-accepted-to-the-udml-workshop-at-the-icdm20-conference-a77e8b260b38",
+      "fetchedAt": "2026-03-11T14:39:50.857365+00:00"
+    },
+    "https://bytes.swiggy.com/paper-on-optimization-framework-f970fd968229": {
+      "slug": "paper-on-optimization-framework-f970fd968229",
+      "fetchedAt": "2026-03-11T14:39:56.835724+00:00"
+    },
+    "https://bytes.swiggy.com/paper-on-optimization-framework-presented-at-euro2021-ac73dcb752d9": {
+      "slug": "paper-on-optimization-framework-presented-at-euro2021-ac73dcb752d9",
+      "fetchedAt": "2026-03-11T14:40:02.510353+00:00"
+    },
+    "https://bytes.swiggy.com/paper-on-semantic-embeddings-for-better-query-understanding-accepted-to-the-nlpir20-conference-298f775baf1a": {
+      "slug": "paper-on-semantic-embeddings-for-better-query-understanding-accepted-to-the-nlpir20-conference-298f775baf1a",
+      "fetchedAt": "2026-03-11T14:40:08.872572+00:00"
+    },
+    "https://bytes.swiggy.com/personalising-the-swiggy-homepage-layout-part-i-1048dba5e703": {
+      "slug": "personalising-the-swiggy-homepage-layout-part-i-1048dba5e703",
+      "fetchedAt": "2026-03-11T14:40:27.239355+00:00"
+    },
+    "https://bytes.swiggy.com/personalising-the-swiggy-homepage-layout-part-ii-450c55a40058": {
+      "slug": "personalising-the-swiggy-homepage-layout-part-ii-450c55a40058",
+      "fetchedAt": "2026-03-11T14:40:44.253267+00:00"
+    },
+    "https://bytes.swiggy.com/pop-faster-how-automated-ops-improved-ux-led-to-17-more-orders-c155af3a169b": {
+      "slug": "pop-faster-how-automated-ops-improved-ux-led-to-17-more-orders-c155af3a169b",
+      "fetchedAt": "2026-03-11T14:40:50.797899+00:00"
+    },
+    "https://bytes.swiggy.com/predicting-food-delivery-time-at-cart-cda23a84ba63": {
+      "slug": "predicting-food-delivery-time-at-cart-cda23a84ba63",
+      "fetchedAt": "2026-03-11T14:41:02.422483+00:00"
+    },
+    "https://bytes.swiggy.com/re-architecting-swiggys-logistics-systems-ddf301a29fa0": {
+      "slug": "re-architecting-swiggys-logistics-systems-ddf301a29fa0",
+      "fetchedAt": "2026-03-11T14:41:15.004444+00:00"
+    },
+    "https://bytes.swiggy.com/real-time-mask-and-gear-compliance-check-for-swiggy-delivery-partners-adf804b7b902": {
+      "slug": "real-time-mask-and-gear-compliance-check-for-swiggy-delivery-partners-adf804b7b902",
+      "fetchedAt": "2026-03-11T14:41:40.543054+00:00"
+    },
+    "https://bytes.swiggy.com/reflecting-on-a-year-of-generative-ai-at-swiggy-a-brief-review-of-achievements-learnings-and-13a9671dc624": {
+      "slug": "reflecting-on-a-year-of-generative-ai-at-swiggy-a-brief-review-of-achievements-learnings-and-13a9671dc624",
+      "fetchedAt": "2026-03-11T14:42:03.006642+00:00"
+    },
+    "https://bytes.swiggy.com/rill-state-implementation-937bf51e077f": {
+      "slug": "rill-state-implementation-937bf51e077f",
+      "fetchedAt": "2026-03-11T14:42:11.907565+00:00"
+    },
+    "https://bytes.swiggy.com/root-cause-analysis-swiggy-2fac5fe4510b": {
+      "slug": "root-cause-analysis-swiggy-2fac5fe4510b",
+      "fetchedAt": "2026-03-11T14:42:19.537942+00:00"
+    },
+    "https://bytes.swiggy.com/running-geo-queries-at-scale-adea70f5af45": {
+      "slug": "running-geo-queries-at-scale-adea70f5af45",
+      "fetchedAt": "2026-03-11T14:42:27.914097+00:00"
+    },
+    "https://bytes.swiggy.com/scaling-swiggys-mobile-ecosystem-1-n-23e0b2191457": {
+      "slug": "scaling-swiggys-mobile-ecosystem-1-n-23e0b2191457",
+      "fetchedAt": "2026-03-11T14:42:33.785967+00:00"
+    },
+    "https://bytes.swiggy.com/segmentation-at-swiggy-part-1-d9566ab1a442": {
+      "slug": "segmentation-at-swiggy-part-1-d9566ab1a442",
+      "fetchedAt": "2026-03-11T14:42:39.717874+00:00"
+    },
+    "https://bytes.swiggy.com/segmentation-at-swiggy-part-2-a1fcb503751d": {
+      "slug": "segmentation-at-swiggy-part-2-a1fcb503751d",
+      "fetchedAt": "2026-03-11T14:42:46.919164+00:00"
+    },
+    "https://bytes.swiggy.com/segmentation-at-swiggy-part-3-final-part-b740f7a3697d": {
+      "slug": "segmentation-at-swiggy-part-3-final-part-b740f7a3697d",
+      "fetchedAt": "2026-03-11T14:42:57.920734+00:00"
+    },
+    "https://bytes.swiggy.com/service-level-testing-for-microservices-in-swiggy-62b6b3f865f4": {
+      "slug": "service-level-testing-for-microservices-in-swiggy-62b6b3f865f4",
+      "fetchedAt": "2026-03-11T14:43:04.158778+00:00"
+    },
+    "https://bytes.swiggy.com/smart-push-notifications-multi-armed-bandits-at-swiggy-part-4-f5698f2af0a6": {
+      "slug": "smart-push-notifications-multi-armed-bandits-at-swiggy-part-4-f5698f2af0a6",
+      "fetchedAt": "2026-03-11T14:43:14.245932+00:00"
+    },
+    "https://bytes.swiggy.com/smart-select-tailored-cart-suggestions-38267fdca12b": {
+      "slug": "smart-select-tailored-cart-suggestions-38267fdca12b",
+      "fetchedAt": "2026-03-11T14:43:32.947386+00:00"
+    },
+    "https://bytes.swiggy.com/solving-the-last-last-mile-maps-poi-entry-gates-f7fb0d5ddd47": {
+      "slug": "solving-the-last-last-mile-maps-poi-entry-gates-f7fb0d5ddd47",
+      "fetchedAt": "2026-03-11T14:43:55.435199+00:00"
+    },
+    "https://bytes.swiggy.com/streamlining-menu-browsing-with-ocr-text-recognition-71e89f5bda28": {
+      "slug": "streamlining-menu-browsing-with-ocr-text-recognition-71e89f5bda28",
+      "fetchedAt": "2026-03-11T14:44:06.556084+00:00"
+    },
+    "https://bytes.swiggy.com/super-discoverability-for-a-super-app-01e92a79d6e1": {
+      "slug": "super-discoverability-for-a-super-app-01e92a79d6e1",
+      "fetchedAt": "2026-03-11T14:44:22.404983+00:00"
+    },
+    "https://bytes.swiggy.com/swiggy-awards-contracts-for-its-drone-trials-2764ce4921e8": {
+      "slug": "swiggy-awards-contracts-for-its-drone-trials-2764ce4921e8",
+      "fetchedAt": "2026-03-11T14:44:29.570473+00:00"
+    },
+    "https://bytes.swiggy.com/swiggy-design-language-system-1ef9cca11186": {
+      "slug": "swiggy-design-language-system-1ef9cca11186",
+      "fetchedAt": "2026-03-11T14:44:48.397216+00:00"
+    },
+    "https://bytes.swiggy.com/swiggys-generative-ai-journey-a-peek-into-the-future-2193c7166d9a": {
+      "slug": "swiggys-generative-ai-journey-a-peek-into-the-future-2193c7166d9a",
+      "fetchedAt": "2026-03-11T14:44:55.663782+00:00"
+    },
+    "https://bytes.swiggy.com/swiggys-hard-hitter-shivangi-srivastava-31d7bfde45b2": {
+      "slug": "swiggys-hard-hitter-shivangi-srivastava-31d7bfde45b2",
+      "fetchedAt": "2026-03-11T14:45:01.893758+00:00"
+    },
+    "https://bytes.swiggy.com/swiggys-high-flyer-shilpa-gnaneshwar-elevating-to-newer-heights-3a3d34072857": {
+      "slug": "swiggys-high-flyer-shilpa-gnaneshwar-elevating-to-newer-heights-3a3d34072857",
+      "fetchedAt": "2026-03-11T14:45:07.797828+00:00"
+    },
+    "https://bytes.swiggy.com/swiggys-leading-lady-of-data-science-800ef9b0213": {
+      "slug": "swiggys-leading-lady-of-data-science-800ef9b0213",
+      "fetchedAt": "2026-03-11T14:45:18.935705+00:00"
+    },
+    "https://bytes.swiggy.com/swiss-knife-that-powers-the-swiggy-app-dff9dc49a580": {
+      "slug": "swiss-knife-that-powers-the-swiggy-app-dff9dc49a580",
+      "fetchedAt": "2026-03-11T14:45:38.844912+00:00"
+    },
+    "https://bytes.swiggy.com/the-curious-case-of-a-software-development-engineer-from-intern-to-sde-1-6c4a1e3058ca": {
+      "slug": "the-curious-case-of-a-software-development-engineer-from-intern-to-sde-1-6c4a1e3058ca",
+      "fetchedAt": "2026-03-11T14:45:52.046440+00:00"
+    },
+    "https://bytes.swiggy.com/the-curious-case-of-eco-saver-5e2cf80730d7": {
+      "slug": "the-curious-case-of-eco-saver-5e2cf80730d7",
+      "fetchedAt": "2026-03-11T14:46:10.905248+00:00"
+    },
+    "https://bytes.swiggy.com/the-hidden-cost-of-waiting-build-time-as-a-productivity-killer-98d08bc7fd73": {
+      "slug": "the-hidden-cost-of-waiting-build-time-as-a-productivity-killer-98d08bc7fd73",
+      "fetchedAt": "2026-03-11T14:46:23.842389+00:00"
+    },
+    "https://bytes.swiggy.com/the-osm-distance-service-part-1-evaluation-metrics-and-routing-configurations-6e8686ca814f": {
+      "slug": "the-osm-distance-service-part-1-evaluation-metrics-and-routing-configurations-6e8686ca814f",
+      "fetchedAt": "2026-03-11T14:46:45.530055+00:00"
+    },
+    "https://bytes.swiggy.com/the-osm-distance-service-part-2-fixing-roads-90bd6d3bb60f": {
+      "slug": "the-osm-distance-service-part-2-fixing-roads-90bd6d3bb60f",
+      "fetchedAt": "2026-03-11T14:47:03.341022+00:00"
+    },
+    "https://bytes.swiggy.com/two-papers-accepted-in-the-ads-track-at-cods-comad-cbbfd66f2d98": {
+      "slug": "two-papers-accepted-in-the-ads-track-at-cods-comad-cbbfd66f2d98",
+      "fetchedAt": "2026-03-11T14:47:09.759994+00:00"
+    },
+    "https://bytes.swiggy.com/unlocking-cost-savings-compression-in-ingestions-alb-optimization-c7f99fecd744": {
+      "slug": "unlocking-cost-savings-compression-in-ingestions-alb-optimization-c7f99fecd744",
+      "fetchedAt": "2026-03-11T14:47:15.362590+00:00"
+    },
+    "https://bytes.swiggy.com/uplift-modeling-aka-heterogeneous-treatment-effects-evaluation-ad4e3fcf1d76": {
+      "slug": "uplift-modeling-aka-heterogeneous-treatment-effects-evaluation-ad4e3fcf1d76",
+      "fetchedAt": "2026-03-11T14:47:41.853669+00:00"
+    },
+    "https://bytes.swiggy.com/using-deep-learning-for-ranking-in-dish-search-4df2772dddce": {
+      "slug": "using-deep-learning-for-ranking-in-dish-search-4df2772dddce",
+      "fetchedAt": "2026-03-11T14:47:58.806943+00:00"
+    },
+    "https://bytes.swiggy.com/using-deep-learning-to-detect-dissonance-between-address-text-and-location-4b228bc2c3fb": {
+      "slug": "using-deep-learning-to-detect-dissonance-between-address-text-and-location-4b228bc2c3fb",
+      "fetchedAt": "2026-03-11T14:48:18.110952+00:00"
+    },
+    "https://bytes.swiggy.com/utilizing-devnet-with-variational-loss-for-fraud-detection-in-hyperlocal-food-delivery-19e72999acfb": {
+      "slug": "utilizing-devnet-with-variational-loss-for-fraud-detection-in-hyperlocal-food-delivery-19e72999acfb",
+      "fetchedAt": "2026-03-11T14:48:32.262701+00:00"
+    },
+    "https://bytes.swiggy.com/video-stories-and-caching-mechanism-ios-61fc63cc04f8": {
+      "slug": "video-stories-and-caching-mechanism-ios-61fc63cc04f8",
+      "fetchedAt": "2026-03-11T14:48:47.201885+00:00"
+    },
+    "https://bytes.swiggy.com/we-hate-black-boxes-part-i-64e87ad6b56e": {
+      "slug": "we-hate-black-boxes-part-i-64e87ad6b56e",
+      "fetchedAt": "2026-03-11T14:48:56.170741+00:00"
+    },
+    "https://bytes.swiggy.com/we-hate-black-boxes-part-ii-44039b4b0ced": {
+      "slug": "we-hate-black-boxes-part-ii-44039b4b0ced",
+      "fetchedAt": "2026-03-11T14:49:08.774762+00:00"
+    },
+    "https://bytes.swiggy.com/what-applied-research-team-did-in-2021-5e67aea8c915": {
+      "slug": "what-applied-research-team-did-in-2021-5e67aea8c915",
+      "fetchedAt": "2026-03-11T14:49:24.922023+00:00"
+    },
+    "https://bytes.swiggy.com/what-is-it-like-to-work-as-an-ios-developer-at-swiggy-971058bf4530": {
+      "slug": "what-is-it-like-to-work-as-an-ios-developer-at-swiggy-971058bf4530",
+      "fetchedAt": "2026-03-11T14:49:31.305897+00:00"
+    },
+    "https://bytes.swiggy.com/what-serviceability-means-at-swiggy-c94c1aad352a": {
+      "slug": "what-serviceability-means-at-swiggy-c94c1aad352a",
+      "fetchedAt": "2026-03-11T14:49:45.621695+00:00"
+    },
+    "https://bytes.swiggy.com/who-captured-the-flag-7f44065d78f0": {
+      "slug": "who-captured-the-flag-7f44065d78f0",
+      "fetchedAt": "2026-03-11T14:49:53.692698+00:00"
+    },
+    "https://bytes.swiggy.com/winner-at-the-11th-annual-aegis-graham-bell-award-for-innovation-5c31f4b4ba78": {
+      "slug": "winner-at-the-11th-annual-aegis-graham-bell-award-for-innovation-5c31f4b4ba78",
+      "fetchedAt": "2026-03-11T14:49:59.345914+00:00"
+    }
+  }
+}
