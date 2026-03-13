@@ -17,7 +17,8 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "WebSearch",
-      "WebFetch(domain:www.anthropic.com)"
+      "WebFetch(domain:www.anthropic.com)",
+      "Bash(git pull:*)"
     ]
   }
 }
