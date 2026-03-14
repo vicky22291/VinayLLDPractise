@@ -1,0 +1,2509 @@
+{
+  "fetched": {
+    "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/": {
+      "slug": "garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping",
+      "id": 78375,
+      "fetchedAt": "2026-03-14T10:54:14.916813+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/": {
+      "slug": "stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning",
+      "id": 78344,
+      "fetchedAt": "2026-03-14T10:54:19.137301+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/": {
+      "slug": "nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai",
+      "id": 78329,
+      "fetchedAt": "2026-03-14T10:54:21.443991+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/10/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-terminal-agents/": {
+      "slug": "nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-terminal-agents",
+      "id": 78310,
+      "fetchedAt": "2026-03-14T10:54:23.662471+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/09/bytedance-releases-deerflow-2-0-an-open-source-superagent-harness-that-orchestrates-sub-agents-memory-and-sandboxes-to-do-complex-tasks/": {
+      "slug": "bytedance-releases-deerflow-2-0-an-open-source-superagent-harness-that-orchestrates-sub-agents-memory-and-sandboxes-to-do-complex-tasks",
+      "id": 78304,
+      "fetchedAt": "2026-03-14T10:54:25.755342+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/09/andrew-ngs-team-releases-context-hub-an-open-source-tool-that-gives-your-coding-agent-the-up-to-date-api-documentation-it-needs/": {
+      "slug": "andrew-ngs-team-releases-context-hub-an-open-source-tool-that-gives-your-coding-agent-the-up-to-date-api-documentation-it-needs",
+      "id": 78300,
+      "fetchedAt": "2026-03-14T11:00:19.156892+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/06/google-ai-releases-android-bench-an-evaluation-framework-and-leaderboard-for-llms-in-android-development/": {
+      "slug": "google-ai-releases-android-bench-an-evaluation-framework-and-leaderboard-for-llms-in-android-development",
+      "id": 78239,
+      "fetchedAt": "2026-03-14T11:00:24.052872+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/05/google-ai-releases-a-cli-tool-gws-for-workspace-apis-providing-a-unified-interface-for-humans-and-ai-agents/": {
+      "slug": "google-ai-releases-a-cli-tool-gws-for-workspace-apis-providing-a-unified-interface-for-humans-and-ai-agents",
+      "id": 78228,
+      "fetchedAt": "2026-03-14T11:00:26.435847+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/05/openai-releases-symphony-an-open-source-agentic-framework-for-orchestrating-autonomous-ai-agents-through-structured-scalable-implementation-runs/": {
+      "slug": "openai-releases-symphony-an-open-source-agentic-framework-for-orchestrating-autonomous-ai-agents-through-structured-scalable-implementation-runs",
+      "id": 78223,
+      "fetchedAt": "2026-03-14T11:00:28.777417+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/": {
+      "slug": "yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency",
+      "id": 78213,
+      "fetchedAt": "2026-03-14T11:00:34.364820+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/04/langwatch-open-sources-the-missing-evaluation-layer-for-ai-agents-to-enable-end-to-end-tracing-simulation-and-systematic-testing/": {
+      "slug": "langwatch-open-sources-the-missing-evaluation-layer-for-ai-agents-to-enable-end-to-end-tracing-simulation-and-systematic-testing",
+      "id": 78206,
+      "fetchedAt": "2026-03-14T11:00:36.527087+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/": {
+      "slug": "alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution",
+      "id": 78178,
+      "fetchedAt": "2026-03-14T11:00:38.587397+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/02/alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications/": {
+      "slug": "alibaba-just-released-qwen-3-5-small-models-a-family-of-0-8b-to-9b-parameters-built-for-on-device-applications",
+      "id": 78171,
+      "fetchedAt": "2026-03-14T11:00:40.961356+00:00"
+    },
+    "https://www.marktechpost.com/2026/03/01/alibaba-team-open-sources-copaw-a-high-performance-personal-agent-workstation-for-developers-to-scale-multi-channel-ai-workflows-and-memory/": {
+      "slug": "alibaba-team-open-sources-copaw-a-high-performance-personal-agent-workstation-for-developers-to-scale-multi-channel-ai-workflows-and-memory",
+      "id": 78151,
+      "fetchedAt": "2026-03-14T11:00:42.886229+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/": {
+      "slug": "a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning",
+      "id": 78138,
+      "fetchedAt": "2026-03-14T11:00:45.104163+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/": {
+      "slug": "perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks",
+      "id": 78124,
+      "fetchedAt": "2026-03-14T11:00:47.078454+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/26/nous-research-releases-hermes-agent-to-fix-ai-forgetfulness-with-multi-level-memory-and-dedicated-remote-terminal-access-support/": {
+      "slug": "nous-research-releases-hermes-agent-to-fix-ai-forgetfulness-with-multi-level-memory-and-dedicated-remote-terminal-access-support",
+      "id": 78113,
+      "fetchedAt": "2026-03-14T11:00:50.000992+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/25/liquid-ais-new-lfm2-24b-a2b-hybrid-architecture-blends-attention-with-convolutions-to-solve-the-scaling-bottlenecks-of-modern-llms/": {
+      "slug": "liquid-ais-new-lfm2-24b-a2b-hybrid-architecture-blends-attention-with-convolutions-to-solve-the-scaling-bottlenecks-of-modern-llms",
+      "id": 78090,
+      "fetchedAt": "2026-03-14T11:00:51.854373+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/24/meta-ai-open-sources-gcm-for-better-gpu-cluster-monitoring-to-ensure-high-performance-ai-training-and-hardware-reliability/": {
+      "slug": "meta-ai-open-sources-gcm-for-better-gpu-cluster-monitoring-to-ensure-high-performance-ai-training-and-hardware-reliability",
+      "id": 78085,
+      "fetchedAt": "2026-03-14T11:00:53.796193+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/24/alibaba-qwen-team-releases-qwen-3-5-medium-model-series-a-production-powerhouse-proving-that-smaller-ai-models-are-smarter/": {
+      "slug": "alibaba-qwen-team-releases-qwen-3-5-medium-model-series-a-production-powerhouse-proving-that-smaller-ai-models-are-smarter",
+      "id": 78077,
+      "fetchedAt": "2026-03-14T11:00:55.955566+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/23/composio-open-sources-agent-orchestrator-to-help-ai-developers-build-scalable-multi-agent-workflows-beyond-the-traditional-react-loops/": {
+      "slug": "composio-open-sources-agent-orchestrator-to-help-ai-developers-build-scalable-multi-agent-workflows-beyond-the-traditional-react-loops",
+      "id": 78059,
+      "fetchedAt": "2026-03-14T11:00:56.249039+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/21/is-there-a-community-edition-of-palantir-meet-openplanter-an-open-source-recursive-ai-agent-for-your-micro-surveillance-use-cases/": {
+      "slug": "is-there-a-community-edition-of-palantir-meet-openplanter-an-open-source-recursive-ai-agent-for-your-micro-surveillance-use-cases",
+      "id": 78015,
+      "fetchedAt": "2026-03-14T11:00:57.960455+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/20/nvidia-releases-dreamdojo-an-open-source-robot-world-model-trained-on-44711-hours-of-real-world-human-video-data/": {
+      "slug": "nvidia-releases-dreamdojo-an-open-source-robot-world-model-trained-on-44711-hours-of-real-world-human-video-data",
+      "id": 77999,
+      "fetchedAt": "2026-03-14T11:01:00.047664+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/16/alibaba-qwen-team-releases-qwen3-5-397b-moe-model-with-17b-active-parameters-and-1m-token-context-for-ai-agents/": {
+      "slug": "alibaba-qwen-team-releases-qwen3-5-397b-moe-model-with-17b-active-parameters-and-1m-token-context-for-ai-agents",
+      "id": 77920,
+      "fetchedAt": "2026-03-14T11:01:02.033924+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/13/kyutai-releases-hibiki-zero-a3b-parameter-simultaneous-speech-to-speech-translation-model-using-grpo-reinforcement-learning-without-any-word-level-aligned-data/": {
+      "slug": "kyutai-releases-hibiki-zero-a3b-parameter-simultaneous-speech-to-speech-translation-model-using-grpo-reinforcement-learning-without-any-word-level-aligned-data",
+      "id": 77876,
+      "fetchedAt": "2026-03-14T11:01:03.845883+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/10/alibaba-open-sources-zvec-an-embedded-vector-database-bringing-sqlite-like-simplicity-and-high-performance-on-device-rag-to-edge-applications/": {
+      "slug": "alibaba-open-sources-zvec-an-embedded-vector-database-bringing-sqlite-like-simplicity-and-high-performance-on-device-rag-to-edge-applications",
+      "id": 77825,
+      "fetchedAt": "2026-03-14T11:01:04.026034+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/08/bytedance-releases-protenix-v1-a-new-open-source-model-achieving-af3-level-performance-in-biomolecular-structure-prediction/": {
+      "slug": "bytedance-releases-protenix-v1-a-new-open-source-model-achieving-af3-level-performance-in-biomolecular-structure-prediction",
+      "id": 77799,
+      "fetchedAt": "2026-03-14T11:01:05.638000+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/06/nvidia-ai-releases-c-radiov4-vision-backbone-unifying-siglip2-dinov3-sam3-for-classification-dense-prediction-segmentation-workloads-at-scale/": {
+      "slug": "nvidia-ai-releases-c-radiov4-vision-backbone-unifying-siglip2-dinov3-sam3-for-classification-dense-prediction-segmentation-workloads-at-scale",
+      "id": 77778,
+      "fetchedAt": "2026-03-14T11:01:06.057010+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/04/nvidia-ai-release-vibetensor-an-ai-generated-deep-learning-runtime-built-end-to-end-by-coding-agents-programmatically/": {
+      "slug": "nvidia-ai-release-vibetensor-an-ai-generated-deep-learning-runtime-built-end-to-end-by-coding-agents-programmatically",
+      "id": 77739,
+      "fetchedAt": "2026-03-14T11:01:07.858219+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/03/qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development/": {
+      "slug": "qwen-team-releases-qwen3-coder-next-an-open-weight-language-model-designed-specifically-for-coding-agents-and-local-development",
+      "id": 77671,
+      "fetchedAt": "2026-03-14T11:01:09.258817+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/02/google-releases-conductor-a-context-driven-gemini-cli-extension-that-stores-knowledge-as-markdown-and-orchestrates-agentic-workflows/": {
+      "slug": "google-releases-conductor-a-context-driven-gemini-cli-extension-that-stores-knowledge-as-markdown-and-orchestrates-agentic-workflows",
+      "id": 77646,
+      "fetchedAt": "2026-03-14T11:01:11.281641+00:00"
+    },
+    "https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/": {
+      "slug": "nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference",
+      "id": 77629,
+      "fetchedAt": "2026-03-14T11:01:13.220845+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/30/robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai/": {
+      "slug": "robbyant-open-sources-lingbot-world-a-real-time-world-model-for-interactive-simulation-and-embodied-ai",
+      "id": 77617,
+      "fetchedAt": "2026-03-14T11:01:15.342875+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/30/ai2-releases-sera-soft-verified-coding-agents-built-with-supervised-training-only-for-practical-repository-level-automation-workflows/": {
+      "slug": "ai2-releases-sera-soft-verified-coding-agents-built-with-supervised-training-only-for-practical-repository-level-automation-workflows",
+      "id": 77610,
+      "fetchedAt": "2026-03-14T11:01:19.988723+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/30/deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding/": {
+      "slug": "deepseek-ai-releases-deepseek-ocr-2-with-causal-visual-flow-encoder-for-layout-aware-document-understanding",
+      "id": 77594,
+      "fetchedAt": "2026-03-14T11:01:22.225193+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/29/ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation/": {
+      "slug": "ant-group-releases-lingbot-vla-a-vision-language-action-foundation-model-for-real-world-robot-manipulation",
+      "id": 77580,
+      "fetchedAt": "2026-03-14T11:01:24.189303+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/28/google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome/": {
+      "slug": "google-deepmind-unveils-alphagenome-a-unified-sequence-to-function-model-using-hybrid-transformers-and-u-nets-to-decode-the-human-genome",
+      "id": 77558,
+      "fetchedAt": "2026-03-14T11:01:26.330836+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/28/mbzuai-releases-k2-think-v2-a-fully-sovereign-70b-reasoning-model-for-math-code-and-science/": {
+      "slug": "mbzuai-releases-k2-think-v2-a-fully-sovereign-70b-reasoning-model-for-math-code-and-science",
+      "id": 77542,
+      "fetchedAt": "2026-03-14T11:01:28.329581+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/27/tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library/": {
+      "slug": "tencent-hunyuan-releases-hpc-ops-a-high-performance-llm-inference-operator-library",
+      "id": 77539,
+      "fetchedAt": "2026-03-14T11:01:30.289990+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/27/moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution/": {
+      "slug": "moonshot-ai-releases-kimi-k2-5-an-open-source-visual-agentic-intelligence-model-with-native-swarm-execution",
+      "id": 77529,
+      "fetchedAt": "2026-03-14T11:01:32.610724+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/27/dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents/": {
+      "slug": "dsgym-offers-a-reusable-container-based-substrate-for-building-and-benchmarking-data-science-agents",
+      "id": 77524,
+      "fetchedAt": "2026-03-14T11:01:37.721342+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/25/what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations/": {
+      "slug": "what-is-clawdbot-how-a-local-first-agent-stack-turns-chats-into-real-automations",
+      "id": 77495,
+      "fetchedAt": "2026-03-14T11:01:39.700264+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/21/flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning/": {
+      "slug": "flashlabs-researchers-release-chroma-1-0-a-4b-real-time-speech-dialogue-model-with-personalized-voice-cloning",
+      "id": 77442,
+      "fetchedAt": "2026-03-14T11:01:41.561603+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/19/microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models/": {
+      "slug": "microsoft-research-releases-optimind-a-20b-parameter-model-that-turns-natural-language-into-solver-ready-optimization-models",
+      "id": 77388,
+      "fetchedAt": "2026-03-14T11:01:43.585972+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/18/nous-research-releases-nouscoder-14b-a-competitive-olympiad-programming-model-post-trained-on-qwen3-14b-via-reinforcement-learning/": {
+      "slug": "nous-research-releases-nouscoder-14b-a-competitive-olympiad-programming-model-post-trained-on-qwen3-14b-via-reinforcement-learning",
+      "id": 77380,
+      "fetchedAt": "2026-03-14T11:01:45.579833+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/18/vercel-releases-agent-skills-a-package-manager-for-ai-coding-agents-with-10-years-of-react-and-next-js-optimisation-rules/": {
+      "slug": "vercel-releases-agent-skills-a-package-manager-for-ai-coding-agents-with-10-years-of-react-and-next-js-optimisation-rules",
+      "id": 77368,
+      "fetchedAt": "2026-03-14T11:01:47.400910+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/17/nvidia-releases-personaplex-7b-v1-a-real-time-speech-to-speech-model-designed-for-natural-and-full-duplex-conversations/": {
+      "slug": "nvidia-releases-personaplex-7b-v1-a-real-time-speech-to-speech-model-designed-for-natural-and-full-duplex-conversations",
+      "id": 77362,
+      "fetchedAt": "2026-03-14T11:01:49.242727+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/16/black-forest-labs-releases-flux-2-klein-compact-flow-models-for-interactive-visual-intelligence/": {
+      "slug": "black-forest-labs-releases-flux-2-klein-compact-flow-models-for-interactive-visual-intelligence",
+      "id": 77353,
+      "fetchedAt": "2026-03-14T11:01:51.335141+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/15/google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages/": {
+      "slug": "google-ai-releases-translategemma-a-new-family-of-open-translation-models-built-on-gemma-3-with-support-for-55-languages",
+      "id": 77343,
+      "fetchedAt": "2026-03-14T11:01:53.367800+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression/": {
+      "slug": "nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-compression",
+      "id": 77329,
+      "fetchedAt": "2026-03-14T11:01:55.181318+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/13/google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers/": {
+      "slug": "google-ai-releases-medgemma-1-5-the-latest-update-to-their-open-medical-ai-models-for-developers",
+      "id": 77305,
+      "fetchedAt": "2026-03-14T11:01:57.093832+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/12/google-ai-releases-universal-commerce-protocol-ucp-an-open-source-standard-designed-to-power-the-next-generation-of-agentic-commerce/": {
+      "slug": "google-ai-releases-universal-commerce-protocol-ucp-an-open-source-standard-designed-to-power-the-next-generation-of-agentic-commerce",
+      "id": 77285,
+      "fetchedAt": "2026-03-14T11:01:58.907983+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/11/meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit/": {
+      "slug": "meet-seta-open-source-training-reinforcement-learning-environments-for-terminal-agents-with-400-tasks-and-camel-toolkit",
+      "id": 77267,
+      "fetchedAt": "2026-03-14T11:02:00.968783+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/07/tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window/": {
+      "slug": "tii-abu-dhabi-released-falcon-h1r-7b-a-new-reasoning-model-outperforming-others-in-math-and-coding-with-only-7b-params-with-256k-context-window",
+      "id": 77236,
+      "fetchedAt": "2026-03-14T11:02:02.734677+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/06/nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents/": {
+      "slug": "nvidia-ai-released-nemotron-speech-asr-a-new-open-source-transcription-model-designed-from-the-ground-up-for-low-latency-use-cases-like-voice-agents",
+      "id": 77226,
+      "fetchedAt": "2026-03-14T11:02:04.638044+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/06/liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents/": {
+      "slug": "liquid-ai-releases-lfm2-5-a-compact-ai-model-family-for-real-on-device-agents",
+      "id": 77217,
+      "fetchedAt": "2026-03-14T11:02:06.409437+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/06/marktechpost-releases-ai2025dev-a-structured-intelligence-layer-for-ai-models-benchmarks-and-ecosystem-signals/": {
+      "slug": "marktechpost-releases-ai2025dev-a-structured-intelligence-layer-for-ai-models-benchmarks-and-ecosystem-signals",
+      "id": 77201,
+      "fetchedAt": "2026-03-14T11:02:08.334127+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/04/llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression/": {
+      "slug": "llm-pruning-collection-a-jax-based-repo-for-structured-and-unstructured-llm-compression",
+      "id": 77195,
+      "fetchedAt": "2026-03-14T11:02:10.228061+00:00"
+    },
+    "https://www.marktechpost.com/2026/01/04/tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment/": {
+      "slug": "tencent-researchers-release-tencent-hy-mt1-5-a-new-translation-models-featuring-1-8b-and-7b-models-designed-for-seamless-on-device-and-cloud-deployment",
+      "id": 77187,
+      "fetchedAt": "2026-03-14T11:02:11.932551+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/31/how-cloudflares-tokio-quiche-makes-quic-and-http-3-a-first-class-citizen-in-rust-backends/": {
+      "slug": "how-cloudflares-tokio-quiche-makes-quic-and-http-3-a-first-class-citizen-in-rust-backends",
+      "id": 77152,
+      "fetchedAt": "2026-03-14T11:02:13.824500+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/31/tencent-released-tencent-hy-motion-1-0-a-billion-parameter-text-to-motion-model-built-on-the-diffusion-transformer-dit-architecture-and-flow-matching/": {
+      "slug": "tencent-released-tencent-hy-motion-1-0-a-billion-parameter-text-to-motion-model-built-on-the-diffusion-transformer-dit-architecture-and-flow-matching",
+      "id": 77138,
+      "fetchedAt": "2026-03-14T11:02:16.638645+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/30/alibaba-tongyi-lab-releases-mai-ui-a-foundation-gui-agent-family-that-surpasses-gemini-2-5-pro-seed1-8-and-ui-tars-2-on-androidworld/": {
+      "slug": "alibaba-tongyi-lab-releases-mai-ui-a-foundation-gui-agent-family-that-surpasses-gemini-2-5-pro-seed1-8-and-ui-tars-2-on-androidworld",
+      "id": 77124,
+      "fetchedAt": "2026-03-14T11:02:20.750218+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/28/nvidia-ai-researchers-release-nitrogen-an-open-vision-action-foundation-model-for-generalist-gaming-agents/": {
+      "slug": "nvidia-ai-researchers-release-nitrogen-an-open-vision-action-foundation-model-for-generalist-gaming-agents",
+      "id": 77105,
+      "fetchedAt": "2026-03-14T11:02:23.363787+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/23/instadeep-introduces-nucleotide-transformer-v3-ntv3-a-new-multi-species-genomics-foundation-model-designed-for-1-mb-context-lengths-at-single-nucleotide-esolution/": {
+      "slug": "instadeep-introduces-nucleotide-transformer-v3-ntv3-a-new-multi-species-genomics-foundation-model-designed-for-1-mb-context-lengths-at-single-nucleotide-esolution",
+      "id": 77047,
+      "fetchedAt": "2026-03-14T11:02:26.153341+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/22/meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval/": {
+      "slug": "meta-ai-open-sourced-perception-encoder-audiovisual-pe-av-the-audiovisual-encoder-powering-sam-audio-and-large-scale-multimodal-retrieval",
+      "id": 77027,
+      "fetchedAt": "2026-03-14T11:02:28.623305+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/22/google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces/": {
+      "slug": "google-introduces-a2ui-agent-to-user-interface-an-open-sourc-protocol-for-agent-driven-interfaces",
+      "id": 77020,
+      "fetchedAt": "2026-03-14T11:02:32.799770+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/21/anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models/": {
+      "slug": "anthropic-ai-releases-bloom-an-open-source-agentic-framework-for-automated-behavioral-evaluations-of-frontier-ai-models",
+      "id": 77011,
+      "fetchedAt": "2026-03-14T11:02:34.412306+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/20/nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai/": {
+      "slug": "nvidia-ai-releases-nemotron-3-a-hybrid-mamba-transformer-moe-stack-for-long-context-agentic-ai",
+      "id": 76991,
+      "fetchedAt": "2026-03-14T11:02:36.471081+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/13/openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges/": {
+      "slug": "openai-has-released-the-circuit-sparsity-a-set-of-open-tools-for-connecting-weight-sparse-models-and-dense-baselines-through-activation-bridges",
+      "id": 76914,
+      "fetchedAt": "2026-03-14T11:02:38.283655+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/12/nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning/": {
+      "slug": "nanbeige4-3b-thinking-how-a-23t-token-pipeline-pushes-3b-models-past-30b-class-reasoning",
+      "id": 76887,
+      "fetchedAt": "2026-03-14T11:02:40.140447+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/11/copilotkit-v1-50-brings-ag-ui-agents-directly-into-your-app-with-the-new-useagent-hook/": {
+      "slug": "copilotkit-v1-50-brings-ag-ui-agents-directly-into-your-app-with-the-new-useagent-hook",
+      "id": 76828,
+      "fetchedAt": "2026-03-14T11:02:42.587052+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/09/zhipu-ai-releases-glm-4-6v-a-128k-context-vision-language-model-with-native-tool-calling/": {
+      "slug": "zhipu-ai-releases-glm-4-6v-a-128k-context-vision-language-model-with-native-tool-calling",
+      "id": 76819,
+      "fetchedAt": "2026-03-14T11:02:44.321300+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/07/cisco-released-cisco-time-series-model-their-first-open-weights-foundation-model-based-on-decoder-only-transformer-architecture/": {
+      "slug": "cisco-released-cisco-time-series-model-their-first-open-weights-foundation-model-based-on-decoder-only-transformer-architecture",
+      "id": 76788,
+      "fetchedAt": "2026-03-14T11:02:46.195633+00:00"
+    },
+    "https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/": {
+      "slug": "apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression",
+      "id": 76736,
+      "fetchedAt": "2026-03-14T11:02:48.162136+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/": {
+      "slug": "stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling",
+      "id": 76633,
+      "fetchedAt": "2026-03-14T11:02:50.226691+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/28/nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection/": {
+      "slug": "nvidia-ai-releases-orchestrator-8b-a-reinforcement-learning-trained-controller-for-efficient-tool-and-model-selection",
+      "id": 76619,
+      "fetchedAt": "2026-03-14T11:02:52.311893+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/28/deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024/": {
+      "slug": "deepseek-ai-releases-deepseekmath-v2-the-open-weights-maths-model-that-scored-118-120-on-putnam-2024",
+      "id": 76601,
+      "fetchedAt": "2026-03-14T11:02:56.841348+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/26/oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents/": {
+      "slug": "oceanbase-releases-seekdb-an-open-source-ai-native-hybrid-search-database-for-multi-model-rag-and-ai-agents",
+      "id": 76592,
+      "fetchedAt": "2026-03-14T11:02:58.486456+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/26/tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm/": {
+      "slug": "tencent-hunyuan-releases-hunyuanocr-a-1b-parameter-end-to-end-ocr-expert-vlm",
+      "id": 76574,
+      "fetchedAt": "2026-03-14T11:03:00.141490+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/25/black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines/": {
+      "slug": "black-forest-labs-releases-flux-2-a-32b-flow-matching-transformer-for-production-image-pipelines",
+      "id": 76567,
+      "fetchedAt": "2026-03-14T11:03:02.354705+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/24/microsoft-ai-releases-fara-7b-an-efficient-agentic-model-for-computer-use/": {
+      "slug": "microsoft-ai-releases-fara-7b-an-efficient-agentic-model-for-computer-use",
+      "id": 76529,
+      "fetchedAt": "2026-03-14T11:03:04.286485+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/23/nvidia-ai-releases-nemotron-elastic-12b-a-single-ai-model-that-gives-you-6b-9b-12b-variants-without-extra-training-cost/": {
+      "slug": "nvidia-ai-releases-nemotron-elastic-12b-a-single-ai-model-that-gives-you-6b-9b-12b-variants-without-extra-training-cost",
+      "id": 76509,
+      "fetchedAt": "2026-03-14T11:03:06.465936+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/20/allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack/": {
+      "slug": "allen-institute-for-ai-ai2-introduces-olmo-3-an-open-source-7b-and-32b-llm-family-built-on-the-dolma-3-and-dolci-stack",
+      "id": 76431,
+      "fetchedAt": "2026-03-14T11:03:08.268220+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/20/meta-ai-releases-segment-anything-model-3-sam-3-for-promptable-concept-segmentation-in-images-and-videos/": {
+      "slug": "meta-ai-releases-segment-anything-model-3-sam-3-for-promptable-concept-segmentation-in-images-and-videos",
+      "id": 76411,
+      "fetchedAt": "2026-03-14T11:03:10.338228+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/17/uni-moe-2-0-omni-an-open-qwen2-5-7b-based-omnimodal-moe-for-text-image-audio-and-video-understanding/": {
+      "slug": "uni-moe-2-0-omni-an-open-qwen2-5-7b-based-omnimodal-moe-for-text-image-audio-and-video-understanding",
+      "id": 76355,
+      "fetchedAt": "2026-03-14T11:03:12.192553+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/": {
+      "slug": "cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents",
+      "id": 76285,
+      "fetchedAt": "2026-03-14T11:03:13.867351+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/14/meet-sdialog-an-open-source-python-toolkit-for-building-simulating-and-evaluating-llm-based-conversational-agents-end-to-end/": {
+      "slug": "meet-sdialog-an-open-source-python-toolkit-for-building-simulating-and-evaluating-llm-based-conversational-agents-end-to-end",
+      "id": 76241,
+      "fetchedAt": "2026-03-14T11:03:16.169095+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/11/baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family/": {
+      "slug": "baidu-releases-ernie-4-5-vl-28b-a3b-thinking-an-open-source-and-compact-multimodal-reasoning-model-under-the-ernie-4-5-family",
+      "id": 76181,
+      "fetchedAt": "2026-03-14T11:03:20.039601+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/11/maya1-a-new-open-source-3b-voice-model-for-expressive-text-to-speech-on-a-single-gpu/": {
+      "slug": "maya1-a-new-open-source-3b-voice-model-for-expressive-text-to-speech-on-a-single-gpu",
+      "id": 76169,
+      "fetchedAt": "2026-03-14T11:03:22.533968+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/10/gelato-30b-a3b-a-state-of-the-art-grounding-model-for-gui-computer-use-tasks-surpassing-computer-grounding-models-like-gta1-32b/": {
+      "slug": "gelato-30b-a3b-a-state-of-the-art-grounding-model-for-gui-computer-use-tasks-surpassing-computer-grounding-models-like-gta1-32b",
+      "id": 76143,
+      "fetchedAt": "2026-03-14T11:03:25.660692+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/": {
+      "slug": "stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing",
+      "id": 76101,
+      "fetchedAt": "2026-03-14T11:03:30.550172+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/": {
+      "slug": "prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models",
+      "id": 76076,
+      "fetchedAt": "2026-03-14T11:03:32.650406+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/07/google-extends-its-agent-development-kit-adk-to-go-bringing-native-agentic-workflows-to-backend-teams/": {
+      "slug": "google-extends-its-agent-development-kit-adk-to-go-bringing-native-agentic-workflows-to-backend-teams",
+      "id": 76064,
+      "fetchedAt": "2026-03-14T11:03:34.429319+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/06/moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference/": {
+      "slug": "moonshot-ai-releases-kimi-k2-thinking-an-impressive-thinking-model-that-can-execute-up-to-200-300-sequential-tool-calls-without-human-interference",
+      "id": 76029,
+      "fetchedAt": "2026-03-14T11:03:35.908705+00:00"
+    },
+    "https://www.marktechpost.com/2025/11/06/cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents/": {
+      "slug": "cmu-researchers-introduce-ppp-and-userville-to-train-proactive-and-personalized-llm-agents",
+      "id": 75985,
+      "fetchedAt": "2026-03-14T11:03:37.639678+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/30/ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability/": {
+      "slug": "ant-group-releases-ling-2-0-a-reasoning-first-moe-language-model-series-built-on-the-principle-that-each-activation-enhances-reasoning-capability",
+      "id": 75827,
+      "fetchedAt": "2026-03-14T11:03:39.946644+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/29/ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge/": {
+      "slug": "ibm-ai-team-releases-granite-4-0-nano-series-compact-and-open-source-small-models-built-for-ai-at-the-edge",
+      "id": 75816,
+      "fetchedAt": "2026-03-14T11:03:41.938264+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/": {
+      "slug": "microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent",
+      "id": 75799,
+      "fetchedAt": "2026-03-14T11:03:43.906628+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/28/liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag/": {
+      "slug": "liquid-ai-releases-lfm2-colbert-350m-a-new-small-model-that-brings-late-interaction-retrieval-to-multilingual-and-cross-lingual-rag",
+      "id": 75791,
+      "fetchedAt": "2026-03-14T11:03:45.734521+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/28/minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster/": {
+      "slug": "minimax-open-sources-minimax-m2-a-mini-model-built-for-max-coding-and-agentic-workflows-at-8-claude-sonnet-price-and-2x-faster",
+      "id": 75778,
+      "fetchedAt": "2026-03-14T11:03:47.663052+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/28/zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression/": {
+      "slug": "zhipu-ai-releases-glyph-an-ai-framework-for-scaling-the-context-length-through-visual-text-compression",
+      "id": 75767,
+      "fetchedAt": "2026-03-14T11:03:49.816241+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/26/meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus/": {
+      "slug": "meet-kvcached-a-machine-learning-library-to-enable-virtualized-elastic-kv-cache-for-llm-serving-on-shared-gpus",
+      "id": 75738,
+      "fetchedAt": "2026-03-14T11:03:51.414373+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/22/pokeeresearch-7b-an-open-7b-deep-research-agent-trained-with-reinforcement-learning-from-ai-feedback-rlaif-and-a-robust-reasoning-scaffold/": {
+      "slug": "pokeeresearch-7b-an-open-7b-deep-research-agent-trained-with-reinforcement-learning-from-ai-feedback-rlaif-and-a-robust-reasoning-scaffold",
+      "id": 75610,
+      "fetchedAt": "2026-03-14T11:03:53.197066+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/20/deepseek-just-released-a-3b-ocr-model-a-3b-vlm-designed-for-high-performance-ocr-and-structured-document-conversion/": {
+      "slug": "deepseek-just-released-a-3b-ocr-model-a-3b-vlm-designed-for-high-performance-ocr-and-structured-document-conversion",
+      "id": 75552,
+      "fetchedAt": "2026-03-14T11:03:55.168560+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/20/meet-langchains-deepagents-library-and-a-practical-example-to-see-how-deepagents-actually-work-in-action/": {
+      "slug": "meet-langchains-deepagents-library-and-a-practical-example-to-see-how-deepagents-actually-work-in-action",
+      "id": 75534,
+      "fetchedAt": "2026-03-14T11:03:57.212986+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/18/kong-releases-volcano-a-typescript-mcp-native-sdk-for-building-production-ready-ai-agents-with-llm-reasoning-and-real-world-actions/": {
+      "slug": "kong-releases-volcano-a-typescript-mcp-native-sdk-for-building-production-ready-ai-agents-with-llm-reasoning-and-real-world-actions",
+      "id": 75495,
+      "fetchedAt": "2026-03-14T11:03:59.392067+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/17/qualifire-ai-releases-rogue-an-end-to-end-agentic-ai-testing-framework-evaluating-the-performance-of-ai-agents/": {
+      "slug": "qualifire-ai-releases-rogue-an-end-to-end-agentic-ai-testing-framework-evaluating-the-performance-of-ai-agents",
+      "id": 75424,
+      "fetchedAt": "2026-03-14T11:04:00.793352+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/14/alibabas-qwen-ai-releases-compact-dense-qwen3-vl-4b-8b-instruct-thinking-with-fp8-checkpoints/": {
+      "slug": "alibabas-qwen-ai-releases-compact-dense-qwen3-vl-4b-8b-instruct-thinking-with-fp8-checkpoints",
+      "id": 75385,
+      "fetchedAt": "2026-03-14T11:04:02.687632+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/14/andrej-karpathy-releases-nanochat-a-minimal-end-to-end-chatgpt-style-pipeline-you-can-train-in-4-hours-for-100/": {
+      "slug": "andrej-karpathy-releases-nanochat-a-minimal-end-to-end-chatgpt-style-pipeline-you-can-train-in-4-hours-for-100",
+      "id": 75381,
+      "fetchedAt": "2026-03-14T11:04:05.116077+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/14/servicenow-ai-research-releases-drbench-a-realistic-enterprise-deep-research-benchmark/": {
+      "slug": "servicenow-ai-research-releases-drbench-a-realistic-enterprise-deep-research-benchmark",
+      "id": 75350,
+      "fetchedAt": "2026-03-14T11:04:06.608263+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/11/sentient-ai-releases-roma-an-open-source-and-agi-focused-meta-agent-framework-for-building-ai-agents-with-hierarchical-task-execution/": {
+      "slug": "sentient-ai-releases-roma-an-open-source-and-agi-focused-meta-agent-framework-for-building-ai-agents-with-hierarchical-task-execution",
+      "id": 75284,
+      "fetchedAt": "2026-03-14T11:04:08.046815+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/10/liquid-ai-releases-lfm2-8b-a1b-an-on-device-mixture-of-experts-with-8-3b-params-and-a-1-5b-active-params-per-token/": {
+      "slug": "liquid-ai-releases-lfm2-8b-a1b-an-on-device-mixture-of-experts-with-8-3b-params-and-a-1-5b-active-params-per-token",
+      "id": 75257,
+      "fetchedAt": "2026-03-14T11:04:09.880835+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/10/google-open-sources-an-mcp-server-for-the-google-ads-api-bringing-llm-native-access-to-ads-data/": {
+      "slug": "google-open-sources-an-mcp-server-for-the-google-ads-api-bringing-llm-native-access-to-ads-data",
+      "id": 75234,
+      "fetchedAt": "2026-03-14T11:04:11.713090+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/09/microsoft-research-releases-skala-a-deep-learning-exchange-correlation-functional-targeting-hybrid-level-accuracy-at-semi-local-cost/": {
+      "slug": "microsoft-research-releases-skala-a-deep-learning-exchange-correlation-functional-targeting-hybrid-level-accuracy-at-semi-local-cost",
+      "id": 75216,
+      "fetchedAt": "2026-03-14T11:04:13.500142+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/08/stanford-researchers-released-agentflow-in-the-flow-reinforcement-learning-rl-for-modular-tool-using-ai-agents/": {
+      "slug": "stanford-researchers-released-agentflow-in-the-flow-reinforcement-learning-rl-for-modular-tool-using-ai-agents",
+      "id": 75185,
+      "fetchedAt": "2026-03-14T11:04:15.619478+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/08/anthropic-ai-releases-petri-an-open-source-framework-for-automated-auditing-by-using-ai-agents-to-test-the-behaviors-of-target-models-on-diverse-scenarios/": {
+      "slug": "anthropic-ai-releases-petri-an-open-source-framework-for-automated-auditing-by-using-ai-agents-to-test-the-behaviors-of-target-models-on-diverse-scenarios",
+      "id": 75174,
+      "fetchedAt": "2026-03-14T11:04:19.825536+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/06/a-new-agency-focused-supervision-approach-scales-software-ai-agents-with-only-78-examples/": {
+      "slug": "a-new-agency-focused-supervision-approach-scales-software-ai-agents-with-only-78-examples",
+      "id": 75113,
+      "fetchedAt": "2026-03-14T11:04:22.264932+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/05/salesforce-ai-research-releases-coda-1-7b-a-discrete-diffusion-code-model-with-bidirectional-parallel-token-generation/": {
+      "slug": "salesforce-ai-research-releases-coda-1-7b-a-discrete-diffusion-code-model-with-bidirectional-parallel-token-generation",
+      "id": 75098,
+      "fetchedAt": "2026-03-14T11:04:24.069926+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/03/can-a-small-language-model-predict-kernel-latency-memory-and-model-accuracy-from-code-a-new-regression-language-model-rlm-says-yes/": {
+      "slug": "can-a-small-language-model-predict-kernel-latency-memory-and-model-accuracy-from-code-a-new-regression-language-model-rlm-says-yes",
+      "id": 75058,
+      "fetchedAt": "2026-03-14T11:04:26.422349+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/03/aws-open-sources-an-mcp-server-for-bedrock-agentcore-to-streamline-ai-agent-development/": {
+      "slug": "aws-open-sources-an-mcp-server-for-bedrock-agentcore-to-streamline-ai-agent-development",
+      "id": 75049,
+      "fetchedAt": "2026-03-14T11:04:30.397838+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/03/microsoft-releases-microsoft-agent-framework-an-open-source-sdk-and-runtime-that-simplifies-the-orchestration-of-multi-agent-systems/": {
+      "slug": "microsoft-releases-microsoft-agent-framework-an-open-source-sdk-and-runtime-that-simplifies-the-orchestration-of-multi-agent-systems",
+      "id": 75045,
+      "fetchedAt": "2026-03-14T11:04:32.283717+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/02/neuphonic-open-sources-neutts-air-a-748m-parameter-on-device-speech-language-model-with-instant-voice-cloning/": {
+      "slug": "neuphonic-open-sources-neutts-air-a-748m-parameter-on-device-speech-language-model-with-instant-voice-cloning",
+      "id": 75041,
+      "fetchedAt": "2026-03-14T11:04:34.371323+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/02/thinking-machines-launches-tinker-a-low-level-training-api-that-abstracts-distributed-llm-fine-tuning-without-hiding-the-knobs/": {
+      "slug": "thinking-machines-launches-tinker-a-low-level-training-api-that-abstracts-distributed-llm-fine-tuning-without-hiding-the-knobs",
+      "id": 75034,
+      "fetchedAt": "2026-03-14T11:04:36.410913+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/02/ibm-released-new-granite-4-0-models-with-a-novel-hybrid-mamba-2-transformer-architecture-drastically-reducing-memory-use-without-sacrificing-performance/": {
+      "slug": "ibm-released-new-granite-4-0-models-with-a-novel-hybrid-mamba-2-transformer-architecture-drastically-reducing-memory-use-without-sacrificing-performance",
+      "id": 75023,
+      "fetchedAt": "2026-03-14T11:04:38.410404+00:00"
+    },
+    "https://www.marktechpost.com/2025/10/01/servicenow-ai-releases-apriel-1-5-15b-thinker-an-open-weights-multimodal-reasoning-model-that-hits-frontier-level-performance-on-a-single-gpu-budget/": {
+      "slug": "servicenow-ai-releases-apriel-1-5-15b-thinker-an-open-weights-multimodal-reasoning-model-that-hits-frontier-level-performance-on-a-single-gpu-budget",
+      "id": 75015,
+      "fetchedAt": "2026-03-14T11:04:42.771572+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/30/zhipu-ai-releases-glm-4-6-achieving-enhancements-in-real-world-coding-long-context-processing-reasoning-searching-and-agentic-ai/": {
+      "slug": "zhipu-ai-releases-glm-4-6-achieving-enhancements-in-real-world-coding-long-context-processing-reasoning-searching-and-agentic-ai",
+      "id": 74971,
+      "fetchedAt": "2026-03-14T11:04:44.283079+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/29/meet-ollm-a-lightweight-python-library-that-brings-100k-context-llm-inference-to-8-gb-consumer-gpus-via-ssd-offload-no-quantization-required/": {
+      "slug": "meet-ollm-a-lightweight-python-library-that-brings-100k-context-llm-inference-to-8-gb-consumer-gpus-via-ssd-offload-no-quantization-required",
+      "id": 74944,
+      "fetchedAt": "2026-03-14T11:04:46.104710+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/27/what-is-asyncio-getting-started-with-asynchronous-python-and-using-asyncio-in-an-ai-application-with-an-llm/": {
+      "slug": "what-is-asyncio-getting-started-with-asynchronous-python-and-using-asyncio-in-an-ai-application-with-an-llm",
+      "id": 74904,
+      "fetchedAt": "2026-03-14T11:04:47.862370+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/26/how-to-build-an-intelligent-ai-desktop-automation-agent-with-natural-language-commands-and-interactive-simulation/": {
+      "slug": "how-to-build-an-intelligent-ai-desktop-automation-agent-with-natural-language-commands-and-interactive-simulation",
+      "id": 74901,
+      "fetchedAt": "2026-03-14T11:04:49.269242+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/26/meet-qwen3guard-the-qwen3-based-multilingual-safety-guardrail-models-built-for-global-real-time-ai-safety/": {
+      "slug": "meet-qwen3guard-the-qwen3-based-multilingual-safety-guardrail-models-built-for-global-real-time-ai-safety",
+      "id": 74892,
+      "fetchedAt": "2026-03-14T11:04:51.252392+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/26/hugging-face-releases-smol2operator-a-fully-open-source-pipeline-to-train-a-2-2b-vlm-into-an-agentic-gui-coder/": {
+      "slug": "hugging-face-releases-smol2operator-a-fully-open-source-pipeline-to-train-a-2-2b-vlm-into-an-agentic-gui-coder",
+      "id": 74888,
+      "fetchedAt": "2026-03-14T11:04:53.206502+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/23/cloudflare-ai-team-just-open-sourced-vibesdk-that-lets-anyone-build-and-deploy-a-full-ai-vibe-coding-platform-with-a-single-click/": {
+      "slug": "cloudflare-ai-team-just-open-sourced-vibesdk-that-lets-anyone-build-and-deploy-a-full-ai-vibe-coding-platform-with-a-single-click",
+      "id": 74818,
+      "fetchedAt": "2026-03-14T11:04:54.860240+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/23/google-ai-introduces-the-public-preview-of-chrome-devtools-mcp-making-your-coding-agent-control-and-inspect-a-live-chrome-browser/": {
+      "slug": "google-ai-introduces-the-public-preview-of-chrome-devtools-mcp-making-your-coding-agent-control-and-inspect-a-live-chrome-browser",
+      "id": 74801,
+      "fetchedAt": "2026-03-14T11:04:56.703127+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/23/meet-voxtream-an-open-sourced-full-stream-zero-shot-tts-model-for-real-time-use-that-begins-speaking-from-the-first-word/": {
+      "slug": "meet-voxtream-an-open-sourced-full-stream-zero-shot-tts-model-for-real-time-use-that-begins-speaking-from-the-first-word",
+      "id": 74790,
+      "fetchedAt": "2026-03-14T11:04:58.728161+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/22/how-to-create-reliable-conversational-ai-agents-using-parlant/": {
+      "slug": "how-to-create-reliable-conversational-ai-agents-using-parlant",
+      "id": 74784,
+      "fetchedAt": "2026-03-14T11:05:00.163214+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/22/alibaba-qwen-team-just-released-fp8-builds-of-qwen3-next-80b-a3b-instruct-thinking-bringing-80b-3b-active-hybrid-moe-to-commodity-gpus/": {
+      "slug": "alibaba-qwen-team-just-released-fp8-builds-of-qwen3-next-80b-a3b-instruct-thinking-bringing-80b-3b-active-hybrid-moe-to-commodity-gpus",
+      "id": 74763,
+      "fetchedAt": "2026-03-14T11:05:01.804834+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/20/xiaomi-released-mimo-audio-a-7b-speech-language-model-trained-on-100m-hours-with-high-fidelity-discrete-tokens/": {
+      "slug": "xiaomi-released-mimo-audio-a-7b-speech-language-model-trained-on-100m-hours-with-high-fidelity-discrete-tokens",
+      "id": 74697,
+      "fetchedAt": "2026-03-14T11:05:03.592097+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/19/qwen3-asr-toolkit-an-advanced-open-source-python-command-line-toolkit-for-using-the-qwen-asr-api-beyond-the-3-minutes-10-mb-limit/": {
+      "slug": "qwen3-asr-toolkit-an-advanced-open-source-python-command-line-toolkit-for-using-the-qwen-asr-api-beyond-the-3-minutes-10-mb-limit",
+      "id": 74679,
+      "fetchedAt": "2026-03-14T11:05:05.313492+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/18/bringing-ai-agents-into-any-ui-the-ag-ui-protocol-for-real-time-structured-agent-frontend-streams/": {
+      "slug": "bringing-ai-agents-into-any-ui-the-ag-ui-protocol-for-real-time-structured-agent-frontend-streams",
+      "id": 74651,
+      "fetchedAt": "2026-03-14T11:05:07.073388+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/18/h-company-releases-holo1-5-an-open-weight-computer-use-vlms-focused-on-gui-localization-and-ui-vqa/": {
+      "slug": "h-company-releases-holo1-5-an-open-weight-computer-use-vlms-focused-on-gui-localization-and-ui-vqa",
+      "id": 74639,
+      "fetchedAt": "2026-03-14T11:05:08.894941+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/18/alibaba-releases-tongyi-deepresearch-a-30b-parameter-open-source-agentic-llm-optimized-for-long-horizon-research/": {
+      "slug": "alibaba-releases-tongyi-deepresearch-a-30b-parameter-open-source-agentic-llm-optimized-for-long-horizon-research",
+      "id": 74634,
+      "fetchedAt": "2026-03-14T11:05:10.722685+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/17/ibm-ai-releases-granite-docling-258m-an-open-source-enterprise-ready-document-ai-model/": {
+      "slug": "ibm-ai-releases-granite-docling-258m-an-open-source-enterprise-ready-document-ai-model",
+      "id": 74628,
+      "fetchedAt": "2026-03-14T11:05:11.052853+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/16/google-ai-introduces-agent-payments-protocol-ap2-an-open-protocol-for-interoperable-ai-agent-checkout-across-merchants-and-wallets/": {
+      "slug": "google-ai-introduces-agent-payments-protocol-ap2-an-open-protocol-for-interoperable-ai-agent-checkout-across-merchants-and-wallets",
+      "id": 74604,
+      "fetchedAt": "2026-03-14T11:05:12.684001+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/15/moonshotai-released-checkpoint-engine-a-simple-middleware-to-update-model-weights-in-llm-inference-engines-effective-for-reinforcement-learning/": {
+      "slug": "moonshotai-released-checkpoint-engine-a-simple-middleware-to-update-model-weights-in-llm-inference-engines-effective-for-reinforcement-learning",
+      "id": 74585,
+      "fetchedAt": "2026-03-14T11:05:14.683255+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/15/nvidia-ai-open-sources-vipe-video-pose-engine-a-powerful-and-versatile-3d-video-annotation-tool-for-spatial-ai/": {
+      "slug": "nvidia-ai-open-sources-vipe-video-pose-engine-a-powerful-and-versatile-3d-video-annotation-tool-for-spatial-ai",
+      "id": 74561,
+      "fetchedAt": "2026-03-14T11:05:17.018514+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/14/meta-ai-released-mobilellm-r1-a-edge-reasoning-model-with-less-than-1b-parameters-and-achieves-2x-5x-performance-boost-over-other-fully-open-source-ai-models/": {
+      "slug": "meta-ai-released-mobilellm-r1-a-edge-reasoning-model-with-less-than-1b-parameters-and-achieves-2x-5x-performance-boost-over-other-fully-open-source-ai-models",
+      "id": 74555,
+      "fetchedAt": "2026-03-14T11:05:20.792460+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/14/ut-austin-and-servicenow-research-team-releases-au-harness-an-open-source-toolkit-for-holistic-evaluation-of-audio-llms/": {
+      "slug": "ut-austin-and-servicenow-research-team-releases-au-harness-an-open-source-toolkit-for-holistic-evaluation-of-audio-llms",
+      "id": 74523,
+      "fetchedAt": "2026-03-14T11:05:22.538189+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/13/google-ai-releases-vaultgemma-the-largest-and-most-capable-open-model-1b-parameters-trained-from-scratch-with-differential-privacy/": {
+      "slug": "google-ai-releases-vaultgemma-the-largest-and-most-capable-open-model-1b-parameters-trained-from-scratch-with-differential-privacy",
+      "id": 74506,
+      "fetchedAt": "2026-03-14T11:05:24.303223+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/12/ibm-ai-research-releases-two-english-granite-embedding-models-both-based-on-the-modernbert-architecture/": {
+      "slug": "ibm-ai-research-releases-two-english-granite-embedding-models-both-based-on-the-modernbert-architecture",
+      "id": 74493,
+      "fetchedAt": "2026-03-14T11:05:25.968828+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/12/bentoml-released-llm-optimizer-an-open-source-ai-tool-for-benchmarking-and-optimizing-llm-inference/": {
+      "slug": "bentoml-released-llm-optimizer-an-open-source-ai-tool-for-benchmarking-and-optimizing-llm-inference",
+      "id": 74485,
+      "fetchedAt": "2026-03-14T11:05:27.822566+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/10/nvidia-ai-releases-universal-deep-research-udr-a-prototype-framework-for-scalable-and-auditable-deep-research-agents/": {
+      "slug": "nvidia-ai-releases-universal-deep-research-udr-a-prototype-framework-for-scalable-and-auditable-deep-research-agents",
+      "id": 74437,
+      "fetchedAt": "2026-03-14T11:05:30.426068+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/10/baidu-releases-ernie-4-5-21b-a3b-thinking-a-compact-moe-model-for-deep-reasoning/": {
+      "slug": "baidu-releases-ernie-4-5-21b-a3b-thinking-a-compact-moe-model-for-deep-reasoning",
+      "id": 74432,
+      "fetchedAt": "2026-03-14T11:05:34.755545+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/09/mcp-team-launches-the-preview-version-of-the-mcp-registry-a-federated-discovery-layer-for-enterprise-ai/": {
+      "slug": "mcp-team-launches-the-preview-version-of-the-mcp-registry-a-federated-discovery-layer-for-enterprise-ai",
+      "id": 74428,
+      "fetchedAt": "2026-03-14T11:05:35.421173+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/09/mbzuai-researchers-release-k2-think-a-32b-open-source-system-for-advanced-ai-reasoning-and-outperforms-20x-larger-reasoning-models/": {
+      "slug": "mbzuai-researchers-release-k2-think-a-32b-open-source-system-for-advanced-ai-reasoning-and-outperforms-20x-larger-reasoning-models",
+      "id": 74412,
+      "fetchedAt": "2026-03-14T11:05:37.372880+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/08/gibsonai-releases-memori-an-open-source-sql-native-memory-engine-for-ai-agents/": {
+      "slug": "gibsonai-releases-memori-an-open-source-sql-native-memory-engine-for-ai-agents",
+      "id": 74380,
+      "fetchedAt": "2026-03-14T11:05:39.788621+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/06/tilde-ai-releases-tildeopen-llm-an-open-source-large-language-model-with-over-30-billion-parameters-and-support-most-european-languages/": {
+      "slug": "tilde-ai-releases-tildeopen-llm-an-open-source-large-language-model-with-over-30-billion-parameters-and-support-most-european-languages",
+      "id": 74354,
+      "fetchedAt": "2026-03-14T11:05:44.682987+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/06/hugging-face-open-sourced-finevision-a-new-multimodal-dataset-with-24-million-samples-for-training-vision-language-models-vlms/": {
+      "slug": "hugging-face-open-sourced-finevision-a-new-multimodal-dataset-with-24-million-samples-for-training-vision-language-models-vlms",
+      "id": 74335,
+      "fetchedAt": "2026-03-14T11:05:46.711596+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/05/meet-chatterbox-multilingual-an-open-source-zero-shot-text-to-speech-tts-multilingual-model-with-emotion-control-and-watermarking/": {
+      "slug": "meet-chatterbox-multilingual-an-open-source-zero-shot-text-to-speech-tts-multilingual-model-with-emotion-control-and-watermarking",
+      "id": 74310,
+      "fetchedAt": "2026-03-14T11:05:48.643286+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/04/google-ai-releases-embeddinggemma-a-308m-parameter-on-device-embedding-model-with-state-of-the-art-mteb-results/": {
+      "slug": "google-ai-releases-embeddinggemma-a-308m-parameter-on-device-embedding-model-with-state-of-the-art-mteb-results",
+      "id": 74286,
+      "fetchedAt": "2026-03-14T11:05:50.424770+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/04/what-is-olmoasr-and-how-does-it-compare-to-openais-whisper-in-speech-recognition/": {
+      "slug": "what-is-olmoasr-and-how-does-it-compare-to-openais-whisper-in-speech-recognition",
+      "id": 74256,
+      "fetchedAt": "2026-03-14T11:05:52.255338+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/02/tencent-hunyuan-open-sources-hunyuan-mt-7b-and-hunyuan-mt-chimera-7b-a-state-of-the-art-multilingual-translation-models/": {
+      "slug": "tencent-hunyuan-open-sources-hunyuan-mt-7b-and-hunyuan-mt-chimera-7b-a-state-of-the-art-multilingual-translation-models",
+      "id": 74236,
+      "fetchedAt": "2026-03-14T11:05:54.102163+00:00"
+    },
+    "https://www.marktechpost.com/2025/09/01/meet-elysia-a-new-open-source-python-framework-redefining-agentic-rag-systems-with-decision-trees-and-smarter-data-handling/": {
+      "slug": "meet-elysia-a-new-open-source-python-framework-redefining-agentic-rag-systems-with-decision-trees-and-smarter-data-handling",
+      "id": 74220,
+      "fetchedAt": "2026-03-14T11:05:55.932963+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/27/google-ais-new-regression-language-model-rlm-framework-enables-llms-to-predict-industrial-system-performance-directly-from-raw-text-data/": {
+      "slug": "google-ais-new-regression-language-model-rlm-framework-enables-llms-to-predict-industrial-system-performance-directly-from-raw-text-data",
+      "id": 74014,
+      "fetchedAt": "2026-03-14T11:05:57.810798+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/26/nvidia-ai-released-jet-nemotron-53x-faster-hybrid-architecture-language-model-series-that-translates-to-a-98-cost-reduction-for-inference-at-scale/": {
+      "slug": "nvidia-ai-released-jet-nemotron-53x-faster-hybrid-architecture-language-model-series-that-translates-to-a-98-cost-reduction-for-inference-at-scale",
+      "id": 74000,
+      "fetchedAt": "2026-03-14T11:05:59.663970+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/25/sea-lion-v4-multimodal-language-modeling-for-southeast-asia/": {
+      "slug": "sea-lion-v4-multimodal-language-modeling-for-southeast-asia",
+      "id": 73973,
+      "fetchedAt": "2026-03-14T11:06:01.484672+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/21/nvidia-ai-just-released-streaming-sortformer-a-real-time-speaker-diarization-that-figures-out-whos-talking-in-meetings-and-calls-instantly/": {
+      "slug": "nvidia-ai-just-released-streaming-sortformer-a-real-time-speaker-diarization-that-figures-out-whos-talking-in-meetings-and-calls-instantly",
+      "id": 73865,
+      "fetchedAt": "2026-03-14T11:06:03.575302+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/21/what-is-deepseek-v3-1-and-why-is-everyone-talking-about-it/": {
+      "slug": "what-is-deepseek-v3-1-and-why-is-everyone-talking-about-it",
+      "id": 73858,
+      "fetchedAt": "2026-03-14T11:06:05.270324+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/21/deepcode-an-open-agentic-coding-platform-that-transforms-research-papers-and-technical-documents-into-production-ready-code/": {
+      "slug": "deepcode-an-open-agentic-coding-platform-that-transforms-research-papers-and-technical-documents-into-production-ready-code",
+      "id": 73853,
+      "fetchedAt": "2026-03-14T11:06:06.900119+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/20/liquid-ai-releases-lfm2-vl-super-fast-open-weight-vision-language-models-designed-for-low-latency-and-device-aware-deployment/": {
+      "slug": "liquid-ai-releases-lfm2-vl-super-fast-open-weight-vision-language-models-designed-for-low-latency-and-device-aware-deployment",
+      "id": 73842,
+      "fetchedAt": "2026-03-14T11:06:08.166470+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/19/nvidia-ai-releases-nemotron-nano-2-ai-models-a-production-ready-enterprise-ai-model-family-and-6x-faster-than-similar-sized-model/": {
+      "slug": "nvidia-ai-releases-nemotron-nano-2-ai-models-a-production-ready-enterprise-ai-model-family-and-6x-faster-than-similar-sized-model",
+      "id": 73790,
+      "fetchedAt": "2026-03-14T11:06:10.104842+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/17/hugging-face-unveils-ai-sheets-a-free-open-source-no-code-toolkit-for-llm-powered-datasets/": {
+      "slug": "hugging-face-unveils-ai-sheets-a-free-open-source-no-code-toolkit-for-llm-powered-datasets",
+      "id": 73712,
+      "fetchedAt": "2026-03-14T11:06:10.164726+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/16/meet-dots-ocr-a-new-1-7b-vision-language-model-that-achieves-sota-performance-on-multilingual-document-parsing/": {
+      "slug": "meet-dots-ocr-a-new-1-7b-vision-language-model-that-achieves-sota-performance-on-multilingual-document-parsing",
+      "id": 73680,
+      "fetchedAt": "2026-03-14T11:06:11.896316+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/15/nvidia-ai-just-released-the-largest-open-source-speech-ai-dataset-and-state-of-the-art-models-for-european-languages/": {
+      "slug": "nvidia-ai-just-released-the-largest-open-source-speech-ai-dataset-and-state-of-the-art-models-for-european-languages",
+      "id": 73663,
+      "fetchedAt": "2026-03-14T11:06:13.727850+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/15/salesforce-ai-releases-moirai-2-0-salesforces-latest-time-series-foundation-model-built-on-a-decoder%e2%80%91only-transformer-architecture/": {
+      "slug": "salesforce-ai-releases-moirai-2-0-salesforces-latest-time-series-foundation-model-built-on-a-decoder%e2%80%91only-transformer-architecture",
+      "id": 73636,
+      "fetchedAt": "2026-03-14T11:06:14.996043+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/14/meta-ai-just-released-dinov3-a-state-of-the-art-computer-vision-model-trained-with-self-supervised-learning-generating-high-resolution-image-features/": {
+      "slug": "meta-ai-just-released-dinov3-a-state-of-the-art-computer-vision-model-trained-with-self-supervised-learning-generating-high-resolution-image-features",
+      "id": 73587,
+      "fetchedAt": "2026-03-14T11:06:16.816144+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/12/zhipu-ai-releases-glm-4-5v-versatile-multimodal-reasoning-with-scalable-reinforcement-learning/": {
+      "slug": "zhipu-ai-releases-glm-4-5v-versatile-multimodal-reasoning-with-scalable-reinforcement-learning",
+      "id": 73520,
+      "fetchedAt": "2026-03-14T11:06:20.911272+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/08/alibaba-qwen-unveils-qwen3-4b-instruct-2507-and-qwen3-4b-thinking-2507-refreshing-the-importance-of-small-language-models/": {
+      "slug": "alibaba-qwen-unveils-qwen3-4b-instruct-2507-and-qwen3-4b-thinking-2507-refreshing-the-importance-of-small-language-models",
+      "id": 73414,
+      "fetchedAt": "2026-03-14T11:06:22.729008+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/05/openai-just-released-the-hottest-open-weight-llms-gpt-oss-120b-runs-on-a-high-end-laptop-and-gpt-oss-20b-runs-on-a-phone/": {
+      "slug": "openai-just-released-the-hottest-open-weight-llms-gpt-oss-120b-runs-on-a-high-end-laptop-and-gpt-oss-20b-runs-on-a-phone",
+      "id": 73231,
+      "fetchedAt": "2026-03-14T11:06:24.569783+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/04/google-ai-releases-langextract-an-open-source-python-library-that-extracts-structured-data-from-unstructured-text-documents/": {
+      "slug": "google-ai-releases-langextract-an-open-source-python-library-that-extracts-structured-data-from-unstructured-text-documents",
+      "id": 73210,
+      "fetchedAt": "2026-03-14T11:06:26.541482+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/04/nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing/": {
+      "slug": "nasa-releases-galileo-the-open-source-multimodal-model-advancing-earth-observation-and-remote-sensing",
+      "id": 73201,
+      "fetchedAt": "2026-03-14T11:06:29.966122+00:00"
+    },
+    "https://www.marktechpost.com/2025/08/02/meet-trackio-the-free-local-first-open-source-experiment-tracker-python-library-that-simplifies-and-enhances-machine-learning-workflows/": {
+      "slug": "meet-trackio-the-free-local-first-open-source-experiment-tracker-python-library-that-simplifies-and-enhances-machine-learning-workflows",
+      "id": 73145,
+      "fetchedAt": "2026-03-14T11:06:32.918108+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/31/agentsociety-an-open-source-ai-framework-for-simulating-large-scale-societal-interactions-with-llm-agents/": {
+      "slug": "agentsociety-an-open-source-ai-framework-for-simulating-large-scale-societal-interactions-with-llm-agents",
+      "id": 73113,
+      "fetchedAt": "2026-03-14T11:06:34.403253+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/29/miromind-m1-advancing-open-source-mathematical-reasoning-via-context-aware-multi-stage-reinforcement-learning/": {
+      "slug": "miromind-m1-advancing-open-source-mathematical-reasoning-via-context-aware-multi-stage-reinforcement-learning",
+      "id": 73063,
+      "fetchedAt": "2026-03-14T11:06:36.106572+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/28/safeguarding-agentic-ai-systems-nvidias-open-source-safety-recipe/": {
+      "slug": "safeguarding-agentic-ai-systems-nvidias-open-source-safety-recipe",
+      "id": 73047,
+      "fetchedAt": "2026-03-14T11:06:41.108366+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/28/zhipu-ai-just-released-glm-4-5-series-redefining-open-source-agentic-ai-with-hybrid-reasoning/": {
+      "slug": "zhipu-ai-just-released-glm-4-5-series-redefining-open-source-agentic-ai-with-hybrid-reasoning",
+      "id": 73023,
+      "fetchedAt": "2026-03-14T11:06:42.833219+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/27/nvidia-ai-dev-team-releases-llama-nemotron-super-v1-5-setting-new-standards-in-reasoning-and-agentic-ai/": {
+      "slug": "nvidia-ai-dev-team-releases-llama-nemotron-super-v1-5-setting-new-standards-in-reasoning-and-agentic-ai",
+      "id": 73003,
+      "fetchedAt": "2026-03-14T11:06:44.311957+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/22/qwen-releases-qwen3-coder-480b-a35b-instruct-its-most-powerful-open-agentic-code-model-yet/": {
+      "slug": "qwen-releases-qwen3-coder-480b-a35b-instruct-its-most-powerful-open-agentic-code-model-yet",
+      "id": 72869,
+      "fetchedAt": "2026-03-14T11:06:46.392329+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/21/meet-wrenai-the-open-source-ai-business-intelligence-agent-for-natural-language-data-analytics/": {
+      "slug": "meet-wrenai-the-open-source-ai-business-intelligence-agent-for-natural-language-data-analytics",
+      "id": 72841,
+      "fetchedAt": "2026-03-14T11:06:52.092192+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/21/tiktok-researchers-introduce-swe-perf-the-first-benchmark-for-repository-level-code-performance-optimization/": {
+      "slug": "tiktok-researchers-introduce-swe-perf-the-first-benchmark-for-repository-level-code-performance-optimization",
+      "id": 72807,
+      "fetchedAt": "2026-03-14T11:06:53.689733+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/19/nvidia-ai-releases-openreasoning-nemotron-a-suite-of-reasoning-enhanced-llms-distilled-from-deepseek-r1-0528/": {
+      "slug": "nvidia-ai-releases-openreasoning-nemotron-a-suite-of-reasoning-enhanced-llms-distilled-from-deepseek-r1-0528",
+      "id": 72770,
+      "fetchedAt": "2026-03-14T11:06:55.511109+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/": {
+      "slug": "nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence",
+      "id": 72652,
+      "fetchedAt": "2026-03-14T11:06:57.207319+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/13/liquid-ai-open-sources-lfm2-a-new-generation-of-edge-llms/": {
+      "slug": "liquid-ai-open-sources-lfm2-a-new-generation-of-edge-llms",
+      "id": 72602,
+      "fetchedAt": "2026-03-14T11:06:58.587940+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/13/google-deepmind-releases-genai-processors-a-lightweight-python-library-that-enables-efficient-and-parallel-content-processing/": {
+      "slug": "google-deepmind-releases-genai-processors-a-lightweight-python-library-that-enables-efficient-and-parallel-content-processing",
+      "id": 72590,
+      "fetchedAt": "2026-03-14T11:07:00.036736+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/11/moonshot-ai-releases-kimi-k2-a-trillion-parameter-moe-model-focused-on-long-context-code-reasoning-and-agentic-behavior/": {
+      "slug": "moonshot-ai-releases-kimi-k2-a-trillion-parameter-moe-model-focused-on-long-context-code-reasoning-and-agentic-behavior",
+      "id": 72582,
+      "fetchedAt": "2026-03-14T11:07:01.804786+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/10/microsoft-releases-phi-4-mini-flash-reasoning-efficient-long-context-reasoning-with-compact-architecture/": {
+      "slug": "microsoft-releases-phi-4-mini-flash-reasoning-efficient-long-context-reasoning-with-compact-architecture",
+      "id": 72557,
+      "fetchedAt": "2026-03-14T11:07:05.508280+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/10/nvidia-ai-released-diffusionrenderer-an-ai-model-for-editable-photorealistic-3d-scenes-from-a-single-video/": {
+      "slug": "nvidia-ai-released-diffusionrenderer-an-ai-model-for-editable-photorealistic-3d-scenes-from-a-single-video",
+      "id": 72535,
+      "fetchedAt": "2026-03-14T11:07:07.118589+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/10/google-ai-open-sourced-medgemma-27b-and-medsiglip-for-scalable-multimodal-medical-reasoning/": {
+      "slug": "google-ai-open-sourced-medgemma-27b-and-medsiglip-for-scalable-multimodal-medical-reasoning",
+      "id": 72523,
+      "fetchedAt": "2026-03-14T11:07:08.775545+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/09/microsoft-open-sources-github-copilot-chat-extension-for-vs-code-now-free-for-all-developers/": {
+      "slug": "microsoft-open-sources-github-copilot-chat-extension-for-vs-code-now-free-for-all-developers",
+      "id": 72504,
+      "fetchedAt": "2026-03-14T11:07:10.185907+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/08/hugging-face-releases-smollm3-a-3b-long-context-multilingual-reasoning-model/": {
+      "slug": "hugging-face-releases-smollm3-a-3b-long-context-multilingual-reasoning-model",
+      "id": 72498,
+      "fetchedAt": "2026-03-14T11:07:11.890233+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/07/google-ai-just-open-sourced-a-mcp-toolbox-to-let-ai-agents-query-databases-safely-and-efficiently/": {
+      "slug": "google-ai-just-open-sourced-a-mcp-toolbox-to-let-ai-agents-query-databases-safely-and-efficiently",
+      "id": 72483,
+      "fetchedAt": "2026-03-14T11:07:14.743178+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/07/better-code-merging-with-less-compute-meet-osmosis-apply-1-7b-from-osmosis-ai/": {
+      "slug": "better-code-merging-with-less-compute-meet-osmosis-apply-1-7b-from-osmosis-ai",
+      "id": 72473,
+      "fetchedAt": "2026-03-14T11:07:17.498776+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/07/bytedance-just-released-trae-agent-an-llm-based-agent-for-general-purpose-software-engineering-tasks/": {
+      "slug": "bytedance-just-released-trae-agent-an-llm-based-agent-for-general-purpose-software-engineering-tasks",
+      "id": 72470,
+      "fetchedAt": "2026-03-14T11:07:19.549388+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/03/deepseek-r1t2-chimera-200-faster-than-r1-0528-with-improved-reasoning-and-compact-output/": {
+      "slug": "deepseek-r1t2-chimera-200-faster-than-r1-0528-with-improved-reasoning-and-compact-output",
+      "id": 72403,
+      "fetchedAt": "2026-03-14T11:07:20.812841+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/02/together-ai-releases-deepswe-a-fully-open-source-rl-trained-coding-agent-based-on-qwen3-32b-and-achieves-59-on-swebench/": {
+      "slug": "together-ai-releases-deepswe-a-fully-open-source-rl-trained-coding-agent-based-on-qwen3-32b-and-achieves-59-on-swebench",
+      "id": 72386,
+      "fetchedAt": "2026-03-14T11:07:22.445195+00:00"
+    },
+    "https://www.marktechpost.com/2025/07/01/baidu-open-sources-ernie-4-5-llm-series-scaling-from-0-3b-to-424b-parameters/": {
+      "slug": "baidu-open-sources-ernie-4-5-llm-series-scaling-from-0-3b-to-424b-parameters",
+      "id": 72358,
+      "fetchedAt": "2026-03-14T11:07:24.449207+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/28/tencent-open-sources-hunyuan-a13b-a-13b-active-parameter-moe-model-with-dual-mode-reasoning-and-256k-context/": {
+      "slug": "tencent-open-sources-hunyuan-a13b-a-13b-active-parameter-moe-model-with-dual-mode-reasoning-and-256k-context",
+      "id": 72311,
+      "fetchedAt": "2026-03-14T11:07:28.532100+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/25/google-ai-releases-gemini-cli-an-open-source-ai-agent-for-your-terminal/": {
+      "slug": "google-ai-releases-gemini-cli-an-open-source-ai-agent-for-your-terminal",
+      "id": 72246,
+      "fetchedAt": "2026-03-14T11:07:30.326222+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/22/google-researchers-release-magenta-realtime-an-open-weight-model-for-real-time-ai-music-generation/": {
+      "slug": "google-researchers-release-magenta-realtime-an-open-weight-model-for-real-time-ai-music-generation",
+      "id": 72115,
+      "fetchedAt": "2026-03-14T11:07:32.416159+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/22/deepseek-researchers-open-sources-a-personal-project-named-nano-vllm-a-lightweight-vllm-implementation-built-from-scratch/": {
+      "slug": "deepseek-researchers-open-sources-a-personal-project-named-nano-vllm-a-lightweight-vllm-implementation-built-from-scratch",
+      "id": 72111,
+      "fetchedAt": "2026-03-14T11:07:33.861475+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/19/minimax-ai-releases-minimax-m1-a-456b-parameter-hybrid-model-for-long-context-and-reinforcement-learning-rl-tasks/": {
+      "slug": "minimax-ai-releases-minimax-m1-a-456b-parameter-hybrid-model-for-long-context-and-reinforcement-learning-rl-tasks",
+      "id": 72054,
+      "fetchedAt": "2026-03-14T11:07:35.316781+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/16/stepfun-introduces-step-audio-aqaa-a-fully-end-to-end-audio-language-model-for-natural-voice-interaction/": {
+      "slug": "stepfun-introduces-step-audio-aqaa-a-fully-end-to-end-audio-language-model-for-natural-voice-interaction",
+      "id": 72002,
+      "fetchedAt": "2026-03-14T11:07:36.870929+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/12/meta-ai-releases-v-jepa-2-open-source-self-supervised-world-models-for-understanding-prediction-and-planning/": {
+      "slug": "meta-ai-releases-v-jepa-2-open-source-self-supervised-world-models-for-understanding-prediction-and-planning",
+      "id": 71946,
+      "fetchedAt": "2026-03-14T11:07:38.639872+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/11/mistral-ai-releases-magistral-series-advanced-chain-of-thought-llms-for-enterprise-and-open-source-applications/": {
+      "slug": "mistral-ai-releases-magistral-series-advanced-chain-of-thought-llms-for-enterprise-and-open-source-applications",
+      "id": 71919,
+      "fetchedAt": "2026-03-14T11:07:40.741341+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/08/google-introduces-open-source-full-stack-ai-agent-stack-using-gemini-2-5-and-langgraph-for-multi-step-web-search-reflection-and-synthesis/": {
+      "slug": "google-introduces-open-source-full-stack-ai-agent-stack-using-gemini-2-5-and-langgraph-for-multi-step-web-search-reflection-and-synthesis",
+      "id": 71865,
+      "fetchedAt": "2026-03-14T11:07:42.374396+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/05/alibaba-qwen-team-releases-qwen3-embedding-and-qwen3-reranker-series-redefining-multilingual-embedding-and-ranking-standards/": {
+      "slug": "alibaba-qwen-team-releases-qwen3-embedding-and-qwen3-reranker-series-redefining-multilingual-embedding-and-ranking-standards",
+      "id": 71836,
+      "fetchedAt": "2026-03-14T11:07:43.829456+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/03/hugging-face-releases-smolvla-a-compact-vision-language-action-model-for-affordable-and-efficient-robotics/": {
+      "slug": "hugging-face-releases-smolvla-a-compact-vision-language-action-model-for-affordable-and-efficient-robotics",
+      "id": 71783,
+      "fetchedAt": "2026-03-14T11:07:46.224575+00:00"
+    },
+    "https://www.marktechpost.com/2025/06/02/yandex-releases-yambda-the-worlds-largest-event-dataset-to-accelerate-recommender-systems/": {
+      "slug": "yandex-releases-yambda-the-worlds-largest-event-dataset-to-accelerate-recommender-systems",
+      "id": 71677,
+      "fetchedAt": "2026-03-14T11:07:48.697792+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/29/deepseek-releases-r1-0528-an-open-source-reasoning-ai-model-delivering-enhanced-math-and-code-performance-with-single-gpu-efficiency/": {
+      "slug": "deepseek-releases-r1-0528-an-open-source-reasoning-ai-model-delivering-enhanced-math-and-code-performance-with-single-gpu-efficiency",
+      "id": 71663,
+      "fetchedAt": "2026-03-14T11:07:49.952629+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/25/nvidia-releases-llama-nemotron-nano-4b-an-efficient-open-reasoning-model-optimized-for-edge-ai-and-scientific-tasks/": {
+      "slug": "nvidia-releases-llama-nemotron-nano-4b-an-efficient-open-reasoning-model-optimized-for-edge-ai-and-scientific-tasks",
+      "id": 71595,
+      "fetchedAt": "2026-03-14T11:07:51.746360+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/24/microsoft-releases-nlweb-an-open-project-that-allows-developers-to-easily-turn-any-website-into-an-ai-powered-app-with-natural-language-interfaces/": {
+      "slug": "microsoft-releases-nlweb-an-open-project-that-allows-developers-to-easily-turn-any-website-into-an-ai-powered-app-with-natural-language-interfaces",
+      "id": 71586,
+      "fetchedAt": "2026-03-14T11:07:53.771047+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/22/microsoft-ai-introduces-magentic-ui-an-open-source-agent-prototype-that-works-with-people-to-complete-complex-tasks-that-require-multi-step-planning-and-browser-use/": {
+      "slug": "microsoft-ai-introduces-magentic-ui-an-open-source-agent-prototype-that-works-with-people-to-complete-complex-tasks-that-require-multi-step-planning-and-browser-use",
+      "id": 71558,
+      "fetchedAt": "2026-03-14T11:07:55.427627+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/21/sampling-without-data-is-now-scalable-meta-ai-releases-adjoint-sampling-for-reward-driven-generative-modeling/": {
+      "slug": "sampling-without-data-is-now-scalable-meta-ai-releases-adjoint-sampling-for-reward-driven-generative-modeling",
+      "id": 71500,
+      "fetchedAt": "2026-03-14T11:07:56.873062+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/20/nvidia-releases-cosmos-reason1-a-suite-of-ai-models-advancing-physical-common-sense-and-embodied-reasoning-in-real-world-environments/": {
+      "slug": "nvidia-releases-cosmos-reason1-a-suite-of-ai-models-advancing-physical-common-sense-and-embodied-reasoning-in-real-world-environments",
+      "id": 71487,
+      "fetchedAt": "2026-03-14T11:07:58.316429+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/17/aws-open-sources-strands-agents-sdk-to-simplify-ai-agent-development/": {
+      "slug": "aws-open-sources-strands-agents-sdk-to-simplify-ai-agent-development",
+      "id": 71422,
+      "fetchedAt": "2026-03-14T11:08:00.558881+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/16/salesforce-ai-releases-blip3-o-a-fully-open-unified-multimodal-model-built-with-clip-embeddings-and-flow-matching-for-image-understanding-and-generation/": {
+      "slug": "salesforce-ai-releases-blip3-o-a-fully-open-unified-multimodal-model-built-with-clip-embeddings-and-flow-matching-for-image-understanding-and-generation",
+      "id": 71403,
+      "fetchedAt": "2026-03-14T11:08:02.005403+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/14/rime-introduces-arcana-and-rimecaster-open-source-practical-voice-ai-tools-built-on-real-world-speech/": {
+      "slug": "rime-introduces-arcana-and-rimecaster-open-source-practical-voice-ai-tools-built-on-real-world-speech",
+      "id": 71344,
+      "fetchedAt": "2026-03-14T11:08:03.870540+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/12/openai-releases-healthbench-an-open-source-benchmark-for-measuring-the-performance-and-safety-of-large-language-models-in-healthcare/": {
+      "slug": "openai-releases-healthbench-an-open-source-benchmark-for-measuring-the-performance-and-safety-of-large-language-models-in-healthcare",
+      "id": 71284,
+      "fetchedAt": "2026-03-14T11:08:05.668059+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/12/primeintellect-releases-intellect-2-a-32b-reasoning-model-trained-via-distributed-asynchronous-reinforcement-learning/": {
+      "slug": "primeintellect-releases-intellect-2-a-32b-reasoning-model-trained-via-distributed-asynchronous-reinforcement-learning",
+      "id": 71258,
+      "fetchedAt": "2026-03-14T11:08:07.155693+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/09/bytedance-open-sources-deerflow-a-modular-multi-agent-framework-for-deep-research-automation/": {
+      "slug": "bytedance-open-sources-deerflow-a-modular-multi-agent-framework-for-deep-research-automation",
+      "id": 71213,
+      "fetchedAt": "2026-03-14T11:08:09.122505+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/08/ming-lite-uni-an-open-source-ai-framework-designed-to-unify-text-and-vision-through-an-autoregressive-multimodal-structure/": {
+      "slug": "ming-lite-uni-an-open-source-ai-framework-designed-to-unify-text-and-vision-through-an-autoregressive-multimodal-structure",
+      "id": 71194,
+      "fetchedAt": "2026-03-14T11:08:10.593321+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/08/meta-ai-open-sources-llamafirewall-a-security-guardrail-tool-to-help-build-secure-ai-agents/": {
+      "slug": "meta-ai-open-sources-llamafirewall-a-security-guardrail-tool-to-help-build-secure-ai-agents",
+      "id": 71186,
+      "fetchedAt": "2026-03-14T11:08:12.459714+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/08/nvidia-open-sources-open-code-reasoning-models-32b-14b-7b-with-apache-2-0-license-surpassing-oai-models-on-livecodebench/": {
+      "slug": "nvidia-open-sources-open-code-reasoning-models-32b-14b-7b-with-apache-2-0-license-surpassing-oai-models-on-livecodebench",
+      "id": 71177,
+      "fetchedAt": "2026-03-14T11:08:14.898591+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/08/hugging-face-releases-nanovlm-a-pure-pytorch-library-to-train-a-vision-language-model-from-scratch-in-750-lines-of-code/": {
+      "slug": "hugging-face-releases-nanovlm-a-pure-pytorch-library-to-train-a-vision-language-model-from-scratch-in-750-lines-of-code",
+      "id": 71172,
+      "fetchedAt": "2026-03-14T11:08:19.580995+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/05/nvidia-open-sources-parakeet-tdt-0-6b-achieving-a-new-standard-for-automatic-speech-recognition-asr-and-transcribes-an-hour-of-audio-in-one-second/": {
+      "slug": "nvidia-open-sources-parakeet-tdt-0-6b-achieving-a-new-standard-for-automatic-speech-recognition-asr-and-transcribes-an-hour-of-audio-in-one-second",
+      "id": 71133,
+      "fetchedAt": "2026-03-14T11:08:21.817530+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/03/meta-ai-releases-llama-prompt-ops-a-python-toolkit-for-prompt-optimization-on-llama-models/": {
+      "slug": "meta-ai-releases-llama-prompt-ops-a-python-toolkit-for-prompt-optimization-on-llama-models",
+      "id": 71092,
+      "fetchedAt": "2026-03-14T11:08:23.830388+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/03/ibm-ai-releases-granite-4-0-tiny-preview-a-compact-open-language-model-optimized-for-long-context-and-instruction-tasks/": {
+      "slug": "ibm-ai-releases-granite-4-0-tiny-preview-a-compact-open-language-model-optimized-for-long-context-and-instruction-tasks",
+      "id": 71075,
+      "fetchedAt": "2026-03-14T11:08:25.849483+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/02/jetbrains-open-sources-mellum-a-developer-centric-language-model-for-code-related-tasks/": {
+      "slug": "jetbrains-open-sources-mellum-a-developer-centric-language-model-for-code-related-tasks",
+      "id": 71040,
+      "fetchedAt": "2026-03-14T11:08:27.638964+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/02/meta-and-booz-allen-deploy-space-llama-open-source-ai-heads-to-the-iss-for-onboard-decision-making/": {
+      "slug": "meta-and-booz-allen-deploy-space-llama-open-source-ai-heads-to-the-iss-for-onboard-decision-making",
+      "id": 71037,
+      "fetchedAt": "2026-03-14T11:08:29.562434+00:00"
+    },
+    "https://www.marktechpost.com/2025/05/01/deepseek-ai-released-deepseek-prover-v2-an-open-source-large-language-model-designed-for-formal-theorem-proving-through-subgoal-decomposition-and-reinforcement-learning/": {
+      "slug": "deepseek-ai-released-deepseek-prover-v2-an-open-source-large-language-model-designed-for-formal-theorem-proving-through-subgoal-decomposition-and-reinforcement-learning",
+      "id": 71013,
+      "fetchedAt": "2026-03-14T11:08:31.180988+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/30/multimodal-ai-on-developer-gpus-alibaba-releases-qwen2-5-omni-3b-with-50-lower-vram-usage-and-nearly-7b-model-performance/": {
+      "slug": "multimodal-ai-on-developer-gpus-alibaba-releases-qwen2-5-omni-3b-with-50-lower-vram-usage-and-nearly-7b-model-performance",
+      "id": 70979,
+      "fetchedAt": "2026-03-14T11:08:32.794207+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/29/reinforcement-learning-for-email-agents-openpipes-art%c2%b7e-outperforms-o3-in-accuracy-latency-and-cost/": {
+      "slug": "reinforcement-learning-for-email-agents-openpipes-art%c2%b7e-outperforms-o3-in-accuracy-latency-and-cost",
+      "id": 70935,
+      "fetchedAt": "2026-03-14T11:08:34.982273+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/24/meet-rowboat-an-open-source-ide-for-building-complex-multi-agent-systems/": {
+      "slug": "meet-rowboat-an-open-source-ide-for-building-complex-multi-agent-systems",
+      "id": 70809,
+      "fetchedAt": "2026-03-14T11:08:37.087084+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/23/aws-introduces-swe-polybench-a-new-open-source-multilingual-benchmark-for-evaluating-ai-coding-agents/": {
+      "slug": "aws-introduces-swe-polybench-a-new-open-source-multilingual-benchmark-for-evaluating-ai-coding-agents",
+      "id": 70787,
+      "fetchedAt": "2026-03-14T11:08:41.207438+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/21/bytedance-releases-ui-tars-1-5-an-open-source-multimodal-ai-agent-built-upon-a-powerful-vision-language-model/": {
+      "slug": "bytedance-releases-ui-tars-1-5-an-open-source-multimodal-ai-agent-built-upon-a-powerful-vision-language-model",
+      "id": 70687,
+      "fetchedAt": "2026-03-14T11:08:43.242987+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/16/openai-releases-codex-cli-an-open-source-local-coding-agent-that-turns-natural-language-into-working-code/": {
+      "slug": "openai-releases-codex-cli-an-open-source-local-coding-agent-that-turns-natural-language-into-working-code",
+      "id": 70562,
+      "fetchedAt": "2026-03-14T11:08:44.687696+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/14/thudm-releases-glm-4-a-32b-parameter-model-competing-head-to-head-with-gpt-4o-and-deepseek-v3/": {
+      "slug": "thudm-releases-glm-4-a-32b-parameter-model-competing-head-to-head-with-gpt-4o-and-deepseek-v3",
+      "id": 70520,
+      "fetchedAt": "2026-03-14T11:08:46.678303+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/10/together-ai-released-deepcoder-14b-preview-a-fully-open-source-code-reasoning-model-that-rivals-o3-mini-with-just-14b-parameters/": {
+      "slug": "together-ai-released-deepcoder-14b-preview-a-fully-open-source-code-reasoning-model-that-rivals-o3-mini-with-just-14b-parameters",
+      "id": 70410,
+      "fetchedAt": "2026-03-14T11:08:49.901929+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/10/openai-open-sources-browsecomp-a-new-benchmark-for-measuring-the-ability-for-ai-agents-to-browse-the-web/": {
+      "slug": "openai-open-sources-browsecomp-a-new-benchmark-for-measuring-the-ability-for-ai-agents-to-browse-the-web",
+      "id": 70391,
+      "fetchedAt": "2026-03-14T11:08:52.071388+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/09/google-releases-agent-development-kit-adk-an-open-source-ai-framework-integrated-with-gemini-to-build-manage-evaluate-and-deploy-multi-agents/": {
+      "slug": "google-releases-agent-development-kit-adk-an-open-source-ai-framework-integrated-with-gemini-to-build-manage-evaluate-and-deploy-multi-agents",
+      "id": 70360,
+      "fetchedAt": "2026-03-14T11:08:53.917191+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/08/huawei-noahs-ark-lab-released-dream-7b-a-powerful-open-diffusion-reasoning-model-with-advanced-planning-and-flexible-inference-capabilities/": {
+      "slug": "huawei-noahs-ark-lab-released-dream-7b-a-powerful-open-diffusion-reasoning-model-with-advanced-planning-and-flexible-inference-capabilities",
+      "id": 70343,
+      "fetchedAt": "2026-03-14T11:08:55.560183+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/05/reducto-ai-released-rolmocr-a-sota-ocr-model-built-on-qwen-2-5-vl-fully-open-source-and-apache-2-0-licensed-for-advanced-document-understanding/": {
+      "slug": "reducto-ai-released-rolmocr-a-sota-ocr-model-built-on-qwen-2-5-vl-fully-open-source-and-apache-2-0-licensed-for-advanced-document-understanding",
+      "id": 70294,
+      "fetchedAt": "2026-03-14T11:08:57.510065+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/05/meta-ai-just-released-llama-4-scout-and-llama-4-maverick-the-first-set-of-llama-4-models/": {
+      "slug": "meta-ai-just-released-llama-4-scout-and-llama-4-maverick-the-first-set-of-llama-4-models",
+      "id": 70288,
+      "fetchedAt": "2026-03-14T11:09:02.018014+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/05/nvidia-ai-released-agentiq-an-open-source-library-for-efficiently-connecting-and-optimizing-teams-of-ai-agents/": {
+      "slug": "nvidia-ai-released-agentiq-an-open-source-library-for-efficiently-connecting-and-optimizing-teams-of-ai-agents",
+      "id": 70282,
+      "fetchedAt": "2026-03-14T11:09:04.202685+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/03/meet-open-qwen2vl-a-fully-open-and-compute-efficient-multimodal-large-language-model/": {
+      "slug": "meet-open-qwen2vl-a-fully-open-and-compute-efficient-multimodal-large-language-model",
+      "id": 70254,
+      "fetchedAt": "2026-03-14T11:09:05.495506+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/03/researchers-from-dataocean-ai-and-tsinghua-university-introduces-dolphin-a-multilingual-automatic-speech-recognition-asr-model-optimized-for-eastern-languages-and-dialects/": {
+      "slug": "researchers-from-dataocean-ai-and-tsinghua-university-introduces-dolphin-a-multilingual-automatic-speech-recognition-asr-model-optimized-for-eastern-languages-and-dialects",
+      "id": 70246,
+      "fetchedAt": "2026-03-14T11:09:06.934460+00:00"
+    },
+    "https://www.marktechpost.com/2025/04/02/nomic-open-sources-state-of-the-art-multimodal-embedding-model/": {
+      "slug": "nomic-open-sources-state-of-the-art-multimodal-embedding-model",
+      "id": 70182,
+      "fetchedAt": "2026-03-14T11:09:08.365593+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/31/how-to-build-a-prototype-x-ray-judgment-tool-open-source-medical-inference-system-using-torchxrayvision-gradio-and-pytorch/": {
+      "slug": "how-to-build-a-prototype-x-ray-judgment-tool-open-source-medical-inference-system-using-torchxrayvision-gradio-and-pytorch",
+      "id": 70105,
+      "fetchedAt": "2026-03-14T11:09:09.669923+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/27/meet-open-deep-search-ods-a-plug-and-play-framework-democratizing-search-with-open-source-reasoning-agents/": {
+      "slug": "meet-open-deep-search-ods-a-plug-and-play-framework-democratizing-search-with-open-source-reasoning-agents",
+      "id": 70038,
+      "fetchedAt": "2026-03-14T11:09:11.035919+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/21/kyutai-releases-moshivis-the-first-open-source-real-time-speech-model-that-can-talk-about-images/": {
+      "slug": "kyutai-releases-moshivis-the-first-open-source-real-time-speech-model-that-can-talk-about-images",
+      "id": 69914,
+      "fetchedAt": "2026-03-14T11:09:12.634765+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/21/nvidia-ai-open-sources-dynamo-an-open-source-inference-library-for-accelerating-and-scaling-ai-reasoning-models-in-ai-factories/": {
+      "slug": "nvidia-ai-open-sources-dynamo-an-open-source-inference-library-for-accelerating-and-scaling-ai-reasoning-models-in-ai-factories",
+      "id": 69910,
+      "fetchedAt": "2026-03-14T11:09:14.926030+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/20/nvidia-ai-just-open-sourced-canary-1b-and-180m-flash-multilingual-speech-recognition-and-translation-models/": {
+      "slug": "nvidia-ai-just-open-sourced-canary-1b-and-180m-flash-multilingual-speech-recognition-and-translation-models",
+      "id": 69895,
+      "fetchedAt": "2026-03-14T11:09:19.288454+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/18/nvidia-open-sources-cuopt-an-ai-powered-decision-optimization-engine-unlocking-real-time-optimization-at-an-unprecedented-scale/": {
+      "slug": "nvidia-open-sources-cuopt-an-ai-powered-decision-optimization-engine-unlocking-real-time-optimization-at-an-unprecedented-scale",
+      "id": 69877,
+      "fetchedAt": "2026-03-14T11:09:21.472594+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/18/ibm-and-hugging-face-researchers-release-smoldocling-a-256m-open-source-vision-language-model-for-complete-document-ocr/": {
+      "slug": "ibm-and-hugging-face-researchers-release-smoldocling-a-256m-open-source-vision-language-model-for-complete-document-ocr",
+      "id": 69866,
+      "fetchedAt": "2026-03-14T11:09:23.072641+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/17/bytedance-research-releases-dapo-a-fully-open-sourced-llm-reinforcement-learning-system-at-scale/": {
+      "slug": "bytedance-research-releases-dapo-a-fully-open-sourced-llm-reinforcement-learning-system-at-scale",
+      "id": 69852,
+      "fetchedAt": "2026-03-14T11:09:24.483583+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/16/groundlight-research-team-released-an-open-source-ai-framework-that-makes-it-easy-to-build-visual-reasoning-agents-with-grpo/": {
+      "slug": "groundlight-research-team-released-an-open-source-ai-framework-that-makes-it-easy-to-build-visual-reasoning-agents-with-grpo",
+      "id": 69820,
+      "fetchedAt": "2026-03-14T11:09:26.360942+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/14/hpc-ai-tech-releases-open-sora-2-0-an-open-source-sota-level-video-generation-model-trained-for-just-200k/": {
+      "slug": "hpc-ai-tech-releases-open-sora-2-0-an-open-source-sota-level-video-generation-model-trained-for-just-200k",
+      "id": 69787,
+      "fetchedAt": "2026-03-14T11:09:29.269830+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/14/allen-institute-for-ai-ai2-releases-olmo-32b-a-fully-open-model-to-beat-gpt-3-5-and-gpt-4o-mini-on-a-suite-of-multi-skill-benchmarks/": {
+      "slug": "allen-institute-for-ai-ai2-releases-olmo-32b-a-fully-open-model-to-beat-gpt-3-5-and-gpt-4o-mini-on-a-suite-of-multi-skill-benchmarks",
+      "id": 69781,
+      "fetchedAt": "2026-03-14T11:09:32.923742+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/13/simular-releases-agent-s2-an-open-modular-and-scalable-ai-framework-for-computer-use-agents/": {
+      "slug": "simular-releases-agent-s2-an-open-modular-and-scalable-ai-framework-for-computer-use-agents",
+      "id": 69744,
+      "fetchedAt": "2026-03-14T11:09:34.798457+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/11/hugging-face-releases-olympiccoder-a-series-of-open-reasoning-ai-models-that-can-solve-olympiad-level-programming-problems/": {
+      "slug": "hugging-face-releases-olympiccoder-a-series-of-open-reasoning-ai-models-that-can-solve-olympiad-level-programming-problems",
+      "id": 69712,
+      "fetchedAt": "2026-03-14T11:09:37.615287+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/11/reka-ai-open-sourced-reka-flash-3-a-21b-general-purpose-reasoning-model-that-was-trained-from-scratch/": {
+      "slug": "reka-ai-open-sourced-reka-flash-3-a-21b-general-purpose-reasoning-model-that-was-trained-from-scratch",
+      "id": 69700,
+      "fetchedAt": "2026-03-14T11:09:39.243084+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/03/defog-ai-open-sources-introspect-mit-licensed-deep-research-for-your-internal-data/": {
+      "slug": "defog-ai-open-sources-introspect-mit-licensed-deep-research-for-your-internal-data",
+      "id": 69474,
+      "fetchedAt": "2026-03-14T11:09:40.696817+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/02/deepseek-ai-releases-smallpond-a-lightweight-data-processing-framework-built-on-duckdb-and-3fs/": {
+      "slug": "deepseek-ai-releases-smallpond-a-lightweight-data-processing-framework-built-on-duckdb-and-3fs",
+      "id": 69454,
+      "fetchedAt": "2026-03-14T11:09:41.973584+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/01/deepseeks-latest-inference-release-a-transparent-open-source-mirage/": {
+      "slug": "deepseeks-latest-inference-release-a-transparent-open-source-mirage",
+      "id": 69430,
+      "fetchedAt": "2026-03-14T11:09:44.265337+00:00"
+    },
+    "https://www.marktechpost.com/2025/03/01/ibm-ai-releases-granite-3-2-8b-instruct-and-granite-3-2-2b-instruct-models-offering-experimental-chain-of-thought-reasoning-capabilities/": {
+      "slug": "ibm-ai-releases-granite-3-2-8b-instruct-and-granite-3-2-2b-instruct-models-offering-experimental-chain-of-thought-reasoning-capabilities",
+      "id": 69387,
+      "fetchedAt": "2026-03-14T11:09:46.765613+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/26/songgen-a-fully-open-source-single-stage-auto-regressive-transformer-designed-for-controllable-song-generation/": {
+      "slug": "songgen-a-fully-open-source-single-stage-auto-regressive-transformer-designed-for-controllable-song-generation",
+      "id": 69297,
+      "fetchedAt": "2026-03-14T11:09:49.228928+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/26/allen-institute-for-ai-released-olmocr-a-high-performance-open-source-toolkit-designed-to-convert-pdfs-and-document-images-into-clean-and-structured-plain-text/": {
+      "slug": "allen-institute-for-ai-released-olmocr-a-high-performance-open-source-toolkit-designed-to-convert-pdfs-and-document-images-into-clean-and-structured-plain-text",
+      "id": 69283,
+      "fetchedAt": "2026-03-14T11:09:50.989417+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/25/deepseek-ai-releases-deepgemm-an-fp8-gemm-library-that-supports-both-dense-and-moe-gemms-powering-v3-r1-training-and-inference/": {
+      "slug": "deepseek-ai-releases-deepgemm-an-fp8-gemm-library-that-supports-both-dense-and-moe-gemms-powering-v3-r1-training-and-inference",
+      "id": 69272,
+      "fetchedAt": "2026-03-14T11:09:52.471579+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/24/deepseek-ai-releases-deepep-an-open-source-ep-communication-library-for-moe-model-training-and-inference/": {
+      "slug": "deepseek-ai-releases-deepep-an-open-source-ep-communication-library-for-moe-model-training-and-inference",
+      "id": 69238,
+      "fetchedAt": "2026-03-14T11:09:54.155884+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/23/building-a-legal-ai-chatbot-a-step-by-step-guide-using-bigscience-t0pp-llm-open-source-nlp-models-streamlit-pytorch-and-hugging-face-transformers/": {
+      "slug": "building-a-legal-ai-chatbot-a-step-by-step-guide-using-bigscience-t0pp-llm-open-source-nlp-models-streamlit-pytorch-and-hugging-face-transformers",
+      "id": 69202,
+      "fetchedAt": "2026-03-14T11:09:56.234173+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/22/moonshot-ai-and-ucla-researchers-release-moonlight-a-3b-16b-parameter-mixture-of-expert-moe-model-trained-with-5-7t-tokens-using-muon-optimizer/": {
+      "slug": "moonshot-ai-and-ucla-researchers-release-moonlight-a-3b-16b-parameter-mixture-of-expert-moe-model-trained-with-5-7t-tokens-using-muon-optimizer",
+      "id": 69163,
+      "fetchedAt": "2026-03-14T11:10:00.105286+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/22/stanford-researchers-introduce-octotools-a-training-free-open-source-agentic-ai-framework-designed-to-tackle-complex-reasoning-across-diverse-domains/": {
+      "slug": "stanford-researchers-introduce-octotools-a-training-free-open-source-agentic-ai-framework-designed-to-tackle-complex-reasoning-across-diverse-domains",
+      "id": 69140,
+      "fetchedAt": "2026-03-14T11:10:01.989070+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/21/google-deepmind-research-releases-siglip2-a-family-of-new-multilingual-vision-language-encoders-with-improved-semantic-understanding-localization-and-dense-features/": {
+      "slug": "google-deepmind-research-releases-siglip2-a-family-of-new-multilingual-vision-language-encoders-with-improved-semantic-understanding-localization-and-dense-features",
+      "id": 69130,
+      "fetchedAt": "2026-03-14T11:10:03.588833+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/21/meet-baichuan-m1-a-new-series-of-large-language-models-trained-on-20t-tokens-with-a-dedicated-focus-on-enhancing-medical-capabilities/": {
+      "slug": "meet-baichuan-m1-a-new-series-of-large-language-models-trained-on-20t-tokens-with-a-dedicated-focus-on-enhancing-medical-capabilities",
+      "id": 69120,
+      "fetchedAt": "2026-03-14T11:10:05.312603+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/11/numinamath-1-5-second-iteration-of-numinamath-advancing-ai-powered-mathematical-problem-solving-with-enhanced-competition-level-datasets-verified-metadata-and-improved-reasoning-capabilities/": {
+      "slug": "numinamath-1-5-second-iteration-of-numinamath-advancing-ai-powered-mathematical-problem-solving-with-enhanced-competition-level-datasets-verified-metadata-and-improved-reasoning-capabilities",
+      "id": 68823,
+      "fetchedAt": "2026-03-14T11:10:06.761281+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/10/zyphra-introduces-the-beta-release-of-zonos-a-highly-expressive-tts-model-with-high-fidelity-voice-cloning/": {
+      "slug": "zyphra-introduces-the-beta-release-of-zonos-a-highly-expressive-tts-model-with-high-fidelity-voice-cloning",
+      "id": 68795,
+      "fetchedAt": "2026-03-14T11:10:08.233728+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/08/kyutai-releases-hibiki-a-2-7b-real-time-speech-to-speech-and-speech-to-text-translation-with-near-human-quality-and-voice-transfer/": {
+      "slug": "kyutai-releases-hibiki-a-2-7b-real-time-speech-to-speech-and-speech-to-text-translation-with-near-human-quality-and-voice-transfer",
+      "id": 68754,
+      "fetchedAt": "2026-03-14T11:10:09.825039+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/06/prime-intellect-releases-synthetic-1-an-open-source-dataset-consisting-of-1-4m-curated-tasks-spanning-math-coding-software-engineering-stem-and-synthetic-code-understanding/": {
+      "slug": "prime-intellect-releases-synthetic-1-an-open-source-dataset-consisting-of-1-4m-curated-tasks-spanning-math-coding-software-engineering-stem-and-synthetic-code-understanding",
+      "id": 68694,
+      "fetchedAt": "2026-03-14T11:10:12.364485+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/05/4-open-source-alternatives-to-openais-200-month-deep-research-ai-agent/": {
+      "slug": "4-open-source-alternatives-to-openais-200-month-deep-research-ai-agent",
+      "id": 68672,
+      "fetchedAt": "2026-03-14T11:10:14.044808+00:00"
+    },
+    "https://www.marktechpost.com/2025/02/04/deep-agent-released-r1-v-reinforcing-super-generalization-in-vision-language-models-with-cost-effective-reinforcement-learning-to-outperform-larger-models/": {
+      "slug": "deep-agent-released-r1-v-reinforcing-super-generalization-in-vision-language-models-with-cost-effective-reinforcement-learning-to-outperform-larger-models",
+      "id": 68635,
+      "fetchedAt": "2026-03-14T11:10:15.567179+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/31/mistral-ai-releases-the-mistral-small-24b-instruct-2501-a-latency-optimized-24b-parameter-model-released-under-the-apache-2-0-license/": {
+      "slug": "mistral-ai-releases-the-mistral-small-24b-instruct-2501-a-latency-optimized-24b-parameter-model-released-under-the-apache-2-0-license",
+      "id": 68530,
+      "fetchedAt": "2026-03-14T11:10:17.547327+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/31/the-allen-institute-for-ai-ai2-releases-tulu-3-405b-scaling-open-weight-post-training-with-reinforcement-learning-from-verifiable-rewards-rlvr-to-surpass-deepseek-v3-and-gpt-4o-in-key-benchmarks/": {
+      "slug": "the-allen-institute-for-ai-ai2-releases-tulu-3-405b-scaling-open-weight-post-training-with-reinforcement-learning-from-verifiable-rewards-rlvr-to-surpass-deepseek-v3-and-gpt-4o-in-key-benchmarks",
+      "id": 68513,
+      "fetchedAt": "2026-03-14T11:10:20.237302+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/30/yandex-develops-and-open-sources-perforator-an-open-source-tool-that-can-save-businesses-billions-of-dollars-a-year-on-server-infrastructure/": {
+      "slug": "yandex-develops-and-open-sources-perforator-an-open-source-tool-that-can-save-businesses-billions-of-dollars-a-year-on-server-infrastructure",
+      "id": 68487,
+      "fetchedAt": "2026-03-14T11:10:22.938131+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/29/yue-an-open-source-music-generation-ai-model-family-capable-of-creating-full-length-songs-with-coherent-vocals-instrumental-harmony-and-multi-genre-creativity/": {
+      "slug": "yue-an-open-source-music-generation-ai-model-family-capable-of-creating-full-length-songs-with-coherent-vocals-instrumental-harmony-and-multi-genre-creativity",
+      "id": 68481,
+      "fetchedAt": "2026-03-14T11:10:24.479920+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/29/nvidia-ai-releases-eagle2-series-vision-language-model-achieving-sota-results-across-various-multimodal-benchmarks/": {
+      "slug": "nvidia-ai-releases-eagle2-series-vision-language-model-achieving-sota-results-across-various-multimodal-benchmarks",
+      "id": 68467,
+      "fetchedAt": "2026-03-14T11:10:26.170464+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/28/qwen-ai-releases-qwen2-5-vl-a-powerful-vision-language-model-for-seamless-computer-interaction/": {
+      "slug": "qwen-ai-releases-qwen2-5-vl-a-powerful-vision-language-model-for-seamless-computer-interaction",
+      "id": 68438,
+      "fetchedAt": "2026-03-14T11:10:28.531357+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/27/deepseek-ai-releases-janus-pro-7b-an-open-source-multimodal-ai-that-beats-dall-e-3-and-stable-diffusion/": {
+      "slug": "deepseek-ai-releases-janus-pro-7b-an-open-source-multimodal-ai-that-beats-dall-e-3-and-stable-diffusion",
+      "id": 68407,
+      "fetchedAt": "2026-03-14T11:10:30.054560+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/26/qwen-ai-releases-qwen2-5-7b-instruct-1m-and-qwen2-5-14b-instruct-1m-allowing-deployment-with-context-length-up-to-1m-tokens/": {
+      "slug": "qwen-ai-releases-qwen2-5-7b-instruct-1m-and-qwen2-5-14b-instruct-1m-allowing-deployment-with-context-length-up-to-1m-tokens",
+      "id": 68383,
+      "fetchedAt": "2026-03-14T11:10:32.321331+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/26/meet-open-r1-the-full-open-reproduction-of-deepseek-r1-challenging-the-status-quo-of-existing-proprietary-llms/": {
+      "slug": "meet-open-r1-the-full-open-reproduction-of-deepseek-r1-challenging-the-status-quo-of-existing-proprietary-llms",
+      "id": 68380,
+      "fetchedAt": "2026-03-14T11:10:35.463856+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/25/deepseek-r1-vs-openais-o1-a-new-step-in-open-source-and-proprietary-models/": {
+      "slug": "deepseek-r1-vs-openais-o1-a-new-step-in-open-source-and-proprietary-models",
+      "id": 68352,
+      "fetchedAt": "2026-03-14T11:10:37.352471+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/25/meta-ai-releases-the-first-stable-version-of-llama-stack-a-unified-platform-transforming-generative-ai-development-with-backward-compatibility-safety-and-seamless-multi-environment-deployment/": {
+      "slug": "meta-ai-releases-the-first-stable-version-of-llama-stack-a-unified-platform-transforming-generative-ai-development-with-backward-compatibility-safety-and-seamless-multi-environment-deployment",
+      "id": 68346,
+      "fetchedAt": "2026-03-14T11:10:38.793855+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/24/berkeley-sky-computing-lab-introduces-sky-t1-32b-flash-a-new-reasoning-language-model-that-significantly-reduces-overthinking-slashing-inference-costs-on-challenging-questions-by-up-to-57/": {
+      "slug": "berkeley-sky-computing-lab-introduces-sky-t1-32b-flash-a-new-reasoning-language-model-that-significantly-reduces-overthinking-slashing-inference-costs-on-challenging-questions-by-up-to-57",
+      "id": 68334,
+      "fetchedAt": "2026-03-14T11:10:40.274923+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/24/llasa-3b-a-llama-3-2b-fine-tuned-text-to-speech-model-with-ultra-realistic-audio-emotional-expressiveness-and-multilingual-support/": {
+      "slug": "llasa-3b-a-llama-3-2b-fine-tuned-text-to-speech-model-with-ultra-realistic-audio-emotional-expressiveness-and-multilingual-support",
+      "id": 68331,
+      "fetchedAt": "2026-03-14T11:10:41.759354+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/23/plurai-introduces-intellagent-an-open-source-multi-agent-framework-to-evaluate-complex-conversational-ai-system/": {
+      "slug": "plurai-introduces-intellagent-an-open-source-multi-agent-framework-to-evaluate-complex-conversational-ai-system",
+      "id": 68286,
+      "fetchedAt": "2026-03-14T11:10:43.383663+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/22/meet-evabyte-an-open-source-6-5b-state-of-the-art-tokenizer-free-language-model-powered-by-eva/": {
+      "slug": "meet-evabyte-an-open-source-6-5b-state-of-the-art-tokenizer-free-language-model-powered-by-eva",
+      "id": 68258,
+      "fetchedAt": "2026-03-14T11:10:44.861445+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/21/snowflake-ai-research-open-sources-swiftkv-a-novel-ai-approach-that-reduces-inference-costs-of-meta-llama-llms-up-to-75-on-cortex-ai/": {
+      "slug": "snowflake-ai-research-open-sources-swiftkv-a-novel-ai-approach-that-reduces-inference-costs-of-meta-llama-llms-up-to-75-on-cortex-ai",
+      "id": 68229,
+      "fetchedAt": "2026-03-14T11:10:46.493728+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/15/minimax-text-01-and-minimax-vl-01-released-scalable-models-with-lightning-attention-456b-parameters-4b-token-contexts-and-state-of-the-art-accuracy/": {
+      "slug": "minimax-text-01-and-minimax-vl-01-released-scalable-models-with-lightning-attention-456b-parameters-4b-token-contexts-and-state-of-the-art-accuracy",
+      "id": 68019,
+      "fetchedAt": "2026-03-14T11:10:48.107607+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/13/uc-berkeley-researchers-released-sky-t1-32b-preview-an-open-source-reasoning-llm-trained-for-under-450-surpasses-openai-o1-on-benchmarks-like-math500-aime-and-livebench/": {
+      "slug": "uc-berkeley-researchers-released-sky-t1-32b-preview-an-open-source-reasoning-llm-trained-for-under-450-surpasses-openai-o1-on-benchmarks-like-math500-aime-and-livebench",
+      "id": 67894,
+      "fetchedAt": "2026-03-14T11:10:49.666604+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/10/good-fire-ai-open-sources-sparse-autoencoders-saes-for-llama-3-1-8b-and-llama-3-3-70b/": {
+      "slug": "good-fire-ai-open-sources-sparse-autoencoders-saes-for-llama-3-1-8b-and-llama-3-3-70b",
+      "id": 67238,
+      "fetchedAt": "2026-03-14T11:10:54.743395+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/10/meta-ai-open-sources-leanuniverse-a-machine-learning-library-for-consistent-and-scalable-lean4-dataset-management/": {
+      "slug": "meta-ai-open-sources-leanuniverse-a-machine-learning-library-for-consistent-and-scalable-lean4-dataset-management",
+      "id": 67235,
+      "fetchedAt": "2026-03-14T11:10:56.220349+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/10/introducing-parlant-the-open-source-framework-for-reliable-ai-agents/": {
+      "slug": "introducing-parlant-the-open-source-framework-for-reliable-ai-agents",
+      "id": 67212,
+      "fetchedAt": "2026-03-14T11:10:57.581270+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/09/meet-kalm-embedding-a-series-of-multilingual-embedding-models-built-on-qwen2-0-5b-and-released-under-mit/": {
+      "slug": "meet-kalm-embedding-a-series-of-multilingual-embedding-models-built-on-qwen2-0-5b-and-released-under-mit",
+      "id": 67197,
+      "fetchedAt": "2026-03-14T11:10:58.931564+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/08/microsoft-ai-just-fully-open-sourced-phi-4-a-small-language-model-available-on-hugging-face-under-the-mit-license/": {
+      "slug": "microsoft-ai-just-fully-open-sourced-phi-4-a-small-language-model-available-on-hugging-face-under-the-mit-license",
+      "id": 67151,
+      "fetchedAt": "2026-03-14T11:11:00.414440+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/06/researchers-from-usc-and-prime-intellect-released-metagene-1-a-7b-parameter-autoregressive-transformer-model-trained-on-over-1-5t-dna-and-rna-base-pairs/": {
+      "slug": "researchers-from-usc-and-prime-intellect-released-metagene-1-a-7b-parameter-autoregressive-transformer-model-trained-on-over-1-5t-dna-and-rna-base-pairs",
+      "id": 67084,
+      "fetchedAt": "2026-03-14T11:11:02.717069+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/05/dolphin-3-0-released-llama-3-1-3-2-qwen-2-5-a-local-first-steerable-ai-model-that-puts-you-in-control-of-your-ai-stack-and-alignment/": {
+      "slug": "dolphin-3-0-released-llama-3-1-3-2-qwen-2-5-a-local-first-steerable-ai-model-that-puts-you-in-control-of-your-ai-stack-and-alignment",
+      "id": 67032,
+      "fetchedAt": "2026-03-14T11:11:04.585495+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/04/prime-an-open-source-solution-for-online-reinforcement-learning-with-process-rewards-to-advance-reasoning-abilities-of-language-models-beyond-imitation-or-distillation/": {
+      "slug": "prime-an-open-source-solution-for-online-reinforcement-learning-with-process-rewards-to-advance-reasoning-abilities-of-language-models-beyond-imitation-or-distillation",
+      "id": 66989,
+      "fetchedAt": "2026-03-14T11:11:08.009107+00:00"
+    },
+    "https://www.marktechpost.com/2025/01/01/meet-agentarium-a-powerful-python-framework-for-managing-and-orchestrating-ai-agents/": {
+      "slug": "meet-agentarium-a-powerful-python-framework-for-managing-and-orchestrating-ai-agents",
+      "id": 66900,
+      "fetchedAt": "2026-03-14T11:11:09.497987+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/30/hugging-face-just-released-smolagents-a-smol-library-that-enables-to-run-powerful-ai-agents-in-a-few-lines-of-code/": {
+      "slug": "hugging-face-just-released-smolagents-a-smol-library-that-enables-to-run-powerful-ai-agents-in-a-few-lines-of-code",
+      "id": 66830,
+      "fetchedAt": "2026-03-14T11:11:11.289506+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/27/meet-semikong-the-worlds-first-open-source-semiconductor-focused-llm/": {
+      "slug": "meet-semikong-the-worlds-first-open-source-semiconductor-focused-llm",
+      "id": 66760,
+      "fetchedAt": "2026-03-14T11:11:13.062536+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/26/deepseek-ai-just-released-deepseek-v3-a-strong-mixture-of-experts-moe-language-model-with-671b-total-parameters-with-37b-activated-for-each-token/": {
+      "slug": "deepseek-ai-just-released-deepseek-v3-a-strong-mixture-of-experts-moe-language-model-with-671b-total-parameters-with-37b-activated-for-each-token",
+      "id": 66743,
+      "fetchedAt": "2026-03-14T11:11:15.101314+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/24/qwen-team-releases-qvq-an-open-weight-model-for-multimodal-reasoning/": {
+      "slug": "qwen-team-releases-qvq-an-open-weight-model-for-multimodal-reasoning",
+      "id": 66688,
+      "fetchedAt": "2026-03-14T11:11:16.584802+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/22/microsoft-researchers-release-aiopslab-an-open-source-comprehensive-ai-framework-for-aiops-agents/": {
+      "slug": "microsoft-researchers-release-aiopslab-an-open-source-comprehensive-ai-framework-for-aiops-agents",
+      "id": 66640,
+      "fetchedAt": "2026-03-14T11:11:19.903348+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/21/meet-finefineweb-an-open-sourced-automatic-classification-system-for-fine-grained-web-data/": {
+      "slug": "meet-finefineweb-an-open-sourced-automatic-classification-system-for-fine-grained-web-data",
+      "id": 66594,
+      "fetchedAt": "2026-03-14T11:11:21.751132+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/20/lighton-and-answer-ai-releases-modernbert-a-new-model-series-that-is-a-pareto-improvement-over-bert-with-both-speed-and-accuracy/": {
+      "slug": "lighton-and-answer-ai-releases-modernbert-a-new-model-series-that-is-a-pareto-improvement-over-bert-with-both-speed-and-accuracy",
+      "id": 66573,
+      "fetchedAt": "2026-03-14T11:11:23.694573+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/19/meet-moxin-llm-7b-a-fully-open-source-language-model-developed-in-accordance-with-the-model-openness-framework-mof/": {
+      "slug": "meet-moxin-llm-7b-a-fully-open-source-language-model-developed-in-accordance-with-the-model-openness-framework-mof",
+      "id": 66556,
+      "fetchedAt": "2026-03-14T11:11:25.017763+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/19/patronus-ai-open-sources-glider-a-3b-state-of-the-art-small-language-model-slm-judge/": {
+      "slug": "patronus-ai-open-sources-glider-a-3b-state-of-the-art-small-language-model-slm-judge",
+      "id": 66545,
+      "fetchedAt": "2026-03-14T11:11:26.790697+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/19/hugging-face-releases-picotron-a-tiny-framework-that-solves-llm-training-4d-parallelization/": {
+      "slug": "hugging-face-releases-picotron-a-tiny-framework-that-solves-llm-training-4d-parallelization",
+      "id": 66529,
+      "fetchedAt": "2026-03-14T11:11:28.244529+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/18/microsoft-ai-research-open-sources-promptwizard-a-feedback-driven-ai-framework-for-efficient-and-scalable-llm-prompt-optimization/": {
+      "slug": "microsoft-ai-research-open-sources-promptwizard-a-feedback-driven-ai-framework-for-efficient-and-scalable-llm-prompt-optimization",
+      "id": 66499,
+      "fetchedAt": "2026-03-14T11:11:29.869939+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/17/infinigence-ai-releases-megrez-3b-omni-a-3b-on-device-open-source-multimodal-large-language-model-mllm/": {
+      "slug": "infinigence-ai-releases-megrez-3b-omni-a-3b-on-device-open-source-multimodal-large-language-model-mllm",
+      "id": 66470,
+      "fetchedAt": "2026-03-14T11:11:31.965123+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/17/technology-innovation-institute-tii-uae-just-released-falcon-3-a-family-of-open-source-ai-models-with-30-new-model-checkpoints-from-1b-to-10b/": {
+      "slug": "technology-innovation-institute-tii-uae-just-released-falcon-3-a-family-of-open-source-ai-models-with-30-new-model-checkpoints-from-1b-to-10b",
+      "id": 66452,
+      "fetchedAt": "2026-03-14T11:11:34.009116+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/16/meta-ai-releases-apollo-a-new-family-of-video-lmms-large-multimodal-models-for-video-understanding/": {
+      "slug": "meta-ai-releases-apollo-a-new-family-of-video-lmms-large-multimodal-models-for-video-understanding",
+      "id": 66439,
+      "fetchedAt": "2026-03-14T11:11:38.015489+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/12/meet-maya-an-8b-open-source-multilingual-multimodal-model-with-toxicity-free-datasets-and-cultural-intelligence-across-eight-languages/": {
+      "slug": "meet-maya-an-8b-open-source-multilingual-multimodal-model-with-toxicity-free-datasets-and-cultural-intelligence-across-eight-languages",
+      "id": 66269,
+      "fetchedAt": "2026-03-14T11:11:39.648272+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/11/lg-ai-research-releases-exaone-3-5-three-open-source-bilingual-frontier-ai-level-models-delivering-unmatched-instruction-following-and-long-context-understanding-for-global-leadership-in-generative-a/": {
+      "slug": "lg-ai-research-releases-exaone-3-5-three-open-source-bilingual-frontier-ai-level-models-delivering-unmatched-instruction-following-and-long-context-understanding-for-global-leadership-in-generative-a",
+      "id": 66237,
+      "fetchedAt": "2026-03-14T11:11:41.072769+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/10/deepseek-ai-just-released-deepseek-v2-5-1210-the-updated-version-of-deepseek-v2-5-with-significant-performance-boosts-in-mathematics-coding-writing-and-reasoning-tasks/": {
+      "slug": "deepseek-ai-just-released-deepseek-v2-5-1210-the-updated-version-of-deepseek-v2-5-with-significant-performance-boosts-in-mathematics-coding-writing-and-reasoning-tasks",
+      "id": 66222,
+      "fetchedAt": "2026-03-14T11:11:42.230068+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/07/alibaba-speech-lab-releases-clearervoice-studio-an-open-sourced-voice-processing-framework-supporting-speech-enhancement-separation-and-target-speaker-extraction/": {
+      "slug": "alibaba-speech-lab-releases-clearervoice-studio-an-open-sourced-voice-processing-framework-supporting-speech-enhancement-separation-and-target-speaker-extraction",
+      "id": 66064,
+      "fetchedAt": "2026-03-14T11:11:44.722213+00:00"
+    },
+    "https://www.marktechpost.com/2024/12/06/meta-ai-just-open-sourced-llama-3-3-a-new-70b-multilingual-large-language-model-llm/": {
+      "slug": "meta-ai-just-open-sourced-llama-3-3-a-new-70b-multilingual-large-language-model-llm",
+      "id": 66015,
+      "fetchedAt": "2026-03-14T11:11:50.069353+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/30/meta-ai-releases-llama-guard-3-1b-int4-a-compact-and-high-performance-ai-moderation-model-for-human-ai-conversations/": {
+      "slug": "meta-ai-releases-llama-guard-3-1b-int4-a-compact-and-high-performance-ai-moderation-model-for-human-ai-conversations",
+      "id": 65788,
+      "fetchedAt": "2026-03-14T11:11:51.521396+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/29/prime-intellect-releases-intellect-1-instruct-base-the-first-10b-parameter-language-model-collaboratively-trained-across-the-globe/": {
+      "slug": "prime-intellect-releases-intellect-1-instruct-base-the-first-10b-parameter-language-model-collaboratively-trained-across-the-globe",
+      "id": 65760,
+      "fetchedAt": "2026-03-14T11:11:53.006366+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/29/andrew-ngs-team-releases-aisuite-a-new-open-source-python-library-for-generative-ai/": {
+      "slug": "andrew-ngs-team-releases-aisuite-a-new-open-source-python-library-for-generative-ai",
+      "id": 65746,
+      "fetchedAt": "2026-03-14T11:11:54.324295+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/28/rhymes-ai-unveils-allegro-ti2v-a-breakthrough-in-visual-storytelling-with-open-source-ai-video-generation-technology/": {
+      "slug": "rhymes-ai-unveils-allegro-ti2v-a-breakthrough-in-visual-storytelling-with-open-source-ai-video-generation-technology",
+      "id": 65734,
+      "fetchedAt": "2026-03-14T11:11:55.946157+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/27/alibabas-qwen-team-releases-qwq-32b-preview-an-open-source-model-comprising-32-billion-parameters-specifically-designed-to-tackle-advanced-reasoning-tasks/": {
+      "slug": "alibabas-qwen-team-releases-qwq-32b-preview-an-open-source-model-comprising-32-billion-parameters-specifically-designed-to-tackle-advanced-reasoning-tasks",
+      "id": 65688,
+      "fetchedAt": "2026-03-14T11:11:57.552912+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/27/the-allen-institute-for-ai-ai2-releases-olmo-2-a-new-family-of-open-sourced-7b-and-13b-language-models-trained-on-up-to-5t-tokens/": {
+      "slug": "the-allen-institute-for-ai-ai2-releases-olmo-2-a-new-family-of-open-sourced-7b-and-13b-language-models-trained-on-up-to-5t-tokens",
+      "id": 65682,
+      "fetchedAt": "2026-03-14T11:11:59.206230+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/24/neural-magic-releases-llm-compressor-a-novel-library-to-compress-llms-for-faster-inference-with-vllm/": {
+      "slug": "neural-magic-releases-llm-compressor-a-novel-library-to-compress-llms-for-faster-inference-with-vllm",
+      "id": 61214,
+      "fetchedAt": "2026-03-14T11:12:00.665186+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/22/nvidia-introduces-hymba-1-5b-a-hybrid-small-language-model-outperforming-llama-3-2-and-smollm-v2/": {
+      "slug": "nvidia-introduces-hymba-1-5b-a-hybrid-small-language-model-outperforming-llama-3-2-and-smollm-v2",
+      "id": 65496,
+      "fetchedAt": "2026-03-14T11:12:01.972718+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/22/apple-releases-aimv2-a-family-of-state-of-the-art-open-set-vision-encoders/": {
+      "slug": "apple-releases-aimv2-a-family-of-state-of-the-art-open-set-vision-encoders",
+      "id": 65487,
+      "fetchedAt": "2026-03-14T11:12:03.508663+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/21/meet-arch-0-1-3-open-source-intelligent-proxy-for-ai-agents/": {
+      "slug": "meet-arch-0-1-3-open-source-intelligent-proxy-for-ai-agents",
+      "id": 65448,
+      "fetchedAt": "2026-03-14T11:12:04.947779+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/21/smoltalk-released-the-dataset-recipe-behind-the-best-in-class-performance-of-smollm2/": {
+      "slug": "smoltalk-released-the-dataset-recipe-behind-the-best-in-class-performance-of-smollm2",
+      "id": 65431,
+      "fetchedAt": "2026-03-14T11:12:06.233781+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/17/mit-researchers-propose-boltz-1-the-first-open-source-ai-model-achieving-alphafold3-level-accuracy-in-biomolecular-structure-prediction/": {
+      "slug": "mit-researchers-propose-boltz-1-the-first-open-source-ai-model-achieving-alphafold3-level-accuracy-in-biomolecular-structure-prediction",
+      "id": 65259,
+      "fetchedAt": "2026-03-14T11:12:07.689446+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/14/meet-opencoder-a-completely-open-source-code-llm-built-on-the-transparent-data-process-pipeline-and-reproducible-dataset/": {
+      "slug": "meet-opencoder-a-completely-open-source-code-llm-built-on-the-transparent-data-process-pipeline-and-reproducible-dataset",
+      "id": 65147,
+      "fetchedAt": "2026-03-14T11:12:08.969330+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/14/microsoft-ai-open-sources-tinytroupe-a-new-python-library-for-llm-powered-multiagent-simulation/": {
+      "slug": "microsoft-ai-open-sources-tinytroupe-a-new-python-library-for-llm-powered-multiagent-simulation",
+      "id": 65144,
+      "fetchedAt": "2026-03-14T11:12:11.087347+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/13/blip3-kale-an-open-source-dataset-of-218-million-image-text-pairs-transforming-image-captioning-with-knowledge-augmented-dense-descriptions/": {
+      "slug": "blip3-kale-an-open-source-dataset-of-218-million-image-text-pairs-transforming-image-captioning-with-knowledge-augmented-dense-descriptions",
+      "id": 65100,
+      "fetchedAt": "2026-03-14T11:12:12.783946+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/13/fixie-ai-introduces-ultravox-v0-4-1-a-family-of-open-speech-models-trained-specifically-for-enabling-real-time-conversation-with-llms-and-an-open-weight-alternative-to-gpt-4o-realtime/": {
+      "slug": "fixie-ai-introduces-ultravox-v0-4-1-a-family-of-open-speech-models-trained-specifically-for-enabling-real-time-conversation-with-llms-and-an-open-weight-alternative-to-gpt-4o-realtime",
+      "id": 65088,
+      "fetchedAt": "2026-03-14T11:12:14.801611+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/11/qwen-open-sources-the-powerful-diverse-and-practical-qwen2-5-coder-series-0-5b-1-5b-3b-7b-14b-32b/": {
+      "slug": "qwen-open-sources-the-powerful-diverse-and-practical-qwen2-5-coder-series-0-5b-1-5b-3b-7b-14b-32b",
+      "id": 64992,
+      "fetchedAt": "2026-03-14T11:12:17.812898+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/11/hugging-face-releases-sentence-transformers-v3-3-0-a-major-leap-for-nlp-efficiency/": {
+      "slug": "hugging-face-releases-sentence-transformers-v3-3-0-a-major-leap-for-nlp-efficiency",
+      "id": 64980,
+      "fetchedAt": "2026-03-14T11:12:20.870005+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/07/arcee-ai-releases-arcee-vylinh-a-powerful-3b-vietnamese-small-language-model/": {
+      "slug": "arcee-ai-releases-arcee-vylinh-a-powerful-3b-vietnamese-small-language-model",
+      "id": 64800,
+      "fetchedAt": "2026-03-14T11:12:22.902467+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/05/tencent-releases-hunyuan-large-hunyuan-moe-a52b-model-a-new-open-source-transformer-based-moe-model-with-a-total-of-389-billion-parameters-and-52-billion-active-parameters/": {
+      "slug": "tencent-releases-hunyuan-large-hunyuan-moe-a52b-model-a-new-open-source-transformer-based-moe-model-with-a-total-of-389-billion-parameters-and-52-billion-active-parameters",
+      "id": 64715,
+      "fetchedAt": "2026-03-14T11:12:24.605544+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/03/meet-hertz-dev-an-open-source-8-5b-audio-model-for-real-time-conversational-ai-with-80ms-theoretical-and-120ms-real-world-latency-on-a-single-rtx-4090/": {
+      "slug": "meet-hertz-dev-an-open-source-8-5b-audio-model-for-real-time-conversational-ai-with-80ms-theoretical-and-120ms-real-world-latency-on-a-single-rtx-4090",
+      "id": 64653,
+      "fetchedAt": "2026-03-14T11:12:27.173669+00:00"
+    },
+    "https://www.marktechpost.com/2024/11/01/amd-open-sources-amd-olmo-a-fully-open-source-1b-language-model-series-that-is-trained-from-scratch-by-amd-on-amd-instinct-mi250-gpus/": {
+      "slug": "amd-open-sources-amd-olmo-a-fully-open-source-1b-language-model-series-that-is-trained-from-scratch-by-amd-on-amd-instinct-mi250-gpus",
+      "id": 64569,
+      "fetchedAt": "2026-03-14T11:12:30.576098+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/31/run-ai-open-sources-runai-model-streamer-a-purpose-built-solution-to-make-large-models-loading-faster-and-more-efficient/": {
+      "slug": "run-ai-open-sources-runai-model-streamer-a-purpose-built-solution-to-make-large-models-loading-faster-and-more-efficient",
+      "id": 64528,
+      "fetchedAt": "2026-03-14T11:12:32.152841+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/30/maskgct-a-new-open-state-of-the-art-text-to-speech-model/": {
+      "slug": "maskgct-a-new-open-state-of-the-art-text-to-speech-model",
+      "id": 64467,
+      "fetchedAt": "2026-03-14T11:12:33.449908+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/29/meet-pii-masker-an-open-source-tool-for-protecting-sensitive-data-by-automatically-detecting-and-masking-pii-using-advanced-ai-powered-by-deberta-v3/": {
+      "slug": "meet-pii-masker-an-open-source-tool-for-protecting-sensitive-data-by-automatically-detecting-and-masking-pii-using-advanced-ai-powered-by-deberta-v3",
+      "id": 64459,
+      "fetchedAt": "2026-03-14T11:12:35.078343+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/27/meta-ai-silently-releases-notebookllama-an-open-source-alternative-to-googles-notebooklm/": {
+      "slug": "meta-ai-silently-releases-notebookllama-an-open-source-alternative-to-googles-notebooklm",
+      "id": 64361,
+      "fetchedAt": "2026-03-14T11:12:36.723296+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/27/meet-mcdse-2b-v1-a-new-performant-scalable-and-efficient-multilingual-document-retrieval-model/": {
+      "slug": "meet-mcdse-2b-v1-a-new-performant-scalable-and-efficient-multilingual-document-retrieval-model",
+      "id": 64356,
+      "fetchedAt": "2026-03-14T11:12:38.037982+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/26/meet-hawkish-8b-a-new-financial-domain-model-that-can-pass-cfa-level-1-and-outperform-meta-llama-3-1-8b-instruct-in-math-finance-benchmarks/": {
+      "slug": "meet-hawkish-8b-a-new-financial-domain-model-that-can-pass-cfa-level-1-and-outperform-meta-llama-3-1-8b-instruct-in-math-finance-benchmarks",
+      "id": 64321,
+      "fetchedAt": "2026-03-14T11:12:39.783281+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/26/cohere-for-ai-releases-aya-expanse-8b-32b-a-state-of-the-art-multilingual-family-of-models-to-bridge-the-language-gap-in-ai/": {
+      "slug": "cohere-for-ai-releases-aya-expanse-8b-32b-a-state-of-the-art-multilingual-family-of-models-to-bridge-the-language-gap-in-ai",
+      "id": 64312,
+      "fetchedAt": "2026-03-14T11:12:43.816063+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/25/zhipu-ai-releases-glm-4-voice-a-new-open-source-end-to-end-speech-large-language-model/": {
+      "slug": "zhipu-ai-releases-glm-4-voice-a-new-open-source-end-to-end-speech-large-language-model",
+      "id": 64299,
+      "fetchedAt": "2026-03-14T11:12:45.292733+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/25/ibm-developers-release-bee-agent-framework-an-open-source-ai-framework-for-building-deploying-and-serving-powerful-agentic-workflows-at-scale/": {
+      "slug": "ibm-developers-release-bee-agent-framework-an-open-source-ai-framework-for-building-deploying-and-serving-powerful-agentic-workflows-at-scale",
+      "id": 64280,
+      "fetchedAt": "2026-03-14T11:12:46.424550+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/24/microsoft-ai-releases-omniparser-model-on-huggingface-a-compact-screen-parsing-module-that-can-convert-ui-screenshots-into-structured-elements/": {
+      "slug": "microsoft-ai-releases-omniparser-model-on-huggingface-a-compact-screen-parsing-module-that-can-convert-ui-screenshots-into-structured-elements",
+      "id": 64236,
+      "fetchedAt": "2026-03-14T11:12:47.676567+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/24/meta-ai-releases-new-quantized-versions-of-llama-3-2-1b-3b-delivering-up-to-2-4x-increases-in-inference-speed-and-56-reduction-in-model-size/": {
+      "slug": "meta-ai-releases-new-quantized-versions-of-llama-3-2-1b-3b-delivering-up-to-2-4x-increases-in-inference-speed-and-56-reduction-in-model-size",
+      "id": 64233,
+      "fetchedAt": "2026-03-14T11:12:49.300211+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/23/google-deepmind-open-sources-synthid-for-ai-text-watermarking/": {
+      "slug": "google-deepmind-open-sources-synthid-for-ai-text-watermarking",
+      "id": 64185,
+      "fetchedAt": "2026-03-14T11:12:51.243121+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/23/transformers-js-v3-released-bringing-power-and-flexibility-to-browser-based-machine-learning/": {
+      "slug": "transformers-js-v3-released-bringing-power-and-flexibility-to-browser-based-machine-learning",
+      "id": 64181,
+      "fetchedAt": "2026-03-14T11:12:55.283255+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/22/cmu-researchers-release-pangea-7b-a-fully-open-multimodal-large-language-models-mllms-for-39-languages/": {
+      "slug": "cmu-researchers-release-pangea-7b-a-fully-open-multimodal-large-language-models-mllms-for-39-languages",
+      "id": 64150,
+      "fetchedAt": "2026-03-14T11:12:56.765292+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/21/meta-ai-releases-layerskip-a-novel-ai-approach-to-accelerate-inference-in-large-language-models-llms/": {
+      "slug": "meta-ai-releases-layerskip-a-novel-ai-approach-to-accelerate-inference-in-large-language-models-llms",
+      "id": 64125,
+      "fetchedAt": "2026-03-14T11:12:58.251105+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/21/ibm-releases-granite-3-0-2b-and-8b-ai-models-for-ai-enterprises/": {
+      "slug": "ibm-releases-granite-3-0-2b-and-8b-ai-models-for-ai-enterprises",
+      "id": 64101,
+      "fetchedAt": "2026-03-14T11:12:59.544901+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/20/meta-ai-releases-metas-open-materials-2024-omat24-inorganic-materials-dataset-and-models/": {
+      "slug": "meta-ai-releases-metas-open-materials-2024-omat24-inorganic-materials-dataset-and-models",
+      "id": 64081,
+      "fetchedAt": "2026-03-14T11:13:00.967753+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/20/open-collective-releases-magnum-v4-series-models-from-9b-to-123b-parameters/": {
+      "slug": "open-collective-releases-magnum-v4-series-models-from-9b-to-123b-parameters",
+      "id": 64075,
+      "fetchedAt": "2026-03-14T11:13:02.617425+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/18/meta-ai-releases-meta-spirit-lm-an-open-source-multimodal-language-model-mixing-text-and-speech/": {
+      "slug": "meta-ai-releases-meta-spirit-lm-an-open-source-multimodal-language-model-mixing-text-and-speech",
+      "id": 63981,
+      "fetchedAt": "2026-03-14T11:13:04.051871+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/18/deepseek-ai-releases-janus-a-1-3b-multimodal-model-with-image-generation-capabilities/": {
+      "slug": "deepseek-ai-releases-janus-a-1-3b-multimodal-model-with-image-generation-capabilities",
+      "id": 63966,
+      "fetchedAt": "2026-03-14T11:13:06.072298+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/17/pytorch-2-5-released-advancing-machine-learning-efficiency-and-scalability/": {
+      "slug": "pytorch-2-5-released-advancing-machine-learning-efficiency-and-scalability",
+      "id": 63934,
+      "fetchedAt": "2026-03-14T11:13:07.448606+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/17/katanemo-open-sources-arch-function-a-set-of-large-language-models-llms-promising-ultra-fast-speeds-at-function-calling-tasks-for-agentic-workflows/": {
+      "slug": "katanemo-open-sources-arch-function-a-set-of-large-language-models-llms-promising-ultra-fast-speeds-at-function-calling-tasks-for-agentic-workflows",
+      "id": 63928,
+      "fetchedAt": "2026-03-14T11:13:08.687662+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/17/from-onnx-to-static-embeddings-what-makes-sentence-transformers-v3-2-0-a-game-changer/": {
+      "slug": "from-onnx-to-static-embeddings-what-makes-sentence-transformers-v3-2-0-a-game-changer",
+      "id": 63922,
+      "fetchedAt": "2026-03-14T11:13:10.129453+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/16/nvidia-ai-quietly-launches-nemotron-70b-crushing-openais-gpt-4-on-various-benchmarks/": {
+      "slug": "nvidia-ai-quietly-launches-nemotron-70b-crushing-openais-gpt-4-on-various-benchmarks",
+      "id": 63891,
+      "fetchedAt": "2026-03-14T11:13:12.065744+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/16/mistral-ai-introduces-les-ministraux-ministral-3b-and-ministral-8b-revolutionizing-on-device-ai/": {
+      "slug": "mistral-ai-introduces-les-ministraux-ministral-3b-and-ministral-8b-revolutionizing-on-device-ai",
+      "id": 63863,
+      "fetchedAt": "2026-03-14T11:13:13.534090+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/14/zyphra-releases-zamba2-7b-a-state-of-the-art-small-language-model/": {
+      "slug": "zyphra-releases-zamba2-7b-a-state-of-the-art-small-language-model",
+      "id": 63790,
+      "fetchedAt": "2026-03-14T11:13:15.718590+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/13/openr-an-open-source-ai-framework-enhancing-reasoning-in-large-language-models/": {
+      "slug": "openr-an-open-source-ai-framework-enhancing-reasoning-in-large-language-models",
+      "id": 63743,
+      "fetchedAt": "2026-03-14T11:13:19.213337+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/12/arcee-ai-releases-supernova-medius-a-14b-small-language-model-built-on-the-qwen2-5-14b-instruct-architecture/": {
+      "slug": "arcee-ai-releases-supernova-medius-a-14b-small-language-model-built-on-the-qwen2-5-14b-instruct-architecture",
+      "id": 63687,
+      "fetchedAt": "2026-03-14T11:13:21.894801+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/11/intellect-1-the-first-decentralized-10-billion-parameter-ai-model-training/": {
+      "slug": "intellect-1-the-first-decentralized-10-billion-parameter-ai-model-training",
+      "id": 63659,
+      "fetchedAt": "2026-03-14T11:13:23.339564+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/10/rhymes-ai-released-aria-an-open-multimodal-native-moe-model-offering-state-of-the-art-performance-across-diverse-language-vision-and-coding-tasks/": {
+      "slug": "rhymes-ai-released-aria-an-open-multimodal-native-moe-model-offering-state-of-the-art-performance-across-diverse-language-vision-and-coding-tasks",
+      "id": 63605,
+      "fetchedAt": "2026-03-14T11:13:25.168085+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/09/autoarena-an-open-source-ai-tool-that-automates-head-to-head-evaluations-using-llm-judges-to-rank-genai-systems/": {
+      "slug": "autoarena-an-open-source-ai-tool-that-automates-head-to-head-evaluations-using-llm-judges-to-rank-genai-systems",
+      "id": 63542,
+      "fetchedAt": "2026-03-14T11:13:27.462384+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/08/llm360-group-introduces-txt360-a-top-quality-llm-pre-training-dataset-with-15t-tokens/": {
+      "slug": "llm360-group-introduces-txt360-a-top-quality-llm-pre-training-dataset-with-15t-tokens",
+      "id": 63511,
+      "fetchedAt": "2026-03-14T11:13:31.113535+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/06/rev-releases-reverb-ai-models-open-weight-speech-transcription-and-diarization-model-beating-the-current-sota-models/": {
+      "slug": "rev-releases-reverb-ai-models-open-weight-speech-transcription-and-diarization-model-beating-the-current-sota-models",
+      "id": 63413,
+      "fetchedAt": "2026-03-14T11:13:32.364516+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/05/google-releases-gemma-2-jpn-a-2b-ai-model-fine-tuned-on-japanese-text/": {
+      "slug": "google-releases-gemma-2-jpn-a-2b-ai-model-fine-tuned-on-japanese-text",
+      "id": 63386,
+      "fetchedAt": "2026-03-14T11:13:33.756101+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/05/zyphra-releases-zamba2-1-2b-instruct-and-zamba2-2-7b-instruct-a-new-state-of-the-art-small-language-model-series-that-outperforms-gemma2-2b-instruct/": {
+      "slug": "zyphra-releases-zamba2-1-2b-instruct-and-zamba2-2-7b-instruct-a-new-state-of-the-art-small-language-model-series-that-outperforms-gemma2-2b-instruct",
+      "id": 63343,
+      "fetchedAt": "2026-03-14T11:13:35.387431+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/03/yolo11-released-by-ultralytics-unveiling-next-gen-features-for-real-time-image-analysis-and-autonomous-systems/": {
+      "slug": "yolo11-released-by-ultralytics-unveiling-next-gen-features-for-real-time-image-analysis-and-autonomous-systems",
+      "id": 63284,
+      "fetchedAt": "2026-03-14T11:13:37.437915+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/02/prithvi-wxc-released-by-ibm-and-nasa-a-2-3-billion-parameter-foundation-model-for-weather-and-climate/": {
+      "slug": "prithvi-wxc-released-by-ibm-and-nasa-a-2-3-billion-parameter-foundation-model-for-weather-and-climate",
+      "id": 63236,
+      "fetchedAt": "2026-03-14T11:13:41.527861+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/02/copilotkits-coagents-the-missing-link-that-makes-it-easy-to-connect-langgraph-agents-to-humans-in-the-loop/": {
+      "slug": "copilotkits-coagents-the-missing-link-that-makes-it-easy-to-connect-langgraph-agents-to-humans-in-the-loop",
+      "id": 63217,
+      "fetchedAt": "2026-03-14T11:13:43.281430+00:00"
+    },
+    "https://www.marktechpost.com/2024/10/01/google-releases-frames-a-comprehensive-evaluation-dataset-designed-to-test-retrieval-augmented-generation-rag-applications-on-factuality-retrieval-accuracy-and-reasoning/": {
+      "slug": "google-releases-frames-a-comprehensive-evaluation-dataset-designed-to-test-retrieval-augmented-generation-rag-applications-on-factuality-retrieval-accuracy-and-reasoning",
+      "id": 63190,
+      "fetchedAt": "2026-03-14T11:13:44.923637+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/29/ovis-1-6-an-open-source-multimodal-large-language-model-mllm-architecture-designed-to-structurally-align-visual-and-textual-embeddings/": {
+      "slug": "ovis-1-6-an-open-source-multimodal-large-language-model-mllm-architecture-designed-to-structurally-align-visual-and-textual-embeddings",
+      "id": 63110,
+      "fetchedAt": "2026-03-14T11:13:46.765362+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/29/massiveds-a-1-4-trillion-token-datastore-enabling-language-models-to-achieve-superior-efficiency-and-accuracy-in-knowledge-intensive-nlp-applications/": {
+      "slug": "massiveds-a-1-4-trillion-token-datastore-enabling-language-models-to-achieve-superior-efficiency-and-accuracy-in-knowledge-intensive-nlp-applications",
+      "id": 63105,
+      "fetchedAt": "2026-03-14T11:13:48.820763+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/28/amd-releases-amd-135m-amds-first-small-language-model-series-trained-from-scratch-on-amd-instinct-mi250-accelerators-utilizing-670b-tokens/": {
+      "slug": "amd-releases-amd-135m-amds-first-small-language-model-series-trained-from-scratch-on-amd-instinct-mi250-accelerators-utilizing-670b-tokens",
+      "id": 63059,
+      "fetchedAt": "2026-03-14T11:13:50.635866+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/27/researchers-at-uc-berkeley-developed-docetl-an-open-source-low-code-ai-system-for-llm-powered-data-processing/": {
+      "slug": "researchers-at-uc-berkeley-developed-docetl-an-open-source-low-code-ai-system-for-llm-powered-data-processing",
+      "id": 63018,
+      "fetchedAt": "2026-03-14T11:13:52.255266+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/26/are-small-language-models-really-the-future-of-language-models-allen-institute-for-artificial-intelligence-ai2-releases-molmo-a-family-of-open-source-multimodal-language-models/": {
+      "slug": "are-small-language-models-really-the-future-of-language-models-allen-institute-for-artificial-intelligence-ai2-releases-molmo-a-family-of-open-source-multimodal-language-models",
+      "id": 62989,
+      "fetchedAt": "2026-03-14T11:13:53.505752+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/25/microsoft-releases-rd-agent-an-open-source-ai-tool-designed-to-automate-and-optimize-research-and-development-processes/": {
+      "slug": "microsoft-releases-rd-agent-an-open-source-ai-tool-designed-to-automate-and-optimize-research-and-development-processes",
+      "id": 62970,
+      "fetchedAt": "2026-03-14T11:13:55.420952+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/25/llama-3-2-released-unlocking-ai-potential-with-1b-and-3b-lightweight-text-models-and-11b-and-90b-vision-models-for-edge-mobile-and-multimodal-ai-applications/": {
+      "slug": "llama-3-2-released-unlocking-ai-potential-with-1b-and-3b-lightweight-text-models-and-11b-and-90b-vision-models-for-edge-mobile-and-multimodal-ai-applications",
+      "id": 62965,
+      "fetchedAt": "2026-03-14T11:13:57.289324+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/25/minish-lab-releases-model2vec-an-ai-tool-for-distilling-small-super-fast-models-from-any-sentence-transformer/": {
+      "slug": "minish-lab-releases-model2vec-an-ai-tool-for-distilling-small-super-fast-models-from-any-sentence-transformer",
+      "id": 62955,
+      "fetchedAt": "2026-03-14T11:13:58.909781+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/24/nvidia-ai-releases-llama-3-1-nemotron-51b-a-new-llm-that-enables-running-4x-larger-workloads-on-a-single-gpu-during-inference/": {
+      "slug": "nvidia-ai-releases-llama-3-1-nemotron-51b-a-new-llm-that-enables-running-4x-larger-workloads-on-a-single-gpu-during-inference",
+      "id": 62924,
+      "fetchedAt": "2026-03-14T11:14:00.678144+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/23/openai-releases-multilingual-massive-multitask-language-understanding-mmmlu-dataset-on-hugging-face-to-easily-evaluate-multilingual-llms/": {
+      "slug": "openai-releases-multilingual-massive-multitask-language-understanding-mmmlu-dataset-on-hugging-face-to-easily-evaluate-multilingual-llms",
+      "id": 62895,
+      "fetchedAt": "2026-03-14T11:14:01.821554+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/21/bytedance-researchers-release-infimm-webmath-40-an-open-multimodal-dataset-designed-for-complex-mathematical-reasoning/": {
+      "slug": "bytedance-researchers-release-infimm-webmath-40-an-open-multimodal-dataset-designed-for-complex-mathematical-reasoning",
+      "id": 62814,
+      "fetchedAt": "2026-03-14T11:14:03.261892+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/21/microsoft-releases-grin-moe-a-gradient-informed-mixture-of-experts-moe-model-for-efficient-and-scalable-deep-learning/": {
+      "slug": "microsoft-releases-grin-moe-a-gradient-informed-mixture-of-experts-moe-model-for-efficient-and-scalable-deep-learning",
+      "id": 62805,
+      "fetchedAt": "2026-03-14T11:14:04.890212+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/21/lighton-released-fc-amf-ocr-dataset-a-9-3-million-images-dataset-of-financial-documents-with-full-ocr-annotations/": {
+      "slug": "lighton-released-fc-amf-ocr-dataset-a-9-3-million-images-dataset-of-financial-documents-with-full-ocr-annotations",
+      "id": 62802,
+      "fetchedAt": "2026-03-14T11:14:06.802757+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/19/embedic-released-a-suite-of-serbian-text-embedding-models-optimized-for-information-retrieval-and-rag/": {
+      "slug": "embedic-released-a-suite-of-serbian-text-embedding-models-optimized-for-information-retrieval-and-rag",
+      "id": 62730,
+      "fetchedAt": "2026-03-14T11:14:07.998350+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/19/pixtral-12b-released-by-mistral-ai-a-revolutionary-multimodal-ai-model-transforming-industries-with-advanced-language-and-visual-processing-capabilities/": {
+      "slug": "pixtral-12b-released-by-mistral-ai-a-revolutionary-multimodal-ai-model-transforming-industries-with-advanced-language-and-visual-processing-capabilities",
+      "id": 62727,
+      "fetchedAt": "2026-03-14T11:14:10.020330+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/19/jina-embeddings-v3-released-a-multilingual-multi-task-text-embedding-model-designed-for-a-variety-of-nlp-applications/": {
+      "slug": "jina-embeddings-v3-released-a-multilingual-multi-task-text-embedding-model-designed-for-a-variety-of-nlp-applications",
+      "id": 62722,
+      "fetchedAt": "2026-03-14T11:14:11.642053+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/19/wordllama-released-on-hugging-face-an-open-source-fast-lightweight-16mb-nlp-toolkit-for-tasks-like-fuzzy-deduplication-similarity-and-ranking-optimized-for-cpus/": {
+      "slug": "wordllama-released-on-hugging-face-an-open-source-fast-lightweight-16mb-nlp-toolkit-for-tasks-like-fuzzy-deduplication-similarity-and-ranking-optimized-for-cpus",
+      "id": 62697,
+      "fetchedAt": "2026-03-14T11:14:12.921465+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/18/qwen-2-5-models-released-featuring-qwen2-5-qwen2-5-coder-and-qwen2-5-math-with-72b-parameters-and-128k-context-support/": {
+      "slug": "qwen-2-5-models-released-featuring-qwen2-5-qwen2-5-coder-and-qwen2-5-math-with-72b-parameters-and-128k-context-support",
+      "id": 62704,
+      "fetchedAt": "2026-03-14T11:14:14.704230+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/18/kyutai-open-sources-moshi-a-breakthrough-full-duplex-real-time-dialogue-system-that-revolutionizes-human-like-conversations-with-unmatched-latency-and-speech-quality/": {
+      "slug": "kyutai-open-sources-moshi-a-breakthrough-full-duplex-real-time-dialogue-system-that-revolutionizes-human-like-conversations-with-unmatched-latency-and-speech-quality",
+      "id": 62678,
+      "fetchedAt": "2026-03-14T11:14:16.857355+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/18/mistral-ai-released-mistral-small-instruct-2409-a-game-changing-open-source-language-model-empowering-versatile-ai-applications-with-unmatched-efficiency-and-accessibility/": {
+      "slug": "mistral-ai-released-mistral-small-instruct-2409-a-game-changing-open-source-language-model-empowering-versatile-ai-applications-with-unmatched-efficiency-and-accessibility",
+      "id": 62665,
+      "fetchedAt": "2026-03-14T11:14:20.327280+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/17/comet-launches-opik-a-comprehensive-open-source-tool-for-end-to-end-llm-evaluation-prompt-tracking-and-pre-deployment-testing-with-seamless-integration/": {
+      "slug": "comet-launches-opik-a-comprehensive-open-source-tool-for-end-to-end-llm-evaluation-prompt-tracking-and-pre-deployment-testing-with-seamless-integration",
+      "id": 62618,
+      "fetchedAt": "2026-03-14T11:14:22.256312+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/17/gretel-ai-open-sourced-synthetic-gsm8k-reflection-405b-dataset-advancing-ai-model-training-with-multi-step-reasoning-reflection-techniques-and-real-world-problem-solving-scenarios/": {
+      "slug": "gretel-ai-open-sourced-synthetic-gsm8k-reflection-405b-dataset-advancing-ai-model-training-with-multi-step-reasoning-reflection-techniques-and-real-world-problem-solving-scenarios",
+      "id": 62609,
+      "fetchedAt": "2026-03-14T11:14:23.929835+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/17/allen-institute-for-ai-researchers-propose-super-a-benchmark-for-evaluating-the-ability-of-llms-to-set-up-and-execute-research-experiments/": {
+      "slug": "allen-institute-for-ai-researchers-propose-super-a-benchmark-for-evaluating-the-ability-of-llms-to-set-up-and-execute-research-experiments",
+      "id": 62606,
+      "fetchedAt": "2026-03-14T11:14:27.179006+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/15/huggingface-team-released-finevideo-a-comprehensive-dataset-featuring-43751-youtube-videos-across-122-categories-for-advanced-multimodal-ai-analysis/": {
+      "slug": "huggingface-team-released-finevideo-a-comprehensive-dataset-featuring-43751-youtube-videos-across-122-categories-for-advanced-multimodal-ai-analysis",
+      "id": 62509,
+      "fetchedAt": "2026-03-14T11:14:30.493068+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/15/windows-agent-arena-waa-a-scalable-open-sourced-windows-ai-agent-platform-for-testing-and-benchmarking-multi-modal-desktop-ai-agent/": {
+      "slug": "windows-agent-arena-waa-a-scalable-open-sourced-windows-ai-agent-platform-for-testing-and-benchmarking-multi-modal-desktop-ai-agent",
+      "id": 62505,
+      "fetchedAt": "2026-03-14T11:14:32.351498+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/15/xverse-moe-a36b-released-by-xverse-technology-a-revolutionary-multilingual-ai-model-setting-new-standards-in-mixture-of-experts-architecture-and-large-scale-language-processing/": {
+      "slug": "xverse-moe-a36b-released-by-xverse-technology-a-revolutionary-multilingual-ai-model-setting-new-standards-in-mixture-of-experts-architecture-and-large-scale-language-processing",
+      "id": 62483,
+      "fetchedAt": "2026-03-14T11:14:34.102912+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/14/nvidia-open-sources-nemotron-mini-4b-instruct-a-4096-token-capacity-small-language-model-designed-for-roleplaying-function-calling-and-efficient-on-device-deployment-with-32-attention-heads-and-9/": {
+      "slug": "nvidia-open-sources-nemotron-mini-4b-instruct-a-4096-token-capacity-small-language-model-designed-for-roleplaying-function-calling-and-efficient-on-device-deployment-with-32-attention-heads-and-9",
+      "id": 62442,
+      "fetchedAt": "2026-03-14T11:14:36.145770+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/14/piiranha-v1-released-a-280m-small-encoder-open-model-for-pii-detection-with-98-27-token-detection-accuracy-supporting-6-languages-and-17-pii-types-released-under-mit-license/": {
+      "slug": "piiranha-v1-released-a-280m-small-encoder-open-model-for-pii-detection-with-98-27-token-detection-accuracy-supporting-6-languages-and-17-pii-types-released-under-mit-license",
+      "id": 62423,
+      "fetchedAt": "2026-03-14T11:14:37.437342+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/12/jina-ai-released-reader-lm-0-5b-and-reader-lm-1-5b-revolutionizing-html-to-markdown-conversion-with-multilingual-long-context-and-highly-efficient-small-language-models-for-web-data-processing/": {
+      "slug": "jina-ai-released-reader-lm-0-5b-and-reader-lm-1-5b-revolutionizing-html-to-markdown-conversion-with-multilingual-long-context-and-highly-efficient-small-language-models-for-web-data-processing",
+      "id": 62300,
+      "fetchedAt": "2026-03-14T11:14:39.414536+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/11/powerlm-3b-and-powermoe-3b-released-by-ibm-revolutionizing-language-models-with-3-billion-parameters-and-advanced-power-scheduler-for-efficient-large-scale-ai-training/": {
+      "slug": "powerlm-3b-and-powermoe-3b-released-by-ibm-revolutionizing-language-models-with-3-billion-parameters-and-advanced-power-scheduler-for-efficient-large-scale-ai-training",
+      "id": 62275,
+      "fetchedAt": "2026-03-14T11:14:40.985384+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/10/atscale-open-sourced-semantic-modeling-language-sml-transforming-analytics-with-industry-standard-framework-for-interoperability-reusability-and-multidimensional-data-modeling-across-platforms/": {
+      "slug": "atscale-open-sourced-semantic-modeling-language-sml-transforming-analytics-with-industry-standard-framework-for-interoperability-reusability-and-multidimensional-data-modeling-across-platforms",
+      "id": 62220,
+      "fetchedAt": "2026-03-14T11:14:42.692902+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/10/chai-1-released-by-chai-discovery-team-a-groundbreaking-multi-modal-foundation-model-set-to-transform-drug-discovery-and-biological-engineering-with-revolutionary-molecular-structure-prediction/": {
+      "slug": "chai-1-released-by-chai-discovery-team-a-groundbreaking-multi-modal-foundation-model-set-to-transform-drug-discovery-and-biological-engineering-with-revolutionary-molecular-structure-prediction",
+      "id": 62210,
+      "fetchedAt": "2026-03-14T11:14:43.997971+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/09/lg-ai-research-open-sources-exaonepath-transforming-histopathology-image-analysis-with-a-285m-patch-level-pre-trained-model-for-variety-of-medical-prediction-reducing-genetic-testing-time-and-costs/": {
+      "slug": "lg-ai-research-open-sources-exaonepath-transforming-histopathology-image-analysis-with-a-285m-patch-level-pre-trained-model-for-variety-of-medical-prediction-reducing-genetic-testing-time-and-costs",
+      "id": 62175,
+      "fetchedAt": "2026-03-14T11:14:45.678838+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/09/llama-deploy-a-fully-open-source-way-to-deploy-your-agents-as-production-microservices/": {
+      "slug": "llama-deploy-a-fully-open-source-way-to-deploy-your-agents-as-production-microservices",
+      "id": 62163,
+      "fetchedAt": "2026-03-14T11:14:47.357302+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/08/lg-ai-research-open-sources-exaone-3-0-a-7-8b-bilingual-language-model-excelling-in-english-and-korean-with-top-performance-in-real-world-applications-and-complex-reasoning/": {
+      "slug": "lg-ai-research-open-sources-exaone-3-0-a-7-8b-bilingual-language-model-excelling-in-english-and-korean-with-top-performance-in-real-world-applications-and-complex-reasoning",
+      "id": 62120,
+      "fetchedAt": "2026-03-14T11:14:48.321678+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/08/cogvlm2-advancing-multimodal-visual-language-models-for-enhanced-image-video-understanding-and-temporal-grounding-in-open-source-applications/": {
+      "slug": "cogvlm2-advancing-multimodal-visual-language-models-for-enhanced-image-video-understanding-and-temporal-grounding-in-open-source-applications",
+      "id": 62113,
+      "fetchedAt": "2026-03-14T11:14:49.713708+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/07/reflection-70b-a-ground-breaking-open-source-llm-trained-with-a-new-technique-called-reflection-tuning-that-teaches-a-llm-to-detect-mistakes-in-its-reasoning-and-correct-course/": {
+      "slug": "reflection-70b-a-ground-breaking-open-source-llm-trained-with-a-new-technique-called-reflection-tuning-that-teaches-a-llm-to-detect-mistakes-in-its-reasoning-and-correct-course",
+      "id": 62045,
+      "fetchedAt": "2026-03-14T11:14:51.358144+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/07/deepseek-v2-5-released-by-deepseek-ai-a-cutting-edge-238b-parameter-model-featuring-mixture-of-experts-moe-with-160-experts-advanced-chat-coding-and-128k-context-length-capabilities/": {
+      "slug": "deepseek-v2-5-released-by-deepseek-ai-a-cutting-edge-238b-parameter-model-featuring-mixture-of-experts-moe-with-160-experts-advanced-chat-coding-and-128k-context-length-capabilities",
+      "id": 62042,
+      "fetchedAt": "2026-03-14T11:14:52.617388+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/06/ibm-research-open-sources-docling-an-ai-tool-for-high-precision-pdf-document-conversion-and-structural-integrity-maintenance-across-complex-layouts/": {
+      "slug": "ibm-research-open-sources-docling-an-ai-tool-for-high-precision-pdf-document-conversion-and-structural-integrity-maintenance-across-complex-layouts",
+      "id": 62031,
+      "fetchedAt": "2026-03-14T11:14:53.779974+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/06/olmoe-1b-7b-and-olmoe-1b-7b-instruct-released-a-fully-open-sourced-mixture-of-experts-llm-with-1b-active-and-7b-total-parameters/": {
+      "slug": "olmoe-1b-7b-and-olmoe-1b-7b-instruct-released-a-fully-open-sourced-mixture-of-experts-llm-with-1b-active-and-7b-total-parameters",
+      "id": 62005,
+      "fetchedAt": "2026-03-14T11:14:55.190066+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/05/yi-coder-released-by-01-ai-a-powerful-small-scale-code-llm-series-delivering-exceptional-performance-in-code-generation-editing-and-long-context-comprehension/": {
+      "slug": "yi-coder-released-by-01-ai-a-powerful-small-scale-code-llm-series-delivering-exceptional-performance-in-code-generation-editing-and-long-context-comprehension",
+      "id": 61987,
+      "fetchedAt": "2026-03-14T11:14:56.812293+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/03/llama-3-1-storm-8b-a-groundbreaking-ai-model-that-outperforms-meta-ais-llama-3-1-8b-instruct-and-hermes-3-llama-3-1-8b-models-on-diverse-benchmarks/": {
+      "slug": "llama-3-1-storm-8b-a-groundbreaking-ai-model-that-outperforms-meta-ais-llama-3-1-8b-instruct-and-hermes-3-llama-3-1-8b-models-on-diverse-benchmarks",
+      "id": 61920,
+      "fetchedAt": "2026-03-14T11:14:58.334442+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/03/minig-released-by-causallm-a-groundbreaking-scalable-ai-language-model-trained-on-a-synthesis-dataset-of-120-million-entries/": {
+      "slug": "minig-released-by-causallm-a-groundbreaking-scalable-ai-language-model-trained-on-a-synthesis-dataset-of-120-million-entries",
+      "id": 61917,
+      "fetchedAt": "2026-03-14T11:14:59.455883+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/02/qiskit-sdk-v1-2-released-by-ibm-enhancing-quantum-circuit-optimization-and-expanding-quantum-computing-capabilities/": {
+      "slug": "qiskit-sdk-v1-2-released-by-ibm-enhancing-quantum-circuit-optimization-and-expanding-quantum-computing-capabilities",
+      "id": 61859,
+      "fetchedAt": "2026-03-14T11:15:01.467285+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/01/jina-colbert-v2-released-a-groundbreaking-multilingual-retrieval-model-achieving-6-6-performance-boost-and-50-storage-reduction-across-diverse-benchmarks/": {
+      "slug": "jina-colbert-v2-released-a-groundbreaking-multilingual-retrieval-model-achieving-6-6-performance-boost-and-50-storage-reduction-across-diverse-benchmarks",
+      "id": 61852,
+      "fetchedAt": "2026-03-14T11:15:02.737896+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/01/updated-versions-of-command-r-35b-and-command-r-104b-released-two-powerful-language-models-with-104b-and-35b-parameters-for-multilingual-ai/": {
+      "slug": "updated-versions-of-command-r-35b-and-command-r-104b-released-two-powerful-language-models-with-104b-and-35b-parameters-for-multilingual-ai",
+      "id": 61843,
+      "fetchedAt": "2026-03-14T11:15:04.322786+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/01/qwen2-vl-released-the-latest-version-of-the-vision-language-models-based-on-qwen2-in-the-qwen-model-familities/": {
+      "slug": "qwen2-vl-released-the-latest-version-of-the-vision-language-models-based-on-qwen2-in-the-qwen-model-familities",
+      "id": 61840,
+      "fetchedAt": "2026-03-14T11:15:05.895790+00:00"
+    },
+    "https://www.marktechpost.com/2024/09/01/nveagle-released-by-nvidia-a-super-impressive-vision-language-model-that-comes-in-7b-13b-and-13b-fine-tuned-on-chat/": {
+      "slug": "nveagle-released-by-nvidia-a-super-impressive-vision-language-model-that-comes-in-7b-13b-and-13b-fine-tuned-on-chat",
+      "id": 61830,
+      "fetchedAt": "2026-03-14T11:15:07.483807+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/31/guidellm-released-by-neural-magic-a-powerful-tool-for-evaluating-and-optimizing-the-deployment-of-large-language-models-llms/": {
+      "slug": "guidellm-released-by-neural-magic-a-powerful-tool-for-evaluating-and-optimizing-the-deployment-of-large-language-models-llms",
+      "id": 61804,
+      "fetchedAt": "2026-03-14T11:15:08.888984+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/31/cartesia-ai-released-rene-a-groundbreaking-1-3b-parameter-open-source-small-language-model-transforming-natural-language-processing-applications/": {
+      "slug": "cartesia-ai-released-rene-a-groundbreaking-1-3b-parameter-open-source-small-language-model-transforming-natural-language-processing-applications",
+      "id": 61781,
+      "fetchedAt": "2026-03-14T11:15:10.635219+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/30/aleph-alpha-researchers-release-pharia-1-llm-7b-two-distinct-variants-pharia-1-llm-7b-control-and-pharia-1-llm-7b-control-aligned/": {
+      "slug": "aleph-alpha-researchers-release-pharia-1-llm-7b-two-distinct-variants-pharia-1-llm-7b-control-and-pharia-1-llm-7b-control-aligned",
+      "id": 61758,
+      "fetchedAt": "2026-03-14T11:15:11.924791+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/28/vectorlite-v0-2-0-released-fast-sql-powered-in-process-vector-search-for-any-language-with-an-sqlite-driver/": {
+      "slug": "vectorlite-v0-2-0-released-fast-sql-powered-in-process-vector-search-for-any-language-with-an-sqlite-driver",
+      "id": 61697,
+      "fetchedAt": "2026-03-14T11:15:13.278326+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/26/structuredrag-released-by-weaviate-a-comprehensive-benchmark-to-evaluate-large-language-models-ability-to-generate-reliable-json-outputs-for-complex-ai-systems/": {
+      "slug": "structuredrag-released-by-weaviate-a-comprehensive-benchmark-to-evaluate-large-language-models-ability-to-generate-reliable-json-outputs-for-complex-ai-systems",
+      "id": 61639,
+      "fetchedAt": "2026-03-14T11:15:14.725034+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/24/cerebras-docchat-released-built-on-top-of-llama-3-docchat-holds-gpt-4-level-conversational-qa-trained-in-a-few-hours/": {
+      "slug": "cerebras-docchat-released-built-on-top-of-llama-3-docchat-holds-gpt-4-level-conversational-qa-trained-in-a-few-hours",
+      "id": 61534,
+      "fetchedAt": "2026-03-14T11:15:17.166906+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/24/extensionos-an-open-source-browser-extension-that-makes-ai-accessible-directly-where-you-need-it/": {
+      "slug": "extensionos-an-open-source-browser-extension-that-makes-ai-accessible-directly-where-you-need-it",
+      "id": 61513,
+      "fetchedAt": "2026-03-14T11:15:20.645546+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/23/ai21-labs-released-jamba-1-5-family-of-open-models-jamba-1-5-mini-and-jamba-1-5-large-redefining-long-context-ai-with-unmatched-speed-quality-and-multilingual-capabilities-for-global-enterprises/": {
+      "slug": "ai21-labs-released-jamba-1-5-family-of-open-models-jamba-1-5-mini-and-jamba-1-5-large-redefining-long-context-ai-with-unmatched-speed-quality-and-multilingual-capabilities-for-global-enterprises",
+      "id": 61495,
+      "fetchedAt": "2026-03-14T11:15:21.981317+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/22/astral-released-uv-with-advanced-features-a-comprehensive-and-high-performance-tool-for-unified-python-packaging-and-project-management/": {
+      "slug": "astral-released-uv-with-advanced-features-a-comprehensive-and-high-performance-tool-for-unified-python-packaging-and-project-management",
+      "id": 61469,
+      "fetchedAt": "2026-03-14T11:15:23.737461+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/22/mistral-nemo-minitron-8b-released-nvidias-latest-ai-model-redefines-efficiency-and-performance-through-advanced-pruning-and-knowledge-distillation-techniques/": {
+      "slug": "mistral-nemo-minitron-8b-released-nvidias-latest-ai-model-redefines-efficiency-and-performance-through-advanced-pruning-and-knowledge-distillation-techniques",
+      "id": 61451,
+      "fetchedAt": "2026-03-14T11:15:25.526757+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/21/microsoft-ai-releases-phi-3-5-mini-moe-and-vision-with-128k-context-multilingual-and-mit-license/": {
+      "slug": "microsoft-ai-releases-phi-3-5-mini-moe-and-vision-with-128k-context-multilingual-and-mit-license",
+      "id": 61429,
+      "fetchedAt": "2026-03-14T11:15:26.773733+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/17/openresearcher-an-open-source-project-that-harnesses-ai-to-accelerate-scientific-research/": {
+      "slug": "openresearcher-an-open-source-project-that-harnesses-ai-to-accelerate-scientific-research",
+      "id": 61275,
+      "fetchedAt": "2026-03-14T11:15:29.503159+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/17/deepseek-ai-open-sources-deepseek-prover-v1-5-a-language-model-with-7-billion-parameters-that-outperforms-all-open-source-models-in-formal-theorem-proving-in-lean-4/": {
+      "slug": "deepseek-ai-open-sources-deepseek-prover-v1-5-a-language-model-with-7-billion-parameters-that-outperforms-all-open-source-models-in-formal-theorem-proving-in-lean-4",
+      "id": 61234,
+      "fetchedAt": "2026-03-14T11:15:32.384992+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/17/marqo-releases-marqo-fashionclip-and-marqo-fashionsiglip-a-family-of-embedding-models-for-e-commerce-and-retail/": {
+      "slug": "marqo-releases-marqo-fashionclip-and-marqo-fashionsiglip-a-family-of-embedding-models-for-e-commerce-and-retail",
+      "id": 61231,
+      "fetchedAt": "2026-03-14T11:15:33.869608+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/16/answer-ai-releases-answerai-colbert-small-a-proof-of-concept-for-smaller-faster-modern-colbert-models/": {
+      "slug": "answer-ai-releases-answerai-colbert-small-a-proof-of-concept-for-smaller-faster-modern-colbert-models",
+      "id": 61218,
+      "fetchedAt": "2026-03-14T11:15:35.309298+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/16/nvidia-ai-released-llama-minitron-3-1-4b-a-new-language-model-built-by-pruning-and-distilling-llama-3-1-8b/": {
+      "slug": "nvidia-ai-released-llama-minitron-3-1-4b-a-new-language-model-built-by-pruning-and-distilling-llama-3-1-8b",
+      "id": 61211,
+      "fetchedAt": "2026-03-14T11:15:37.247711+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/16/portkey-ai-open-sourced-ai-guardrails-framework-to-enhance-real-time-llm-validation-ensuring-secure-compliant-and-reliable-ai-operations/": {
+      "slug": "portkey-ai-open-sourced-ai-guardrails-framework-to-enhance-real-time-llm-validation-ensuring-secure-compliant-and-reliable-ai-operations",
+      "id": 61204,
+      "fetchedAt": "2026-03-14T11:15:38.691250+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/15/xai-released-grok-2-beta-an-ai-model-with-unparalleled-reasoning-benchmark-topping-performance-and-advanced-capabilities/": {
+      "slug": "xai-released-grok-2-beta-an-ai-model-with-unparalleled-reasoning-benchmark-topping-performance-and-advanced-capabilities",
+      "id": 61180,
+      "fetchedAt": "2026-03-14T11:15:40.368721+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/15/videollama-2-released-a-set-of-video-large-language-models-designed-to-advance-multimodal-research-in-the-arena-of-video-language-modeling/": {
+      "slug": "videollama-2-released-a-set-of-video-large-language-models-designed-to-advance-multimodal-research-in-the-arena-of-video-language-modeling",
+      "id": 61168,
+      "fetchedAt": "2026-03-14T11:15:43.320902+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/14/mobius-labs-introduces-aana-sdk-open-source-sdk-empowering-seamless-deployment-of-advanced-machine-learning-applications/": {
+      "slug": "mobius-labs-introduces-aana-sdk-open-source-sdk-empowering-seamless-deployment-of-advanced-machine-learning-applications",
+      "id": 61147,
+      "fetchedAt": "2026-03-14T11:15:44.660234+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/14/sarvam-ai-releases-samvaad-hi-v1-dataset-and-sarvam-2b-a-2-billion-parameter-language-model-with-4-trillion-tokens-focused-on-10-indic-languages-for-enhanced-nlp/": {
+      "slug": "sarvam-ai-releases-samvaad-hi-v1-dataset-and-sarvam-2b-a-2-billion-parameter-language-model-with-4-trillion-tokens-focused-on-10-indic-languages-for-enhanced-nlp",
+      "id": 61143,
+      "fetchedAt": "2026-03-14T11:15:45.937595+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/14/hqq-llama-3-1-70b-released-a-groundbreaking-ai-model-that-achieves-99-of-the-base-model-performance-across-various-benchmarks/": {
+      "slug": "hqq-llama-3-1-70b-released-a-groundbreaking-ai-model-that-achieves-99-of-the-base-model-performance-across-various-benchmarks",
+      "id": 61119,
+      "fetchedAt": "2026-03-14T11:15:48.157029+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/13/dacapo-an-open-sourced-deep-learning-framework-to-expedite-the-training-of-existing-machine-learning-approaches-on-large-and-near-isotropic-image-data/": {
+      "slug": "dacapo-an-open-sourced-deep-learning-framework-to-expedite-the-training-of-existing-machine-learning-approaches-on-large-and-near-isotropic-image-data",
+      "id": 61104,
+      "fetchedAt": "2026-03-14T11:15:49.609739+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/13/med42-v2-released-a-groundbreaking-suite-of-clinical-large-language-models-built-on-llama3-architecture-achieving-up-to-94-5-accuracy-on-medical-benchmarks/": {
+      "slug": "med42-v2-released-a-groundbreaking-suite-of-clinical-large-language-models-built-on-llama3-architecture-achieving-up-to-94-5-accuracy-on-medical-benchmarks",
+      "id": 61098,
+      "fetchedAt": "2026-03-14T11:15:51.366608+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/12/nous-an-open-source-typesscript-platform-for-building-autonomous-ai-agents-and-llm-workflows/": {
+      "slug": "nous-an-open-source-typesscript-platform-for-building-autonomous-ai-agents-and-llm-workflows",
+      "id": 61048,
+      "fetchedAt": "2026-03-14T11:15:53.959557+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/11/qwen2-audio-released-a-revolutionary-audio-language-model-overcoming-complex-audio-challenges-with-unmatched-precision-and-versatile-interaction-capabilities/": {
+      "slug": "qwen2-audio-released-a-revolutionary-audio-language-model-overcoming-complex-audio-challenges-with-unmatched-precision-and-versatile-interaction-capabilities",
+      "id": 61002,
+      "fetchedAt": "2026-03-14T11:15:56.717876+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/10/crab-framework-released-an-ai-framework-for-building-llm-agent-benchmark-environments-in-a-python-centric-way/": {
+      "slug": "crab-framework-released-an-ai-framework-for-building-llm-agent-benchmark-environments-in-a-python-centric-way",
+      "id": 60952,
+      "fetchedAt": "2026-03-14T11:15:58.315100+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/10/parler-tts-released-a-fully-open-sourced-text-to-speech-model-with-advanced-speech-synthesis-for-complex-and-lightweight-applications/": {
+      "slug": "parler-tts-released-a-fully-open-sourced-text-to-speech-model-with-advanced-speech-synthesis-for-complex-and-lightweight-applications",
+      "id": 60949,
+      "fetchedAt": "2026-03-14T11:15:59.757962+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/10/qwen2-math-released-a-comprehensive-ai-suite-featuring-models-ranging-from-1-5b-to-72b-parameters-transforming-mathematical-computation/": {
+      "slug": "qwen2-math-released-a-comprehensive-ai-suite-featuring-models-ranging-from-1-5b-to-72b-parameters-transforming-mathematical-computation",
+      "id": 60943,
+      "fetchedAt": "2026-03-14T11:16:01.066870+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/09/idefics3-8b-llama3-released-an-open-multimodal-model-that-accepts-arbitrary-sequences-of-image-and-text-inputs-and-produces-text-outputs/": {
+      "slug": "idefics3-8b-llama3-released-an-open-multimodal-model-that-accepts-arbitrary-sequences-of-image-and-text-inputs-and-produces-text-outputs",
+      "id": 60911,
+      "fetchedAt": "2026-03-14T11:16:02.412995+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/09/exaone-3-0-released-a-7-8b-open-sourced-state-of-the-art-language-model-from-lg-ai-research/": {
+      "slug": "exaone-3-0-released-a-7-8b-open-sourced-state-of-the-art-language-model-from-lg-ai-research",
+      "id": 60885,
+      "fetchedAt": "2026-03-14T11:16:05.424233+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/08/nyu-researchers-open-sourced-gpudrive-a-gpu-accelerated-multi-agent-driving-simulation-at-1-million-fps/": {
+      "slug": "nyu-researchers-open-sourced-gpudrive-a-gpu-accelerated-multi-agent-driving-simulation-at-1-million-fps",
+      "id": 60862,
+      "fetchedAt": "2026-03-14T11:16:06.977955+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/08/meet-felafax-an-ai-startup-building-an-open-source-ai-platform-for-next-generation-ai-hardware-reducing-machine-learning-ml-training-costs-by-30/": {
+      "slug": "meet-felafax-an-ai-startup-building-an-open-source-ai-platform-for-next-generation-ai-hardware-reducing-machine-learning-ml-training-costs-by-30",
+      "id": 60851,
+      "fetchedAt": "2026-03-14T11:16:08.924172+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/07/model-openness-framework-mof-enhancing-ai-transparency-with-17-essential-components-for-full-lifecycle-openness-and-reproducibility/": {
+      "slug": "model-openness-framework-mof-enhancing-ai-transparency-with-17-essential-components-for-full-lifecycle-openness-and-reproducibility",
+      "id": 60830,
+      "fetchedAt": "2026-03-14T11:16:11.102522+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/07/intel-labs-introduce-rag-foundry-an-open-source-framework-for-augmenting-large-language-models-llms-for-rag-use-cases/": {
+      "slug": "intel-labs-introduce-rag-foundry-an-open-source-framework-for-augmenting-large-language-models-llms-for-rag-use-cases",
+      "id": 60822,
+      "fetchedAt": "2026-03-14T11:16:12.461259+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/07/dagify-an-open-source-program-for-streamlining-and-expediting-the-transition-from-control-m-to-apache-airflow/": {
+      "slug": "dagify-an-open-source-program-for-streamlining-and-expediting-the-transition-from-control-m-to-apache-airflow",
+      "id": 60819,
+      "fetchedAt": "2026-03-14T11:16:14.508610+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/07/minicpm-v-2-6-a-gpt-4v-level-multimodal-llms-for-single-image-multi-image-and-video-on-your-phone/": {
+      "slug": "minicpm-v-2-6-a-gpt-4v-level-multimodal-llms-for-single-image-multi-image-and-video-on-your-phone",
+      "id": 60789,
+      "fetchedAt": "2026-03-14T11:16:16.548816+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/06/pleias-released-ocronos-vintage-a-124-million-parameter-model-trained-on-18-billion-tokens-for-superior-ocr-correction-in-cultural-heritage-archives/": {
+      "slug": "pleias-released-ocronos-vintage-a-124-million-parameter-model-trained-on-18-billion-tokens-for-superior-ocr-correction-in-cultural-heritage-archives",
+      "id": 60783,
+      "fetchedAt": "2026-03-14T11:16:20.077124+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/06/writer-releases-palmyra-med-and-palmyra-fin-models-outperforming-other-comparable-models-like-gpt-4-med-palm-2-and-claude-3-5-sonnet/": {
+      "slug": "writer-releases-palmyra-med-and-palmyra-fin-models-outperforming-other-comparable-models-like-gpt-4-med-palm-2-and-claude-3-5-sonnet",
+      "id": 60780,
+      "fetchedAt": "2026-03-14T11:16:21.583835+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/06/allen-institute-for-ai-ai2-released-a-new-bundle-of-olmo-1b-and-7b-assets/": {
+      "slug": "allen-institute-for-ai-ai2-released-a-new-bundle-of-olmo-1b-and-7b-assets",
+      "id": 60771,
+      "fetchedAt": "2026-03-14T11:16:22.873480+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/05/the-open-source-release-of-openperplex-com-an-ai-powered-search-engine/": {
+      "slug": "the-open-source-release-of-openperplex-com-an-ai-powered-search-engine",
+      "id": 60763,
+      "fetchedAt": "2026-03-14T11:16:23.965457+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/05/brag-released-high-performance-slms-small-language-models-specifically-trained-for-rag-tasks-under-25-each/": {
+      "slug": "brag-released-high-performance-slms-small-language-models-specifically-trained-for-rag-tasks-under-25-each",
+      "id": 60748,
+      "fetchedAt": "2026-03-14T11:16:25.572429+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/04/magpie-ultra-dataset-released-harnessing-llama-3-1-405b-for-diverse-ai-instruction-response-pairs/": {
+      "slug": "magpie-ultra-dataset-released-harnessing-llama-3-1-405b-for-diverse-ai-instruction-response-pairs",
+      "id": 60711,
+      "fetchedAt": "2026-03-14T11:16:27.660792+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/04/sqlite-vec-v0-1-0-released-portable-vector-database-extension-for-sqlite-with-support-for-1-million-128-dimensional-vectors-binary-quantization-and-extensive-sdks/": {
+      "slug": "sqlite-vec-v0-1-0-released-portable-vector-database-extension-for-sqlite-with-support-for-1-million-128-dimensional-vectors-binary-quantization-and-extensive-sdks",
+      "id": 60688,
+      "fetchedAt": "2026-03-14T11:16:29.580423+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/03/whisper-medusa-released-aiolas-new-model-delivers-50-faster-speech-recognition-with-multi-head-attention-and-10-token-prediction/": {
+      "slug": "whisper-medusa-released-aiolas-new-model-delivers-50-faster-speech-recognition-with-multi-head-attention-and-10-token-prediction",
+      "id": 60661,
+      "fetchedAt": "2026-03-14T11:16:34.223784+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/03/redcache-an-open-source-python-package-to-improve-the-memory-of-large-language-models-llms-and-agents/": {
+      "slug": "redcache-an-open-source-python-package-to-improve-the-memory-of-large-language-models-llms-and-agents",
+      "id": 60650,
+      "fetchedAt": "2026-03-14T11:16:36.166662+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/02/neuralforecast-1-7-4-released-nixtlas-advanced-library-revolutionizes-neural-forecasting-with-usability-and-robustness/": {
+      "slug": "neuralforecast-1-7-4-released-nixtlas-advanced-library-revolutionizes-neural-forecasting-with-usability-and-robustness",
+      "id": 60637,
+      "fetchedAt": "2026-03-14T11:16:37.436161+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/02/black-forest-labs-open-source-flux-1-a-12-billion-parameter-rectified-flow-transformer-capable-of-generating-images-from-text-descriptions/": {
+      "slug": "black-forest-labs-open-source-flux-1-a-12-billion-parameter-rectified-flow-transformer-capable-of-generating-images-from-text-descriptions",
+      "id": 60634,
+      "fetchedAt": "2026-03-14T11:16:43.217197+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/02/google-ai-introduces-shieldgemma-a-comprehensive-suite-of-llm-based-safety-content-moderation-models-built-on-gemma2/": {
+      "slug": "google-ai-introduces-shieldgemma-a-comprehensive-suite-of-llm-based-safety-content-moderation-models-built-on-gemma2",
+      "id": 60624,
+      "fetchedAt": "2026-03-14T11:16:44.685223+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/02/mms-zero-shot-released-a-new-ai-model-to-transcribe-the-speech-of-almost-any-language-using-only-a-small-amount-of-unlabeled-text-in-the-new-language/": {
+      "slug": "mms-zero-shot-released-a-new-ai-model-to-transcribe-the-speech-of-almost-any-language-using-only-a-small-amount-of-unlabeled-text-in-the-new-language",
+      "id": 60599,
+      "fetchedAt": "2026-03-14T11:16:45.985959+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/01/arcee-ai-released-distillkit-an-open-source-easy-to-use-tool-transforming-model-distillation-for-creating-efficient-high-performance-small-language-models/": {
+      "slug": "arcee-ai-released-distillkit-an-open-source-easy-to-use-tool-transforming-model-distillation-for-creating-efficient-high-performance-small-language-models",
+      "id": 60570,
+      "fetchedAt": "2026-03-14T11:16:47.344392+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/01/patronus-ai-releases-lynx-v1-1-an-8b-state-of-the-art-rag-hallucination-detection-model/": {
+      "slug": "patronus-ai-releases-lynx-v1-1-an-8b-state-of-the-art-rag-hallucination-detection-model",
+      "id": 60567,
+      "fetchedAt": "2026-03-14T11:16:48.855401+00:00"
+    },
+    "https://www.marktechpost.com/2024/08/01/gemma-2-2b-released-a-2-6-billion-parameter-model-offering-advanced-text-generation-on-device-deployment-and-enhanced-safety-features/": {
+      "slug": "gemma-2-2b-released-a-2-6-billion-parameter-model-offering-advanced-text-generation-on-device-deployment-and-enhanced-safety-features",
+      "id": 60546,
+      "fetchedAt": "2026-03-14T11:16:50.167440+00:00"
+    },
+    "https://www.marktechpost.com/2024/07/30/outeai-unveils-new-lite-oute-1-models-lite-oute-1-300m-and-lite-oute-1-65m-as-compact-yet-powerful-ai-solutions/": {
+      "slug": "outeai-unveils-new-lite-oute-1-models-lite-oute-1-300m-and-lite-oute-1-65m-as-compact-yet-powerful-ai-solutions",
+      "id": 60459,
+      "fetchedAt": "2026-03-14T11:16:51.891823+00:00"
+    },
+    "https://www.marktechpost.com/2024/07/24/taskgen-an-open-sourced-agentic-framework-that-uses-an-ai-agent-to-solve-an-arbitrary-task-by-breaking-it-down-into-subtasks/": {
+      "slug": "taskgen-an-open-sourced-agentic-framework-that-uses-an-ai-agent-to-solve-an-arbitrary-task-by-breaking-it-down-into-subtasks",
+      "id": 60220,
+      "fetchedAt": "2026-03-14T11:16:55.535286+00:00"
+    },
+    "https://www.marktechpost.com/2024/07/24/dvc-ai-released-datachain-a-groundbreaking-open-source-python-library-for-large-scale-unstructured-data-processing-and-curation/": {
+      "slug": "dvc-ai-released-datachain-a-groundbreaking-open-source-python-library-for-large-scale-unstructured-data-processing-and-curation",
+      "id": 60187,
+      "fetchedAt": "2026-03-14T11:16:56.823796+00:00"
+    },
+    "https://www.marktechpost.com/2024/07/21/arcee-ai-introduces-arcee-nova-a-new-open-sourced-language-model-based-on-qwen2-72b-and-approaches-gpt-4-performance-level/": {
+      "slug": "arcee-ai-introduces-arcee-nova-a-new-open-sourced-language-model-based-on-qwen2-72b-and-approaches-gpt-4-performance-level",
+      "id": 60085,
+      "fetchedAt": "2026-03-14T11:16:59.167830+00:00"
+    }
+  }
+}

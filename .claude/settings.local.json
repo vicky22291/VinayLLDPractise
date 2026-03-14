@@ -18,7 +18,14 @@
       "Bash(git push:*)",
       "WebSearch",
       "WebFetch(domain:www.anthropic.com)",
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:x.com)",
+      "WebFetch(domain:venturebeat.com)",
+      "WebFetch(domain:www.marktechpost.com)",
+      "Bash(python:*)",
+      "Bash(pip3 install:*)",
+      "Bash(source:*)"
     ]
   }
 }
