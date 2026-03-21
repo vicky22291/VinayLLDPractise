@@ -62,4 +62,28 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 
 ---
 
+## 5. Workspace Skills (`claude-files/skills/`)
+
+This workspace includes custom Claude Code skills in `claude-files/skills/`. These are also installed globally at `~/.claude/skills/`.
+
+| Skill | Purpose |
+|-------|---------|
+| `kotlin-pro` | Staff SWE persona for production-grade Kotlin code. Loads on-demand references for OOPs/design patterns, logging, naming/docs/collections conventions |
+| `skill-creator` | Guides creation of new Claude Code skills |
+| `planning-tests` | Creates test plans before writing test code |
+| `project-planning` | Requirements gathering to design documentation |
+| `task-breakdown` | Generates task files and YAML from design docs |
+| `run-tasks` | Automates task implementation via task runner |
+| `addressing-pr-comments` | Systematically addresses PR review feedback |
+| `verify-pr-comments` | Verifies all PR comments are resolved |
+
+### Kotlin Projects
+
+When writing or modifying Kotlin code in this workspace, the `kotlin-pro` skill should be used. It references:
+- `resources/oops-standards-and-design-patterns.md` — SOLID, GoF patterns, Kotlin idioms
+- `resources/logging-best-practices.md` — kotlin-logging, SLF4J, MDC, log levels
+- `resources/coding-conventions.md` — naming, documentation, collections/sequences/flows
+
+---
+
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.

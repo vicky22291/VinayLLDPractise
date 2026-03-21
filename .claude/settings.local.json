@@ -25,7 +25,20 @@
       "WebFetch(domain:www.marktechpost.com)",
       "Bash(python:*)",
       "Bash(pip3 install:*)",
-      "Bash(source:*)"
+      "Bash(source:*)",
+      "Bash(curl -s \"https://kotlinlang.org/docs/coding-conventions.html\")",
+      "Bash(curl -s \"https://kotlinlang.org/docs/coroutines-and-channels.html\")",
+      "WebFetch(domain:kt.academy)",
+      "WebFetch(domain:kotlincraft.dev)",
+      "WebFetch(domain:carrion.dev)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:www.baeldung.com)",
+      "WebFetch(domain:proandroiddev.com)",
+      "WebFetch(domain:coralogix.com)",
+      "Bash(mkdir -p /Users/vicky/.claude/skills/kotlin-best-practices/resources)",
+      "Bash(mkdir -p /Users/vicky/IdeaProjects/VinayLLDPractise/claude-files/skills/kotlin-best-practices/resources)",
+      "Bash(cp:*)",
+      "Bash(git rm:*)"
     ]
   }
 }
