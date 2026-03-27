@@ -1,0 +1,10 @@
+name: "trading-strategy"
+solution_file: "strategy.py"
+run_command: "python run.py"
+metric_name: "sharpe_ratio"
+metric_direction: "maximize"
+timeout_seconds: 120
+infrastructure_files:
+  - "backtest.py"
+  - "data_loader.py"
+program_md: "program.md"
