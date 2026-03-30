@@ -135,6 +135,142 @@
     "https://blog.flipkart.tech/hbase-compaction-manager-8974d1a74a22": {
       "slug": "hbase-compaction-manager-8974d1a74a22",
       "fetchedAt": "2026-03-13T16:07:15.262426+00:00"
+    },
+    "https://blog.flipkart.tech/hbase-multi-tenancy-part-i-37cad340c0fa": {
+      "slug": "hbase-multi-tenancy-part-i-37cad340c0fa",
+      "fetchedAt": "2026-03-13T16:19:21.953141+00:00"
+    },
+    "https://blog.flipkart.tech/hbase-multi-tenancy-part-ii-79488c19b03d": {
+      "slug": "hbase-multi-tenancy-part-ii-79488c19b03d",
+      "fetchedAt": "2026-03-13T16:19:33.704490+00:00"
+    },
+    "https://blog.flipkart.tech/high-risk-high-scale-guaranteeing-ad-budget-precision-at-1-million-events-second-cc23977796d7": {
+      "slug": "high-risk-high-scale-guaranteeing-ad-budget-precision-at-1-million-events-second-cc23977796d7",
+      "fetchedAt": "2026-03-13T16:19:46.056880+00:00"
+    },
+    "https://blog.flipkart.tech/how-flipkart-reacts-to-security-vulnerabilities-17dae9b0661e": {
+      "slug": "how-flipkart-reacts-to-security-vulnerabilities-17dae9b0661e",
+      "fetchedAt": "2026-03-13T16:20:34.651428+00:00"
+    },
+    "https://blog.flipkart.tech/iceberg-vs-hudi-benchmarking-tableformats-dffe6f81f26e": {
+      "slug": "iceberg-vs-hudi-benchmarking-tableformats-dffe6f81f26e",
+      "fetchedAt": "2026-03-13T16:20:59.365084+00:00"
+    },
+    "https://blog.flipkart.tech/leveraging-kubernetes-volume-snapshots-for-efficient-backup-and-restoration-6e9a874c8c67": {
+      "slug": "leveraging-kubernetes-volume-snapshots-for-efficient-backup-and-restoration-6e9a874c8c67",
+      "fetchedAt": "2026-03-13T16:21:12.819983+00:00"
+    },
+    "https://blog.flipkart.tech/real-time-data-propagation-with-hbase-exploring-change-data-capture-and-its-challenges-c682a1e4d071": {
+      "slug": "real-time-data-propagation-with-hbase-exploring-change-data-capture-and-its-challenges-c682a1e4d071",
+      "fetchedAt": "2026-03-13T16:34:45.289644+00:00"
+    },
+    "https://blog.flipkart.tech/transforming-data-analytics-at-flipkart-self-serve-insights-on-petabytes-scale-data-fa59caf2bc54": {
+      "slug": "transforming-data-analytics-at-flipkart-self-serve-insights-on-petabytes-scale-data-fa59caf2bc54",
+      "fetchedAt": "2026-03-13T16:42:16.458966+00:00"
+    },
+    "https://blog.flipkart.tech/triksha-securing-ai-with-ai-at-flipkart-5353da27dc33": {
+      "slug": "triksha-securing-ai-with-ai-at-flipkart-5353da27dc33",
+      "fetchedAt": "2026-03-13T16:42:28.309508+00:00"
+    },
+    "https://blog.flipkart.tech/triton-scaling-bulk-operations-with-a-feed-processing-platform-94c750efa07c": {
+      "slug": "triton-scaling-bulk-operations-with-a-feed-processing-platform-94c750efa07c",
+      "fetchedAt": "2026-03-13T16:42:43.901203+00:00"
+    },
+    "https://blog.flipkart.tech/tuning-apache-pulsar-cluster-8c7136cd98ec": {
+      "slug": "tuning-apache-pulsar-cluster-8c7136cd98ec",
+      "fetchedAt": "2026-03-13T16:43:10.152015+00:00"
+    },
+    "https://blog.flipkart.tech/how-do-we-relay-messages-at-a-high-throughout-between-microservices-part-1-9ff304224b37": {
+      "slug": "how-do-we-relay-messages-at-a-high-throughout-between-microservices-part-1-9ff304224b37",
+      "fetchedAt": "2026-03-13T18:08:12.731220+00:00"
+    },
+    "https://blog.flipkart.tech/live-migration-of-a-vm-with-sr-iov-vf-passthrough-device-a6ef1f702fbf": {
+      "slug": "live-migration-of-a-vm-with-sr-iov-vf-passthrough-device-a6ef1f702fbf",
+      "fetchedAt": "2026-03-13T18:08:22.710008+00:00"
+    },
+    "https://blog.flipkart.tech/mass-migrating-live-mysql-workloads-from-one-data-center-to-another-data-center-a3b0624d8d69": {
+      "slug": "mass-migrating-live-mysql-workloads-from-one-data-center-to-another-data-center-a3b0624d8d69",
+      "fetchedAt": "2026-03-13T18:08:37.663546+00:00"
+    },
+    "https://blog.flipkart.tech/memory-tuning-a-high-throughput-microservice-ed57b3e60997": {
+      "slug": "memory-tuning-a-high-throughput-microservice-ed57b3e60997",
+      "fetchedAt": "2026-03-13T18:08:56.902060+00:00"
+    },
+    "https://blog.flipkart.tech/the-art-of-system-debugging-decoding-cpu-utilization-da75f09ef1ff": {
+      "slug": "the-art-of-system-debugging-decoding-cpu-utilization-da75f09ef1ff",
+      "fetchedAt": "2026-03-13T18:23:45.058841+00:00"
+    },
+    "https://blog.flipkart.tech/multi-objective-optimisation-in-suggestions-ranking-flipkart-49099b951eae": {
+      "slug": "multi-objective-optimisation-in-suggestions-ranking-flipkart-49099b951eae",
+      "fetchedAt": "2026-03-13T18:28:51.059344+00:00"
+    },
+    "https://blog.flipkart.tech/mysql-high-availability-5f71838f19e1": {
+      "slug": "mysql-high-availability-5f71838f19e1",
+      "fetchedAt": "2026-03-13T18:29:07.433518+00:00"
+    },
+    "https://blog.flipkart.tech/mysql-replication-lag-analysis-71ff28443631": {
+      "slug": "mysql-replication-lag-analysis-71ff28443631",
+      "fetchedAt": "2026-03-13T18:29:23.460373+00:00"
+    },
+    "https://blog.flipkart.tech/network-optimizations-in-flipkarts-data-centers-slashn-2019-5d4bed93e29d": {
+      "slug": "network-optimizations-in-flipkarts-data-centers-slashn-2019-5d4bed93e29d",
+      "fetchedAt": "2026-03-13T18:29:38.156403+00:00"
+    },
+    "https://blog.flipkart.tech/node-coordination-system-13579220a22f": {
+      "slug": "node-coordination-system-13579220a22f",
+      "fetchedAt": "2026-03-13T18:29:50.784234+00:00"
+    },
+    "https://blog.flipkart.tech/when-good-locks-go-bad-diagnosing-a-system-meltdown-under-load-0b168c363143": {
+      "slug": "when-good-locks-go-bad-diagnosing-a-system-meltdown-under-load-0b168c363143",
+      "fetchedAt": "2026-03-13T18:44:26.014796+00:00"
+    },
+    "https://blog.flipkart.tech/one-prompt-to-rule-them-all-llms-for-opinion-summary-evaluation-d5dd4eb6f225": {
+      "slug": "one-prompt-to-rule-them-all-llms-for-opinion-summary-evaluation-d5dd4eb6f225",
+      "fetchedAt": "2026-03-13T18:45:15.941219+00:00"
+    },
+    "https://blog.flipkart.tech/optimising-page-load-times-in-flipkart-mobile-app-1c9e8071be0f": {
+      "slug": "optimising-page-load-times-in-flipkart-mobile-app-1c9e8071be0f",
+      "fetchedAt": "2026-03-13T18:45:31.682342+00:00"
+    },
+    "https://blog.flipkart.tech/plugging-node-js-memory-leaks-optimisation-insights-aa023114035a": {
+      "slug": "plugging-node-js-memory-leaks-optimisation-insights-aa023114035a",
+      "fetchedAt": "2026-03-13T18:45:46.996702+00:00"
+    },
+    "https://blog.flipkart.tech/postmortem-latency-spikes-in-apache-hbase-on-kubernetes-d7809964ab4a": {
+      "slug": "postmortem-latency-spikes-in-apache-hbase-on-kubernetes-d7809964ab4a",
+      "fetchedAt": "2026-03-13T18:45:54.412858+00:00"
+    },
+    "https://blog.flipkart.tech/powering-strongly-consistent-multi-region-applications-with-tidb-166c18e3486b": {
+      "slug": "powering-strongly-consistent-multi-region-applications-with-tidb-166c18e3486b",
+      "fetchedAt": "2026-03-13T18:46:34.527278+00:00"
+    },
+    "https://blog.flipkart.tech/predicting-your-next-query-even-before-you-type-83487a34109d": {
+      "slug": "predicting-your-next-query-even-before-you-type-83487a34109d",
+      "fetchedAt": "2026-03-13T18:57:43.101685+00:00"
+    },
+    "https://blog.flipkart.tech/providing-backup-and-disaster-recovery-as-a-service-2caeff6ce278": {
+      "slug": "providing-backup-and-disaster-recovery-as-a-service-2caeff6ce278",
+      "fetchedAt": "2026-03-13T18:57:55.690826+00:00"
+    },
+    "https://blog.flipkart.tech/ratings-reviews-flipkart-part-1-797aa3687109": {
+      "slug": "ratings-reviews-flipkart-part-1-797aa3687109",
+      "fetchedAt": "2026-03-13T18:58:05.482591+00:00"
+    },
+    "https://blog.flipkart.tech/ratings-reviews-flipkart-part-2-574ab08e75cf": {
+      "slug": "ratings-reviews-flipkart-part-2-574ab08e75cf",
+      "fetchedAt": "2026-03-13T19:09:35.405335+00:00"
+    },
+    "https://blog.flipkart.tech/running-a-multi-region-zookeeper-58e52cec44ff": {
+      "slug": "running-a-multi-region-zookeeper-58e52cec44ff",
+      "fetchedAt": "2026-03-13T19:09:51.580852+00:00"
+    },
+    "https://blog.flipkart.tech/scaling-tidb-to-1-million-qps-d556aa6a16ef": {
+      "slug": "scaling-tidb-to-1-million-qps-d556aa6a16ef",
+      "fetchedAt": "2026-03-13T19:09:57.733977+00:00"
+    },
+    "https://blog.flipkart.tech/securing-the-billion-dollar-app-417d5af1f0de": {
+      "slug": "securing-the-billion-dollar-app-417d5af1f0de",
+      "fetchedAt": "2026-03-13T19:10:11.604146+00:00"
     }
   }
 }

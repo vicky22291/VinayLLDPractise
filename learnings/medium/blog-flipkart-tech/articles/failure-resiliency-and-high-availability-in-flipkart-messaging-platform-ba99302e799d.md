@@ -10,7 +10,7 @@ tags: ['Flipkart Messaging', 'Messaging Platform', 'Failure Resiliency', 'High A
 
 ## Flipkart Messaging Platform
 
-Earlier, we wrote about [a relaying platform](https://blog.flipkart.tech/how-do-we-relay-messages-at-a-high-throughout-between-microservices-part-1-9ff304224b37) and a [messaging bus](./effective-failure-handling-in-flipkarts-message-bus-436c36be76cc.md) on Flipkart. This article covers the underlying messaging platform used across Flipkart to power these platforms. It also explains the challenges of maintaining high availability and business continuity. We then talk about the approaches and systemic techniques used inside Flipkart to overcome these challenges.
+Earlier, we wrote about [a relaying platform](./how-do-we-relay-messages-at-a-high-throughout-between-microservices-part-1-9ff304224b37.md) and a [messaging bus](./effective-failure-handling-in-flipkarts-message-bus-436c36be76cc.md) on Flipkart. This article covers the underlying messaging platform used across Flipkart to power these platforms. It also explains the challenges of maintaining high availability and business continuity. We then talk about the approaches and systemic techniques used inside Flipkart to overcome these challenges.
 
 ## Context
 

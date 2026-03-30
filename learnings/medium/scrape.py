@@ -614,12 +614,24 @@ def scrape_blog(page: Page, blog: dict):
         return
 
     cookies = page.context.cookies()
+    context = page.context
 
     # Phase 2: extract
     success_count = 0
+    consecutive_errors = 0
     for i, url in enumerate(new_urls, 1):
         slug = url_to_slug(url)
         print(f"  [{i}/{len(new_urls)}] {slug}")
+
+        # If we hit consecutive errors, likely rate-limited — back off
+        if consecutive_errors >= 3:
+            wait_secs = 30 * (consecutive_errors // 3)
+            print(f"  Rate limited — pausing {wait_secs}s...")
+            page.close()
+            time.sleep(wait_secs)
+            page = context.new_page()
+            consecutive_errors = 0
+
         try:
             md = extract_article(page, url, cookies, images_dir)
             (articles_dir / f"{slug}.md").write_text(md)
@@ -629,8 +641,10 @@ def scrape_blog(page: Page, blog: dict):
             }
             save_manifest(manifest_path, manifest)
             success_count += 1
+            consecutive_errors = 0
         except Exception as e:
             print(f"    Error: {e}")
+            consecutive_errors += 1
         time.sleep(3)
 
     # Phase 3: resolve internal links

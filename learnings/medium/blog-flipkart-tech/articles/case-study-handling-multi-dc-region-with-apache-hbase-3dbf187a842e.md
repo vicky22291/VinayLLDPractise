@@ -18,7 +18,7 @@ Business Continuity and Disaster Recovery is a necessity for every organization.
 
 For handling multi region constructs, we made certain decisions which laid the foundation for our architecture
 
-We run truly multi-tenant hbase clusters. More details can be found in II part series of blogs — [Part I](https://blog.flipkart.tech/hbase-multi-tenancy-part-i-37cad340c0fa) and [Part II.](https://blog.flipkart.tech/hbase-multi-tenancy-part-ii-79488c19b03d)
+We run truly multi-tenant hbase clusters. More details can be found in II part series of blogs — [Part I](./hbase-multi-tenancy-part-i-37cad340c0fa.md) and [Part II.](./hbase-multi-tenancy-part-ii-79488c19b03d.md)
 
 In this blog, we broadly cover different aspects of handling multi-region Apache HBase topology setup to cover all functional needs of an application which includes:
 

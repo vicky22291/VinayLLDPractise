@@ -10,7 +10,7 @@ tags: ['Backup Restore', 'Restore Validation', 'Backup Restore Service', 'Flipka
 
 > As we do in Flipkart
 
-In the previous blog on how [Backup and Restore as a Service](https://blog.flipkart.tech/providing-backup-and-disaster-recovery-as-a-service-2caeff6ce278) or BRaaS is provided within Flipkart, we talked about why it is essential for an organization like Flipkart to have safeguards in place to protect its data against any kind of failures and disasters by storing data backups in a secured off-site repository.
+In the previous blog on how [Backup and Restore as a Service](./providing-backup-and-disaster-recovery-as-a-service-2caeff6ce278.md) or BRaaS is provided within Flipkart, we talked about why it is essential for an organization like Flipkart to have safeguards in place to protect its data against any kind of failures and disasters by storing data backups in a secured off-site repository.
 
 In this blog, we’ll explore Restore as a Service, focussing on Automated Backup Restore Validation. We’ll discuss why it’s important, especially from Flipkart’s point of view. Let’s first get to know some important terms that will help you better understand this blog.
 

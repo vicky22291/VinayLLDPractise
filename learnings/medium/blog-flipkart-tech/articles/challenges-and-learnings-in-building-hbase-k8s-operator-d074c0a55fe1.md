@@ -412,7 +412,7 @@ hmaster-1:/$ cat /opt/share/rack_topology.data
 
 ## Multi tenancy
 
-At Flipkart, we run truly multi-tenant HBase clusters with physical isolation in terms of hardware between tenants. Here is a two-part series which talks about the same — [Part I](https://blog.flipkart.tech/hbase-multi-tenancy-part-i-37cad340c0fa),[ Part II](https://blog.flipkart.tech/hbase-multi-tenancy-part-ii-79488c19b03d%5C). An extension thought process to that is a multi-k8s-namespace cluster with an operator on one namespace, core components (like zookeepers, journalnodes, etc) on another namespace and each tenant in its own namespace. This enables easier management from devOps perspective and provides better isolation in terms of non-functional requirements.
+At Flipkart, we run truly multi-tenant HBase clusters with physical isolation in terms of hardware between tenants. Here is a two-part series which talks about the same — [Part I](./hbase-multi-tenancy-part-i-37cad340c0fa.md),[ Part II](https://blog.flipkart.tech/hbase-multi-tenancy-part-ii-79488c19b03d%5C). An extension thought process to that is a multi-k8s-namespace cluster with an operator on one namespace, core components (like zookeepers, journalnodes, etc) on another namespace and each tenant in its own namespace. This enables easier management from devOps perspective and provides better isolation in terms of non-functional requirements.
 
 **Approach**
 

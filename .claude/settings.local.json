@@ -1,4 +1,19 @@
 {
+  "enabledMcpjsonServers": [
+    "code-mcp"
+  ],
+  "enabledPlugins": {
+    "uber-dev@agent-marketplace": true,
+    "uber-reviewer@agent-marketplace": true
+  },
+  "extraKnownMarketplaces": {
+    "uber-code/devexp-agent-marketplace": {
+      "source": {
+        "source": "directory",
+        "path": "/Users/vinay.yerra/.local/share/aifx/marketplaces/uber-code/devexp-agent-marketplace"
+      }
+    }
+  },
   "permissions": {
     "allow": [
       "Bash(git config:*)",
@@ -41,7 +56,18 @@
       "Bash(git rm:*)",
       "Bash(gh repo:*)",
       "Bash(gh api:*)",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "Bash(npm:*)",
+      "Bash(pip3 show:*)",
+      "Bash(curl:*)",
+      "Bash(pgrep:*)",
+      "WebFetch(domain:pyquantlab.medium.com)",
+      "mcp__playwright__browser_navigate",
+      "Read(//usr/local/**)",
+      "Read(//Users/vinay.yerra/workspaces/VinayLLDPractise/**)",
+      "Bash(brew install:*)",
+      "WebFetch(domain:netflixtechblog.com)",
+      "Bash(mv:*)"
     ]
   }
 }

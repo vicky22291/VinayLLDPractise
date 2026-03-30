@@ -1,0 +1,52 @@
+{
+  "enabledMcpjsonServers": [
+    "code-mcp"
+  ],
+  "enabledPlugins": {
+    "uber-dev@agent-marketplace": true,
+    "uber-reviewer@agent-marketplace": true
+  },
+  "extraKnownMarketplaces": {
+    "uber-code/devexp-agent-marketplace": {
+      "source": {
+        "source": "directory",
+        "path": "/Users/vinay.yerra/.local/share/aifx/marketplaces/uber-code/devexp-agent-marketplace"
+      }
+    }
+  },
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Bash(gh auth:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(git clone:*)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis/VQTS-Python/.claude/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis/VQTS-Python/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis2/VQTS-Python/.claude/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis2/VQTS-Python/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis3/VQTS-Python/.claude/**)",
+      "Read(//Users/vicky/workspaces/TechnicalAnalysis3/VQTS-Python/**)",
+      "Bash(python3:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "WebSearch",
+      "WebFetch(domain:www.anthropic.com)",
+      "Bash(npm:*)",
+      "Bash(pip3 show:*)",
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(pgrep:*)",
+      "WebFetch(domain:pyquantlab.medium.com)",
+      "Bash(pip3 install:*)",
+      "mcp__playwright__browser_navigate",
+      "Read(//usr/local/**)",
+      "Read(//Users/vinay.yerra/workspaces/VinayLLDPractise/**)",
+      "Bash(brew install:*)",
+      "WebFetch(domain:netflixtechblog.com)",
+      "WebFetch(domain:medium.com)",
+      "Bash(mv:*)"
+    ]
+  }
+}
